@@ -17,6 +17,11 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
     - The DM's plan: grow the pool until it's good, then publish, and leave rumors alone after that. If rumors ever need changing after publishing, adding an id will reshuffle what players have already read, so ask first.
     - A good rumor names someone or somewhere, can be checked, and might be wrong. It must not be contradicted by any Common or Proficient lore, or the baseline. Higher tiers may contradict it; that's the point of expertise.
     - **Everything written is signal.** Players read every line of a handout as a deliberate clue, because the DM chose to write it. In-text framing like "they say it as a joke", "probably nonsense" or "nobody believes it" does *not* make players dismiss something; it draws attention. Judge each rumor by how strong a clue it is when read at face value, and choose a weaker rumor rather than a disclaimer.
+    - **Give every claim an in-world source** (a lamplighter, a link-boy, a Watchful Order apprentice). A rumor narrated without one reads as fact. If something isn't common knowledge, put it behind the source as well, including who an NPC *is*.
+    - **A rumor must earn its keep.** It needs something players can *do*: avoid it, exploit it, sell it, follow it, or worry about someone. It doesn't have to be a major hook, but the DM cuts throwaway mood rumors. Already cut for this reason: the tax rise, the Zhentarim buying friends, a noble house in debt, and the frozen ship.
+    - Several competing rumors about one subject are welcome (Laeral has three), and a character may draw more than one of them.
+    - **The vault:** the DM wants no hints beyond "there is a vault". Don't tease Aurinax. The joke, sighting and pearl-buyer ideas were all rejected.
+    - **Renaer Neverember** was deliberately removed from the lore. He appears only in the `neverember-renaer` rumor, and his identity comes only through the link-boy.
   - `characters/<slug>.json`: one per character. See `characters/_template.json`; files starting with `_` are skipped.
 - The output is `docs/<slug>.md` per character, plus `docs/index.md` and `docs/s/<secretPage>.md` hidden pages.
 - **Tiers stack:** a module at `expert` includes its Common and Proficient text too. Links inside lore are reduced to plain text, because the lore library isn't published.
@@ -36,12 +41,19 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
 - **No spoilers in `lore/` (except `lore/secrets/`), `characters/`, or `docs/`.** Never include: Manshoon or his clone, Kolat Towers, the Gralhunds' Zhentarim ties, the Stone of Golorr, the vault's location/keys/guardians, the Cassalanters' devil pact, Jarlaxle as Zardoz Zord, or chapter plot beats (e.g. the Trollskull Alley fireball).
   - **Laeral's affliction and the curse's Chult origin are secret knowledge.** They live only in `lore/secrets/` and reach only characters who qualify under `mapping.md` → "Secret knowledge". Laeral's absence is public, but public text must not link it to the Death Curse: no "since the curse" wording, and don't put her absence in `lore/death-curse.md`. Date it "the past couple of months".
     - **The one exception is `laeral-errand`**, a rumor the DM deliberately approved that ties her absence to the curse: she's said to be out *fighting* it. It's a red herring. It points north-east (Silverymoon), never south. It's marked `ALLOW-LAERAL-CURSE` in `lore/rumors.md`. Never add that flag yourself; only the DM grants it.
+  - The **Doom Raider / Zhentarim schism** drives the Xanathar rumor, but it appears only in `DM:` notes, never in public text.
   - From Tomb of Annihilation, also never include, even in secrets: the Soulmonger, Acererak, Omu, Ras Nsi, the Nine Trickster Gods, the trapped-souls mechanism, or anything else about the curse's true cause. Rumors in `lore/rumors.md` are the approved level.
 - **`data/` is committed but outside `docs/`**, so it is never on the site (it is visible to anyone browsing the repo; the DM is fine with that). Never copy backstory details into character JSON that the player hasn't agreed to make public.
 - **Repo visibility (DM's decision, 2026-11-19):** the repo may be public even though it holds spoilers: this file, `lore/secrets/`, `DM:` notes, and `roster.md`. The DM trusts the players, and gives them only the Pages link, never the repo link. Don't raise this again. What matters is that the repo can't be *stumbled upon* from the site: never add links to the repo on any page or in `docs/_config.yml` (no `gh_edit_link`, no repo in `aux_links`, no footer links).
 - **The DM edits text directly.** Before changing lore or character files, read them from disk; never regenerate them from memory. Keep the DM's wording and tier choices.
 - Write original prose; don't copy text from the book.
 - Mark lore you're unsure of with `⚠ verify`.
+
+## Working notes
+- **Before building, run `git status`.** If the DM has uncommitted edits in `lore/` or `characters/`, the build will publish them. Say so, and ask before committing output that includes them. When told to, commit their source files together with the rebuilt `docs/`.
+- **Edit `tools/build.ps1` (and any text containing backslashes) with the Edit tool, not sed or perl.** Shell escaping of `\b` twice turned it into an invisible backspace character: once in a regex, and once in the README's `tools\build.ps1` path. Keep `build.ps1` ASCII-only (Windows PowerShell 5.1).
+- `DM:` notes in `lore/rumors.md` may span several lines, but **every line must start with `DM:`**. Any line that doesn't is published as part of the rumor.
+- Open items and status live in `roster.md` → "Open items".
 
 ## Adding a character ("add character <url>")
 1. Character ID = the number in `dndbeyond.com/characters/<id>`. The character must be **Public**; a 403 means it's private.
