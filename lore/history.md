@@ -1,12 +1,6 @@
----
-title: History
-parent: Lore
-nav_order: 2
----
-
 # History
 
-## Common knowledge
+## Common
 - Waterdeep began as a trading post where northern tribes and southern ships met at the best harbor on the coast. It grew into a walled city ruled by warlords, and then by the secret Lords.
 - **Ahghairon**, a legendary wizard, is credited with founding the Lords' system. His tower still stands in the Castle Ward, and nobody can open it.
 - **Lord Dagult Neverember** was Open Lord for years and also ruled Neverwinter as its Lord Protector. He was removed a few years ago, and **Laeral Silverhand** took his place. He's still alive and still in Neverwinter.
@@ -14,7 +8,6 @@ nav_order: 2
 - Everybody has heard that Neverember **helped himself to the city treasury** before he was ousted. How much he took and where it went are the stuff of tavern arguments.
 
 ## Proficient
-*History proficiency, or a noble or sage upbringing.*
 
 - **The Lords.** The Lords have been secret since Ahghairon's time, so that no one could bribe or threaten them. The Open Lord is the exception, the public face that negotiates with foreign powers.
 - **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see. ⚠ verify how much of this your table uses.
@@ -23,7 +16,6 @@ nav_order: 2
 - **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**.
 
 ## Expert
-*Deep reading, or family memory.*
 
 - **Renaer Neverember**, Dagult's son, lives in Waterdeep. He has publicly broken with his father and is well liked among the younger nobility.
 - The city's old **thieves' guild** was destroyed by the Lords generations ago. Its fall left room for the gangs and foreign organizations that fight over the underworld today.

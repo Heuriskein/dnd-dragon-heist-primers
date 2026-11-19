@@ -1,0 +1,78 @@
+{
+  "name": "Finnian Goodbarrel",
+  "slug": "finnian-goodbarrel",
+  "player": "",
+  "ddbId": 173081138,
+  "order": 10,
+  "tagline": "Halfling rogue, with a criminal past",
+  "intro": "You've lived on the wrong side of Waterdeep's law, and it shows in how you see the city: who's watching, what's worth taking, and which doors stay unlocked.",
+  "sections": [
+    {
+      "heading": "You know the underworld",
+      "because": "Criminal background · Thieves' Cant · Expertise in Stealth and Sleight of Hand",
+      "lead": "Freelancers like you get by on knowing whose turf you're standing on. Working Xanathar turf without permission is a quick way to get hurt.",
+      "lore": [ { "module": "underworld", "tier": "expert" } ]
+    },
+    {
+      "heading": "You know the halfling side of the city",
+      "because": "Halfling ancestry · speaks Gnomish",
+      "lore": [
+        { "module": "peoples-halflings", "tier": "expert" },
+        { "module": "peoples-gnomes", "tier": "proficient" }
+      ],
+      "extra": [
+        "You know of the Shard Shunners, and they may well know of you.",
+        "Gnomish is useful when you need a lock understood, or a trinket appraised quietly."
+      ]
+    },
+    {
+      "heading": "You know some history",
+      "because": "History proficiency",
+      "lore": [
+        { "module": "history", "tier": "proficient" },
+        { "module": "nobility", "tier": "proficient" }
+      ],
+      "extra": [
+        "With the treasury strained by the curse, **Neverember's stolen gold** isn't just a tavern story anymore. People with real power would very much like to find it.",
+        "The city's old **thieves' guild** was destroyed by the Lords long ago. That's why the underworld is a free-for-all today.",
+        "You know the major houses by name and reputation. Useful when choosing whose purse not to lift."
+      ]
+    },
+    {
+      "heading": "You notice things",
+      "because": "Investigation and Perception proficiency · Alert · a thief's habits (Criminal background)",
+      "lead": "You also know the routes and shortcuts every working thief learns.",
+      "lore": [ { "module": "places", "tier": "proficient" } ],
+      "extra": [
+        "Watch patrols are thinnest where wards meet, and their timing is predictable within a ward.",
+        "Dock Ward and Trades Ward rooftops are close enough to cross on foot if you're nimble.",
+        "Many cellars connect to the sewers, and some connect to each other in ways no plan shows."
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "heading": "Languages",
+      "items": [
+        "**Thieves' Cant:** you read the sigils and hidden phrases of the trade.",
+        "**Common Sign Language:** handy for silent work.",
+        "**Halfling** and **Gnomish:** see above."
+      ]
+    }
+  ],
+  "story": [
+    "*Not written yet. Talk to your DM about where Finnian grew up, who he ran with, and who he owes. This section will grow with your backstory.*"
+  ],
+  "secretPage": "finnian-a732cf2f808b2cde",
+  "secrets": [
+    {
+      "id": "chult",
+      "because": "Investigation proficiency. You know people who know things.",
+      "extra": [
+        "The ships were quietly chartered with city coin. Some of the crews haven't come back.",
+        "Smugglers and fences have noticed buyers paying silly money for anything out of Chult: charms, idols, maps, \"cures.\"",
+        "The few people in the know keep their mouths shut, because a secret that size is worth something."
+      ]
+    }
+  ]
+}

@@ -1,18 +1,11 @@
----
-title: Guilds & Trade
-parent: Lore
-nav_order: 7
----
-
 # Guilds & Trade
 
-## Common knowledge
+## Common
 - Nearly every trade in Waterdeep has a **guild**: carpenters, butchers, coopers, launderers, innkeepers, even wizards. Guilds set prices, train apprentices and protect members.
 - The **harbor** is the city's lifeblood. Ships come from Amn, Calimshan, Baldur's Gate, Neverwinter and across the sea.
 - **The Market** in the Castle Ward is the great open-air bazaar, where you can buy almost anything legal.
 
 ## Proficient
-*Guild Artisan or Merchant background, Persuasion, or tool proficiency.*
 
 - Guilds are political. Guildmasters sit at feasts with nobles, and some are probably Masked Lords.
 - The **Fellowship of Innkeepers** licenses taverns and inns. Open a tavern without their seal and you'll find the brewers won't sell to you.

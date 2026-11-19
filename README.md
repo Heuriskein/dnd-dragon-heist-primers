@@ -3,13 +3,13 @@
 Player-facing primers for a *Waterdeep: Dragon Heist* campaign (Winter: the Zhentarim), run with the *Tomb of Annihilation* Death Curse active. Each primer holds what a character knows about Waterdeep, based on their skills, background and ancestry.
 
 ## Layout
-- `docs/` is the GitHub Pages site (Jekyll + just-the-docs). Only this folder is published.
-  - `docs/primers/`: `00-every-resident.md` plus one page per character.
-  - `docs/lore/`: reference modules, each tiered Common / Proficient / Expert.
-- `data/` holds raw D&D Beyond JSON and normalized summaries. It is committed but sits outside `docs/`, so it never appears on the site (anyone browsing the repo can still see it).
-- `mapping.md`: rules for which skills and backgrounds unlock which lore tiers.
-- `roster.md`: players, characters and status.
-- `templates/primer-template.md`: structure for new primers.
+- `lore/`: the source library. Each module is tiered Common / Proficient / Expert. `lore/baseline.md` is what every resident knows, `lore/peoples-*.md` covers each ancestry, and `lore/secrets/` holds secret knowledge.
+- `characters/<slug>.json`: per character, which modules at which tier, with a "because" line for each section, plus character-specific bullets and secrets. `_template.json` is the starting point.
+- `tools/build.ps1`: generates `docs/` from the two folders above and refuses to publish anything that fails the spoiler checks.
+- `docs/`: **generated**, and the GitHub Pages root. It holds one page per character, the index, and hidden secret pages under `docs/s/`. Don't edit it by hand.
+- `data/`: raw D&D Beyond JSON and summaries. Committed, never published.
+- `mapping.md`: which skills and backgrounds unlock which tiers, and the secret-knowledge bar.
+- `roster.md`: players, characters, status and hidden page links.
 
 ## Spoiler policy
 Primers hold public knowledge and rumor only. No villain secrets or plot reveals. `⚠ verify` marks lore to check against the book. Remove these marks before sharing links.
@@ -17,9 +17,9 @@ Primers hold public knowledge and rumor only. No villain secrets or plot reveals
 ## Adding a character
 1. The player sets the D&D Beyond character to **Public**.
 2. Pull and summarize it into `data/` (see `CLAUDE.md`).
-3. Pick lore tiers using `mapping.md`, then write the primer from the template.
-4. Update `roster.md` and the table in `docs/index.md`.
-5. Run the spoiler check.
+3. Write `characters/<slug>.json` using `mapping.md`.
+4. Run `powershell -ExecutionPolicy Bypass -File toolsuild.ps1`, then review `git diff docs/`.
+5. Update `roster.md`.
 
 ## Publishing
 GitHub repo → Settings → Pages → Deploy from branch `main`, folder `/docs`.

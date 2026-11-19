@@ -1,18 +1,11 @@
----
-title: Nobility
-parent: Lore
-nav_order: 3
----
-
 # Nobility
 
-## Common knowledge
+## Common
 - Waterdeep has around seventy-five noble families. Most made their fortunes in trade and keep villas in the Sea Ward and North Ward.
 - Nobles hold no formal power over commoners. Their power is money, land, connections and the expectation that they'll get what they want.
 - Noble youths ("the young bloods") are famous for parties, duels, and getting the Watch to look the other way.
 
 ## Proficient
-*History, Persuasion with a noble background, or service in a noble household.*
 
 Notable houses and what they're known for (⚠ verify the list against the book before play):
 

@@ -1,16 +1,8 @@
----
-title: City Basics
-parent: Lore
-nav_order: 1
----
-
 # City Basics
-{: .no_toc }
 
 Waterdeep, the City of Splendors: the largest and richest city on the Sword Coast, built between a deep natural harbor and the bulk of Mount Waterdeep.
 
-## Common knowledge
-*Anyone who has lived here for a season knows this.*
+## Common
 
 - **The wards.** The city is divided into wards, each with its own character:
   - **Castle Ward:** government, Castle Waterdeep, the Palace, and the great open-air Market.
@@ -40,7 +32,6 @@ Waterdeep, the City of Splendors: the largest and richest city on the Sword Coas
 - **Calendar.** The year runs by the Calendar of Harptos: twelve months of thirty days, with festival days between them. Midwinter is the great feast at the turn of the year. ⚠ verify the current year (DR) for your table.
 
 ## Proficient
-*You've paid attention, so you know how the city actually works.*
 
 - The Watch is organized by ward. A **civilar** commands a ward's patrols, and the officer who calls you "citizen" is usually an armar or a plain watchman. Bribing the Watch happens but is risky. Many watchmen take pride in being the incorruptible ones.
 - Magistrates can be reasoned with. Fines are far more common than prison, and a good word from a guild or noble patron can halve a sentence.
@@ -48,7 +39,6 @@ Waterdeep, the City of Splendors: the largest and richest city on the Sword Coas
 - Guild membership matters. Practicing a trade without your guild's blessing invites fines and visits from large men with hammers.
 
 ## Expert
-*You know the city as a professional knows it.*
 
 - The Masked Lords' identities are the city's favorite parlor game. Some are surely nobles and guildmasters. Some are rumored to be people nobody would suspect. Accusing anyone out loud is foolish.
 - The sewers and cellars are maintained by the Cellarers' and Plumbers' Guild. Under them lie older tunnels nobody maps, and below those, Undermountain.

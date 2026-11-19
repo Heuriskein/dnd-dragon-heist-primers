@@ -1,0 +1,22 @@
+{
+  "name": "Full Name",
+  "slug": "full-name",
+  "player": "",
+  "ddbId": 0,
+  "order": 13,
+  "tagline": "Ancestry class, one-line hook",
+  "intro": "Two sentences in second person: how this character sees the city.",
+  "sections": [
+    {
+      "heading": "You know <topic>",
+      "because": "skill / background / ancestry that justifies this (required)",
+      "lead": "Optional paragraph before the lore text.",
+      "lore": [ { "module": "underworld", "tier": "proficient" } ],
+      "extra": [ "Optional character-specific bullets after the lore text." ]
+    }
+  ],
+  "lists": [ { "heading": "Languages", "items": [ "**Language:** what it gets them in Waterdeep." ] } ],
+  "story": [ "Bullets from backstory the player is happy to make public." ],
+  "secretPage": "first-0123456789abcdef",
+  "secrets": [ { "id": "chult", "because": "Investigation proficiency.", "extra": [ "Optional." ] } ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Hadrian Liadon",
+  "slug": "hadrian-liadon",
+  "player": "",
+  "ddbId": 170601884,
+  "order": 11,
+  "tagline": "Elf fighter, gambler, and charming liar",
+  "intro": "You've talked your way into card games, caravans and jobs you had no business holding. Waterdeep is the biggest table on the Sword Coast, and you know how to read the players.",
+  "sections": [
+    {
+      "heading": "You know how to work a room",
+      "because": "Charlatan background · Persuasion, Deception and Insight",
+      "lead": "Flattery opens more doors than threats. New money and old money alike are easy marks for someone who tells them what they want to hear.",
+      "lore": [ { "module": "nobility", "tier": "proficient" } ]
+    },
+    {
+      "heading": "You know where the games are",
+      "because": "gambler by temperament · Sleight of Hand · Perception",
+      "lore": [
+        { "module": "places", "tier": "proficient" },
+        { "module": "underworld", "tier": "proficient" }
+      ],
+      "extra": [
+        "The people you cheat go to people like the **Xanathar Guild**, whose thugs run protection and debt collection across the Dock Ward.",
+        "The crowd left at the Yawning Portal is more careful than it used to be, and more willing to bet on long odds.",
+        "Fences are useful when you've won something you'd rather turn into coin."
+      ]
+    },
+    {
+      "heading": "You know caravan work and who competes for it",
+      "because": "years as a (self-appointed) caravan guard · Intimidation",
+      "lore": [
+        { "module": "guilds-trade", "tier": "proficient" },
+        { "module": "factions", "tier": "proficient" }
+      ],
+      "extra": [
+        "A writ from a known guard company gets you hired. In Waterdeep, nobody checks too carefully whose name is on it.",
+        "Unlike Cormyr, Waterdeep doesn't require adventurers to carry a **charter**. Your Cormyrean guild papers impress a few people and mean nothing legally.",
+        "**The Zhentarim** undercut honest guard companies on caravan work. You've seen their \"good manners\" up close, and you've seen what's underneath them.",
+        "**The Harpers** know you've done right by them. You're not one of them, but a Harper in Waterdeep might treat you as a friend."
+      ]
+    },
+    {
+      "heading": "You had an education whether you wanted one or not",
+      "because": "Arcana proficiency · a scholarly Evereskan upbringing",
+      "lore": [
+        { "module": "arcana", "tier": "proficient" },
+        { "module": "death-curse", "tier": "proficient" }
+      ],
+      "extra": [
+        "Charming someone with magic inside the city walls is a crime, which is one more reason you rely on the ordinary kind of charm.",
+        "With death permanent, adventurers have become cautious. That means fewer rivals for good jobs."
+      ]
+    },
+    {
+      "heading": "You know your own people",
+      "because": "Elf of Evereska · follower of Erevan Ilesere",
+      "lore": [
+        { "module": "peoples-elves", "tier": "expert" },
+        { "module": "religion", "tier": "common" }
+      ],
+      "extra": [
+        "Waterdeep tolerates almost any faith that obeys the law. Nobody here will mind your god, though a few may watch their purses."
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "heading": "Languages",
+      "items": [
+        "**Elvish:** opens doors among Waterdeep's elves, and lets you talk freely in front of most humans.",
+        "**Draconic:** the old language of magic and dragons. Wizards' texts and some old inscriptions use it.",
+        "**Common.**"
+      ]
+    }
+  ],
+  "story": [
+    "You're a long way from Evereska. Your family would want you back. Elves are patient, and Waterdeep is a city where Evereskan visitors are not unusual.",
+    "You've annoyed gamblers and officials in other towns. Waterdeep is big enough to hide in, and busy enough that old faces turn up.",
+    "*Talk to your DM about anything else from your past you want to come up in play.*"
+  ],
+  "secrets": []
+}

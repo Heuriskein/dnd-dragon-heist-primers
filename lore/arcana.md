@@ -1,18 +1,11 @@
----
-title: Arcana
-parent: Lore
-nav_order: 5
----
-
 # Arcana
 
-## Common knowledge
+## Common
 - **Blackstaff Tower** in the Castle Ward is home of the **Blackstaff**, the city's archmage and protector. The current Blackstaff is **Vajra Safahr**, a young woman who took the title a few years ago.
 - **Undermountain** is the vast dungeon beneath Mount Waterdeep, reached most famously through the well in the **Yawning Portal** tavern. Adventurers go down. Some come back.
 - Anyone who wants to practise magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
 
 ## Proficient
-*Arcana proficiency, a sage background, or an arcane class.*
 
 - **The Watchful Order** licenses, polices and supports spellcasters. It also staffs the city's magical defenses and answers fire and magical emergencies. Members get access to shared libraries and spell supplies.
 - **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf. ⚠ verify: Force Grey's public profile in your game.

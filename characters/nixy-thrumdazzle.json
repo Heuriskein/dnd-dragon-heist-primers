@@ -1,0 +1,77 @@
+{
+  "name": "Nixy Thrumdazzle",
+  "slug": "nixy-thrumdazzle",
+  "player": "",
+  "ddbId": 173081217,
+  "order": 12,
+  "tagline": "Gnome bard and scholar",
+  "intro": "You've read the histories, studied the arts arcane, and played the taverns. Waterdeep is a city of stories, and you know more of them than most.",
+  "sections": [
+    {
+      "heading": "You know magic and its institutions",
+      "because": "Sage background · Arcana proficiency · Magic Initiate (Wizard)",
+      "lore": [ { "module": "arcana", "tier": "expert" } ],
+      "extra": [
+        "As a dabbler in wizardry, you'd be welcome in the Watchful Order, if you can pay the dues."
+      ]
+    },
+    {
+      "heading": "You know the Death Curse as a scholar",
+      "because": "Arcana proficiency",
+      "lore": [ { "module": "death-curse", "tier": "proficient" } ],
+      "extra": [
+        "Every scholar in the city has a theory, and you've heard most of them. None has been proven."
+      ]
+    },
+    {
+      "heading": "You know the city's history",
+      "because": "Sage background · History proficiency",
+      "lore": [
+        { "module": "history", "tier": "proficient" },
+        { "module": "nobility", "tier": "proficient" }
+      ]
+    },
+    {
+      "heading": "You know the stages and the audiences",
+      "because": "Performance · Investigation",
+      "lore": [ { "module": "places", "tier": "proficient" } ],
+      "extra": [
+        "The songs at the Yawning Portal have turned sadder since the Death Curse.",
+        "Noble winter balls hire musicians. That's good money, and a good place to overhear things.",
+        "Every performer in the city has heard a ghost story about the empty tavern in Trollskull Alley."
+      ]
+    },
+    {
+      "heading": "You know your own people",
+      "because": "Gnome ancestry",
+      "lore": [ { "module": "peoples-gnomes", "tier": "expert" } ],
+      "extra": [
+        "A gnomish bard will rarely be short of an audience, or a bed."
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "heading": "Tools and languages",
+      "items": [
+        "**Calligrapher's Supplies:** the scribes and copyists of the city's temples, wizards and guilds always need a fine hand.",
+        "**Shawm, bagpipes and zulkoon:** loud, unusual and memorable. A zulkoon in particular is a rare sight on the Sword Coast. ⚠ verify the zulkoon's origin if it matters.",
+        "**Gnomish, Common Sign Language, Common.**"
+      ]
+    }
+  ],
+  "story": [
+    "*Not written yet. Talk to your DM about where Nixy studied, what they performed, and why they came to Waterdeep. This section will grow with your backstory.*"
+  ],
+  "secretPage": "nixy-34bfdf06af15a237",
+  "secrets": [
+    {
+      "id": "laeral",
+      "because": "History and Arcana proficiency. You know both the old histories and how the curse works."
+    },
+    {
+      "id": "chult",
+      "because": "Investigation proficiency. You're one of the people who know things."
+    }
+  ]
+}

@@ -1,19 +1,12 @@
----
-title: Underworld
-parent: Lore
-nav_order: 6
----
-
 # The Underworld
 
-## Common knowledge
+## Common
 - Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
 - The **Xanathar Guild** is the best-known criminal organization. Its boss, "the Xanathar," is said to be a **beholder** living somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward.
 - The **Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders with a bad reputation. In Waterdeep they currently pose as respectable sellers of protection and guard work.
 - The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 
 ## Proficient
-*Criminal or Urchin background, Investigation, Insight, or street experience.*
 
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
 - **The Xanathar Guild** is everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
@@ -23,7 +16,6 @@ nav_order: 6
 - The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
 
 ## Expert
-*Expertise in a criminal skill, or a criminal past in this city.*
 
 - **Thieves' cant in Waterdeep:** chalk sigils on doorframes and gutters mark safe houses, Watch-heavy streets, generous marks and doors with dogs. A small circle with a line through it means "Xanathar territory, keep out."
 - **Skullport**, the "Port of Shadow," is a lawless town deep beneath the city, reached through the sewers and tunnels. It's said to trade in anything, including people. Getting there is easy; getting back with your money is not.

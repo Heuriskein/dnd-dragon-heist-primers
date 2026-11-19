@@ -1,5 +1,5 @@
 ---
-title: For Nixy Only
+title: "For Nixy Only"
 nav_exclude: true
 search_exclude: true
 sitemap: false
@@ -26,10 +26,11 @@ You also know what saying so publicly would do to the city, and that the people 
 ## Where the curse comes from
 *Because: Investigation proficiency. You're one of the people who know things.*
 
-Follow the money and the expeditions, and the trail leads one way: **Chult**, the jungle peninsula far to the south, beyond Amn and Calimshan.
+The temples and wizards are still arguing about causes. Follow the money and the expeditions, though, and the trail leads one way: **Chult**, the jungle peninsula far to the south, beyond Amn and Calimshan.
 
 - The city's quiet expeditions have sailed for **Port Nyanzaru**, Chult's great harbor.
 - Sages who've studied the curse keep circling back to that region.
 - Few people know this, and fewer talk about it.
 
 You don't know *what* in Chult is causing it. Only that the answer lies there.
+

@@ -1,12 +1,6 @@
----
-title: Religion
-parent: Lore
-nav_order: 4
----
-
 # Religion
 
-## Common knowledge
+## Common
 - Waterdeep is tolerant. Almost any god may be worshipped, as long as its followers obey the law. Temples to evil gods are not welcome to operate openly.
 - **The Plinth** is a simple open shrine to all gods, where anyone may pray.
 - Two gods everyone in the city calls on:
@@ -14,7 +8,6 @@ nav_order: 4
   - **Waukeen**, goddess of trade, for merchants.
 
 ## Proficient
-*Religion proficiency, Acolyte background, or a divine class.*
 
 Major temples, mostly in the Sea Ward and Castle Ward (⚠ verify locations):
 
