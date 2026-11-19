@@ -1,0 +1,7 @@
+title: Dragon Heist Primers
+description: What your character knows about Waterdeep
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+aux_links: {}
