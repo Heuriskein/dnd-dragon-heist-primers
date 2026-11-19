@@ -3,8 +3,12 @@
 #   powershell -ExecutionPolicy Bypass -File tools\build.ps1
 #
 # Everything in docs/ except _config.yml is deleted and regenerated.
-# The build stops before writing anything if a spoiler check fails.
+# The build stops before writing anything if a spoiler check fails, or if
+# docs/ was edited by hand since the last build (see .build-manifest.json).
+# -Force overwrites hand edits; move them into lore/ or characters/ first.
 # Keep this file ASCII-only (Windows PowerShell 5.1 reads BOM-less files as ANSI).
+
+param([switch]$Force)
 
 $ErrorActionPreference = 'Stop'
 $root   = Split-Path -Parent $PSScriptRoot
@@ -286,15 +290,53 @@ if ($errors.Count -gt 0) {
     throw "Build stopped: $($errors.Count) check(s) failed. docs/ was not changed."
 }
 
+# --- hand-edit guard -----------------------------------------------------
+# The manifest holds a hash of every file the last build wrote. Hashes ignore
+# line endings, because git may convert LF/CRLF when it touches files.
+$manifestPath = Join-Path $root '.build-manifest.json'
+$sha = [Security.Cryptography.SHA256]::Create()
+function Get-TextHash([string]$text) {
+    $bytes = $utf8.GetBytes(($text -replace "`r`n", "`n"))
+    -join ($sha.ComputeHash($bytes) | ForEach-Object { $_.ToString('x2') })
+}
+function Get-DocsFiles {
+    Get-ChildItem $docs -Recurse -File -Force | Where-Object { $_.Name -ne '_config.yml' } | ForEach-Object {
+        ($_.FullName.Substring($docs.Length + 1)) -replace '\\', '/'
+    }
+}
+if (Test-Path $manifestPath) {
+    $manifest = @{}
+    ((Read-Utf8 $manifestPath) | ConvertFrom-Json).PSObject.Properties | ForEach-Object { $manifest[$_.Name] = $_.Value }
+    $handEdits = @()
+    foreach ($rel in @(Get-DocsFiles)) {
+        if (-not $manifest.ContainsKey($rel)) { $handEdits += "docs/$rel (not written by the build)"; continue }
+        $now = Get-TextHash (Read-Utf8 (Join-Path $docs ($rel -replace '/', '\')))
+        if ($now -ne $manifest[$rel]) { $handEdits += "docs/$rel (edited since the last build)" }
+    }
+    if ($handEdits.Count -gt 0) {
+        $handEdits | ForEach-Object { Write-Host "HAND EDIT $_" -ForegroundColor Red }
+        if (-not $Force) {
+            throw "Build stopped: docs/ was edited by hand. Move the changes into lore/ or characters/ (see 'git diff docs/'), then rerun with -Force. docs/ was not changed."
+        }
+        Write-Host '-Force: overwriting hand edits.' -ForegroundColor Yellow
+    }
+} else {
+    Write-Host 'No .build-manifest.json yet: skipping the hand-edit check this once.' -ForegroundColor Yellow
+}
+
 # --- write ---------------------------------------------------------------
 Get-ChildItem $docs -Force | Where-Object { $_.Name -ne '_config.yml' } | Remove-Item -Recurse -Force
+$newManifest = [ordered]@{}
 foreach ($p in $pages.Keys) {
     $dest = Join-Path $docs ($p -replace '/', '\')
     $dir = Split-Path -Parent $dest
     if (-not (Test-Path $dir)) { New-Item -ItemType Directory -Path $dir | Out-Null }
-    [IO.File]::WriteAllText($dest, $pages[$p] + $nl, $utf8)
+    $content = $pages[$p] + $nl
+    [IO.File]::WriteAllText($dest, $content, $utf8)
+    $newManifest[$p] = Get-TextHash $content
     Write-Host "wrote docs/$p"
 }
+[IO.File]::WriteAllText($manifestPath, ($newManifest | ConvertTo-Json) + $nl, $utf8)
 Write-Host "OK: $($chars.Count) character page(s), $(@($pages.Keys | Where-Object { $_.StartsWith('s/') }).Count) hidden page(s)."
 if ($warnFlags -gt 0) { Write-Host "Note: $warnFlags verify flag(s) still on public pages. Resolve before sharing links." -ForegroundColor Yellow }
 if ($draftUse.Count -gt 0) {

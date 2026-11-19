@@ -27,6 +27,9 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
 
   It also reports how many `⚠` flags are left on public pages, and which DRAFT rumors are on pages.
 - After building, review `git diff docs/` before committing: it is exactly what will be published.
+- **Hand-edit guard:** `.build-manifest.json` (committed, repo root) records a hash of every file the last build wrote, ignoring line endings. If anything in `docs/` was edited or added by hand since then, the build lists the files and stops without changing anything.
+  - The DM sometimes edits generated pages directly. When that happens, use `git diff docs/` to see the edit, port it into the right source (`lore/`, `lore/secrets/`, or `characters/*.json`), rebuild with `-Force`, and confirm the regenerated page matches the edit.
+  - Never use `-Force` without porting first.
 
 ## Hard rules
 - **No spoilers in `lore/` (except `lore/secrets/`), `characters/`, or `docs/`.** Never include: Manshoon or his clone, Kolat Towers, the Gralhunds' Zhentarim ties, the Stone of Golorr, the vault's location/keys/guardians, the Cassalanters' devil pact, Jarlaxle as Zardoz Zord, or chapter plot beats (e.g. the Trollskull Alley fireball).
