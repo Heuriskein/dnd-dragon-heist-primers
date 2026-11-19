@@ -10,7 +10,8 @@ Welcome to Waterdeep, the City of Splendors. Each character has one page holding
 Everything here is what people *believe*. Rumors can be wrong, and the city has secrets.
 
 ## Characters
-| Character | |
+
+| Character | Who they are |
 |---|---|
 | [Finnian Goodbarrel](finnian-goodbarrel.html) | Halfling rogue, with a criminal past |
 | [Hadrian Liadon](hadrian-liadon.html) | Elf fighter, gambler, and charming liar |

@@ -262,8 +262,8 @@ $indexLines = @(
     '# Waterdeep: What You Know', '',
     'Welcome to Waterdeep, the City of Splendors. Each character has one page holding what they know about the city when the campaign begins: what every resident knows, plus what their skills, background and ancestry have taught them.', '',
     'Everything here is what people *believe*. Rumors can be wrong, and the city has secrets.', '',
-    '## Characters',
-    '| Character | |',
+    '## Characters', '',
+    '| Character | Who they are |',
     '|---|---|'
 ) + $rows + @('', '*More characters are on their way.*', '')
 $pages['index.md'] = ($indexLines -join $nl)
