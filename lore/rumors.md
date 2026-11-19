@@ -32,6 +32,7 @@ DM: Players can avoid the shakedowns, use a disguise (Finnian's kit) to draw thu
 DM: Connects to temple-draught: the Zhent supply trade is part of what the Xanathar Guild is reacting to.
 
 ## neverember-renaer
-**Renaer Neverember**, the ousted Open Lord's son, stayed in Waterdeep when his father left for Neverwinter, and says he's done with his father and everything he did. A link-boy who lights him home most nights tells it differently: the young lord has a whole new crowd of friends buying his drinks, not all of them nobles, and the talk is always about his father's gold. The boy is certain Renaer knows where it's hidden. Why else would he have stayed?
+A link-boy who lights a young noble home most nights says the man is **Renaer Neverember**, son of the ousted Open Lord. According to the boy, Renaer stayed behind when his father left for Neverwinter and swears he's done with him. But he has a whole new crowd of friends buying his drinks, not all of them nobles, and the talk is always about his father's gold. The boy is certain Renaer knows where it's hidden. Why else would he have stayed?
 DM: DRAFT. Sets up Chapter 1: everyone assumes Renaer knows where the gold is. He doesn't. Don't name the tavern he drinks at; that would foreshadow a Chapter 1 beat.
-DM: "He says he's done with his father" is deliberate. Nobility lore (Proficient) says House Neverember wants Dagult restored, so it's a claim, not a fact. The "new friends" are factions sizing him up.
+DM: Renaer's identity is NOT common knowledge. Everything about him, including who he is, comes through the link-boy. Keep it that way in any rewrite.
+DM: "Swears he's done with him" is deliberate. Nobility lore (Proficient) says House Neverember wants Dagult restored, so it's a claim, not a fact. The "new friends" are factions sizing him up.
