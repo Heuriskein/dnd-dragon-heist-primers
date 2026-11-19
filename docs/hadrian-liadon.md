@@ -69,7 +69,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 | Gralhund | A minor, ambitious house in the North Ward |
 | Ilzimmer | Land, shipping, quiet influence |
 | Margaster | Pottery and ceramics; known in the Trades Ward |
-| Neverember | The ousted Open Lord's family. Renaer is the son in the city |
+| Neverember | The ousted Open Lord's family |
 | Rosznar | Wine. Once disgraced, quietly rebuilding |
 | Thann | Vineyards and land outside the walls |
 | Wands | A family of wizards; respected and a little feared |

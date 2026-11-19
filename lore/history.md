@@ -17,6 +17,5 @@
 
 ## Expert
 
-- **Renaer Neverember**, Dagult's son, lives in Waterdeep. He has publicly broken with his father and is well liked among the younger nobility.
 - The city's old **thieves' guild** was destroyed by the Lords generations ago. Its fall left room for the gangs and foreign organizations that fight over the underworld today.
 - Waterdeep has survived wars, sieges and plagues, and the families who lived through them still hold grudges. Ask a noble about the **Guildwars** and you'll get a long answer. ⚠ verify which historic conflicts you want named.
