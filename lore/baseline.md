@@ -22,6 +22,7 @@
 - Nearly every trade has a guild. Guilds matter.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
 - **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr.
+- Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
 - The **Xanathar Guild** is a criminal gang. People say its boss is a beholder.
