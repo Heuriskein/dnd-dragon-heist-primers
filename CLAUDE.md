@@ -11,6 +11,7 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
 - **`data/` is committed but outside `docs/`**, so it is never on the site (it is visible to anyone browsing the repo; the DM is fine with that). Never copy backstory details into `docs/` that the player hasn't agreed to make public.
 - Write original prose; don't copy text from the book.
 - Mark lore you're unsure of with `⚠ verify`.
+- **Commit after every change the DM asks for**, one commit per nitpick. The DM rewinds edits out of the conversation to save context, and a rewind rolls the files back too; git history is how the work survives. If a file looks unexpectedly reverted, check `git log` and `git diff HEAD` before redoing anything.
 
 ## Adding a character ("add character <url>")
 1. Character ID = the number in `dndbeyond.com/characters/<id>`. The character must be **Public**; a 403 means it's private.
