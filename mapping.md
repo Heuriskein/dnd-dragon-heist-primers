@@ -65,7 +65,7 @@ These are DM-gated. Only characters who meet the bar learn them, and their text 
 
 | Secret | Who can know it | What they know |
 |---|---|---|
-| **Laeral is afflicted** | High History **and** high Arcana or Religion | The Death Curse wastes the once-raised. Laeral is centuries old and, by the old histories, has died and returned before. She began vanishing from public life about a month after the curse struck, which is about how long the wasting would take to show in someone that strong. Put together, she is almost certainly wasting. A deduction, not proof. |
+| **Laeral is afflicted** | High History **and** high Arcana or Religion | The Death Curse wastes the once-raised. Laeral is centuries old, and the old histories say she has "returned" (whether that means from death is a leap). She began vanishing from public life about a month after the curse struck, which is about how long the wasting would take to show in someone that strong. Their best guess is that she is wasting, but the page presents it as a theory with reasons to doubt it, and points at the competing public rumors. |
 | **The curse comes from Chult** | High Investigation ("people who know things") | Expeditions, sages and certain buyers are all looking toward Chult, far to the south. The curse's source is there. Nothing more specific: no Soulmonger, no Omu, no Acererak. |
 
 ### How the bar was set (decided 2026-11-19, apply to new characters)
