@@ -18,3 +18,5 @@ Everything here is what people *believe*. Rumors can be wrong, and the city has 
 | Character | Player |
 |---|---|
 | [Finnian Goodbarrel](primers/finnian-goodbarrel.html) | |
+| [Hadrian Liadon](primers/hadrian-liadon.html) | |
+| [Nixy Thrumdazzle](primers/nixy-thrumdazzle.html) | |
