@@ -160,8 +160,8 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 ## Rumors you've heard
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
-- Someone is supposedly close to finding Neverember's hidden fortune.
 - The Xanathar Guild is jumpy. Its thugs are out in daylight in the Dock and Trades Wards, stopping anyone in black or wearing a winged-snake badge, and there's coin for anyone who can tell them where the Zhentarim are moving.
+- The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
 
 ## Tools and languages
 - **Calligrapher's Supplies:** the scribes and copyists of the city's temples, wizards and guilds always need a fine hand.

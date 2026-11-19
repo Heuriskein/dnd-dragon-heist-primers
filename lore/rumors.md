@@ -31,6 +31,7 @@ DM: approved. Cause: the Doom Raider schism has stirred up Zhentarim activity, a
 DM: Players can avoid the shakedowns, use a disguise (Finnian's kit) to draw thugs off, or sell information to one side or both.
 DM: Connects to temple-draught: the Zhent supply trade is part of what the Xanathar Guild is reacting to.
 
-## neverember-close
-Someone is supposedly close to finding Neverember's hidden fortune.
-DM: kept from the old list. Make it specific (who, where they've been seen) without pointing at the real vault.
+## neverember-renaer
+**Renaer Neverember**, the ousted Open Lord's son, stayed in Waterdeep when his father left for Neverwinter. He says he's done with his father and everything he did. The talk in the taverns is that he knows exactly where his father hid the gold, and that's why he stayed. He's never short of new friends to buy his drinks these days, and not all of them are nobles.
+DM: DRAFT. Sets up Chapter 1: everyone assumes Renaer knows where the gold is. He doesn't. Don't name the tavern he drinks at; that would foreshadow a Chapter 1 beat.
+DM: "He says he's done with his father" is deliberate. Nobility lore (Proficient) says House Neverember wants Dagult restored, so it's a claim, not a fact. The "new friends" are factions sizing him up.
