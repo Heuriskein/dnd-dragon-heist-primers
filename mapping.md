@@ -53,3 +53,19 @@ How a character's sheet decides which lore tiers they get. A primer section must
 - **Arcane class:** arcana (proficient).
 - **Faction:** factions, insider notes come from the DM in play.
 - **Languages:** Thieves' Cant → underworld cant sigils. Racial languages → that community.
+
+## Secret knowledge (never on public pages)
+These are DM-gated. Only characters who meet the bar learn them, and they never appear in `docs/lore/` or `00-every-resident.md`.
+
+| Secret | Who can know it | What they know |
+|---|---|---|
+| **Laeral is afflicted** | High History **and** high Arcana or Religion | The Death Curse wastes the once-raised. Laeral is centuries old and, by the old histories, has died and returned before. She has vanished from public life since the curse began. Put together, she is almost certainly wasting. A deduction, not proof. |
+| **The curse comes from Chult** | High Investigation ("people who know things") | Expeditions, sages and certain buyers are all looking toward Chult, far to the south. The curse's source is there. Nothing more specific: no Soulmonger, no Omu, no Acererak. |
+
+### How the bar was set (decided 2026-11-19, apply to new characters)
+- **"High" means proficient.** The DM said secrets go to characters with "high" History plus Arcana or Religion (Laeral), or "high" Investigation (Chult), and then chose **proficiency** as the bar. The other options were a +5 modifier, expertise only, or case by case.
+- **Why proficiency:** at level 1, nobody has expertise in these skills, and a modifier bar would hinge on ability scores rather than training. Proficiency reflects what the character has actually studied or done.
+- **How to apply it:** check the character's proficiency and expertise list (`modifiers` of type `proficiency`/`expertise`) for the exact skills. Proficiency from any source counts: class, background, race or feat. Ability scores and modifiers don't matter. Laeral needs **History AND (Arcana OR Religion)**. Chult needs **Investigation**.
+- **Results so far:** Nixy gets both (History, Arcana, Investigation). Finnian gets Chult (Investigation; History alone isn't enough for Laeral). Hadrian gets neither (Arcana without History, and no Investigation).
+- **Delivery:** a hidden page per qualifying character at `docs/s/<first-name>-<16 random hex>.md`. It isn't linked from the site and is excluded from nav, search and sitemap. The DM sends the link privately. Anyone browsing the repo could still find it, and the DM accepted that. See step 6 in `CLAUDE.md`.
+- If a character gains a qualifying proficiency later (e.g. through a feat at a level-up), they qualify then. Re-check on level-ups if the DM asks.

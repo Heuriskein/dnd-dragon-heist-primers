@@ -15,7 +15,7 @@ About three months ago, something went wrong with death itself.
 - **The wasting.** Anyone who was ever brought back from the dead is now slowly wasting away. Day by day they grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
 - **Nobody knows why.** Every temple, wizard and street-corner prophet has a theory. None of them has a cure.
 - **The city has paid dearly.** Waterdeep has spent huge sums hunting for answers: hiring priests and sages, buying rare magic, funding expeditions. Many of the city's adventurers took that coin and left, or died trying. Many of the rest left on their own.
-- **The Open Lord is rarely seen.** Laeral Silverhand used to be very public. These past months she has seldom appeared, and when she has, people say she looked unwell. The city feels the absence.
+- **The Open Lord is rarely seen.** Laeral Silverhand used to be very public. These past months she has seldom appeared, and nobody official will say why. The city feels the absence.
 
 ## Proficient
 *Religion, Medicine, or Arcana proficiency, or a divine or arcane class.*
@@ -28,10 +28,8 @@ About three months ago, something went wrong with death itself.
 ## Expert
 *Expertise, or close ties to a temple, the Watchful Order, or the government.*
 
-- Laeral Silverhand has walked the world for centuries, and stories say she has returned from death before. If that's true, the wasting would have touched her too. Nobody in power will confirm or deny it. ⚠ DM: decide how public this is.
 - With the Open Lord withdrawn, the Masked Lords are said to be quarrelling over money and priorities, and decisions are slow. Guilds and noble houses have noticed and are pushing their own interests.
 - The city treasury, already short after Neverember's thefts, is stretched thinner. That makes the story of **Neverember's hidden gold** more than a tavern tale to a lot of people.
-- Some sages say the answer lies far to the south. ⚠ DM: decide whether the source of the curse is rumored in Waterdeep.
 
 ## What it means on the street
 - **Adventurers are scarce**, so jobs that used to go to famous names now go to anyone willing. That means opportunity for new faces.

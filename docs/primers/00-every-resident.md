@@ -40,7 +40,7 @@ About three months ago, **the dead stopped coming back.** Resurrection magic fai
 
 - The city has poured money into finding a cure, so the treasury is strained.
 - Many of Waterdeep's adventurers have left, or died chasing answers. The ones who remain are fewer and more careful.
-- **Laeral Silverhand** has rarely been seen in public since, and people whisper that she's ill. The city feels unsteady without her.
+- **Laeral Silverhand** has rarely been seen in public since, and nobody will say why. The city feels unsteady without her.
 
 See [The Death Curse](../lore/death-curse.html).
 
