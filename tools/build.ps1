@@ -78,6 +78,42 @@ function Get-Secret([string]$id) {
     @{ Title = $title; Body = $body }
 }
 
+# Rumor pool: lore/rumors.md, one "## <id>" section per rumor. "DM:" lines are stripped.
+function Get-RumorPool {
+    $pool = [ordered]@{}
+    $script:rumorDrafts = @()
+    $current = $null
+    $buf = New-Object System.Collections.Generic.List[string]
+    foreach ($line in (Read-Utf8 (Join-Path $root 'lore\rumors.md')) -split $nl) {
+        if ($line -match '^## ([a-z0-9-]+)\s*$') {
+            if ($current) { $pool[$current] = ($buf -join ' ').Trim() }
+            $current = $Matches[1]
+            if ($pool.Contains($current)) { throw "lore\rumors.md: duplicate rumor id '$current'" }
+            $buf.Clear()
+        } elseif ($line -match '^## ') {
+            throw "lore\rumors.md: rumor ids must be lowercase-with-dashes: '$line'"
+        } elseif ($current -and $line -match '^DM:.*\bDRAFT\b') {
+            $script:rumorDrafts += $current
+        } elseif ($current -and $line.Trim() -and $line -notmatch '^DM:') {
+            $buf.Add($line.Trim())
+        }
+    }
+    if ($current) { $pool[$current] = ($buf -join ' ').Trim() }
+    foreach ($id in @($pool.Keys)) { if (-not $pool[$id]) { throw "lore\rumors.md: rumor '$id' has no text" } }
+    $pool
+}
+
+# 1 rumor for everyone, +1 with Investigation proficiency, +1 more with expertise.
+function Get-RumorCount([string]$investigation) {
+    switch ("$investigation".ToLower()) {
+        ''           { 1 }
+        'none'       { 1 }
+        'proficient' { 2 }
+        'expert'     { 3 }
+        default      { throw "Bad 'investigation' value '$investigation'. Use none, proficient or expert." }
+    }
+}
+
 function Format-Bullets($items) {
     (@($items) | ForEach-Object { "- $_" }) -join $nl
 }
@@ -97,6 +133,8 @@ function Format-FrontMatter([System.Collections.IDictionary]$fm) {
 # --- build pages in memory -----------------------------------------------
 $pages = [ordered]@{}   # relative path -> content
 $chars = @()
+$rumorPool = Get-RumorPool
+$draftUse = @()
 
 $charFiles = Get-ChildItem (Join-Path $root 'characters') -Filter '*.json' | Where-Object { $_.Name -notlike '_*' }
 foreach ($f in $charFiles) {
@@ -127,6 +165,34 @@ foreach ($f in $charFiles) {
         }
         if ($s.extra) { $out += (Format-Bullets $s.extra); $out += '' }
     }
+
+    # Rumors: a fixed random draw recorded in the character file.
+    $want = Get-RumorCount $c.investigation
+    $have = @($c.rumors | Where-Object { $_ })
+    foreach ($id in $have) {
+        if (-not $rumorPool.Contains($id)) { throw "$($f.Name): unknown rumor '$id' (not in lore\rumors.md)" }
+    }
+    if (@($have | Select-Object -Unique).Count -ne $have.Count) { throw "$($f.Name): duplicate rumor ids in 'rumors'" }
+    if ($have.Count -ne $want) {
+        if ($have.Count -gt $want) {
+            throw "$($f.Name): lists $($have.Count) rumors but should hear $want (investigation: '$($c.investigation)'). Remove some."
+        }
+        $unheard = @($rumorPool.Keys | Where-Object { $have -notcontains $_ })
+        $need = $want - $have.Count
+        if ($unheard.Count -lt $need) { throw "$($f.Name): needs $need more rumor(s) but the pool only has $($unheard.Count) unheard. Add rumors to lore\rumors.md." }
+        $draw = @($have) + @($unheard | Get-Random -Count $need)
+        $json = '"rumors": [ ' + ((@($draw) | ForEach-Object { '"' + $_ + '"' }) -join ', ') + ' ]'
+        throw "$($f.Name): should hear $want rumor(s) but lists $($have.Count). Random draw to paste in: $json"
+    }
+    $because = 'everyone hears something in a city this size'
+    if ($want -ge 2) { $because += " $([char]0x00B7) Investigation " + $(if ($want -ge 3) { 'expertise' } else { 'proficiency' }) }
+    $out += "## Rumors you've heard"
+    $out += "*Because: $because*"
+    $out += ''
+    $out += (Format-Bullets @($have | ForEach-Object { $rumorPool[$_] }))
+    $draftUse += @($have | Where-Object { $script:rumorDrafts -contains $_ } | ForEach-Object { "$($c.slug): $_" })
+    $out += ''
+
     foreach ($l in $c.lists) {
         $out += "## $($l.heading)"
         $out += (Format-Bullets $l.items)
@@ -218,3 +284,7 @@ foreach ($p in $pages.Keys) {
 }
 Write-Host "OK: $($chars.Count) character page(s), $(@($pages.Keys | Where-Object { $_.StartsWith('s/') }).Count) hidden page(s)."
 if ($warnFlags -gt 0) { Write-Host "Note: $warnFlags verify flag(s) still on public pages. Resolve before sharing links." -ForegroundColor Yellow }
+if ($draftUse.Count -gt 0) {
+    Write-Host "Note: $($draftUse.Count) DRAFT rumor(s) on pages. Approve them (remove DRAFT from the DM: line) before sharing links:" -ForegroundColor Yellow
+    $draftUse | ForEach-Object { Write-Host "  $_" -ForegroundColor Yellow }
+}

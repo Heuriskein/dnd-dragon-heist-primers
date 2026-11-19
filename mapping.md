@@ -20,7 +20,7 @@ How a character's sheet decides which lore tiers they get. A primer section must
 | History | history, nobility |
 | Religion | religion, death-curse |
 | Nature | winter-season (proficient), peoples-* (rural folk) |
-| Investigation | rumors (proficient; expert with expertise), places, underworld |
+| Investigation | places, underworld; rumor count: 2 with proficiency, 3 with expertise (everyone hears 1) |
 | Insight | underworld, factions, nobility (reading people) |
 | Perception | places |
 | Survival | winter-season (proficient), places (Southern Ward caravans) |

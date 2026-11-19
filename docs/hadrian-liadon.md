@@ -190,6 +190,11 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 
 - Waterdeep tolerates almost any faith that obeys the law. Nobody here will mind your god, though a few may watch their purses.
 
+## Rumors you've heard
+*Because: everyone hears something in a city this size*
+
+- Someone is supposedly close to finding Neverember's hidden fortune.
+
 ## Languages
 - **Elvish:** opens doors among Waterdeep's elves, and lets you talk freely in front of most humans.
 - **Draconic:** the old language of magic and dragons. Wizards' texts and some old inscriptions use it.

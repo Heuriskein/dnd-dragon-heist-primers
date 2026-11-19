@@ -4,6 +4,7 @@
   "player": "",
   "ddbId": 0,
   "order": 13,
+  "investigation": "none",
   "tagline": "Ancestry class, one-line hook",
   "intro": "Two sentences in second person: how this character sees the city.",
   "sections": [

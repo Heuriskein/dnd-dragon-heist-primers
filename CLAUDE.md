@@ -11,6 +11,10 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
   - `lore/baseline.md`: "What every resident knows". Its Common tier opens every character page.
   - `lore/peoples-*.md`: one module per ancestry.
   - `lore/secrets/<id>.md`: secret-tier text (`# Title` + body). An optional `<!-- extras -->` line marks where a character's extra bullets go.
+  - `lore/rumors.md`: **not tiered.** It's a pool of rumors, each a `## <id>` section (lowercase-with-dashes). Lines starting `DM:` are notes and are stripped from pages. A `DM:` line containing `DRAFT` marks a rumor the DM hasn't approved yet.
+    - Each character hears a fixed random set, listed as `"rumors": [...]` in their JSON. The count is set by `"investigation"`: `none` hears 1, `proficient` 2, `expert` 3.
+    - If the list is short, the build stops and prints a random draw of unheard rumors to paste in. Never reshuffle a published list; only add to it.
+    - A good rumor names someone or somewhere, can be checked, and might be wrong. It must not be contradicted by any Common or Proficient lore, or the baseline. Higher tiers may contradict it; that's the point of expertise.
   - `characters/<slug>.json`: one per character. See `characters/_template.json`; files starting with `_` are skipped.
 - The output is `docs/<slug>.md` per character, plus `docs/index.md` and `docs/s/<secretPage>.md` hidden pages.
 - **Tiers stack:** a module at `expert` includes its Common and Proficient text too. Links inside lore are reduced to plain text, because the lore library isn't published.
@@ -20,7 +24,7 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
   - a public line ties Laeral or the Open Lord to the curse;
   - a page links to `s/`.
 
-  It also reports how many `⚠` flags are left on public pages.
+  It also reports how many `⚠` flags are left on public pages, and which DRAFT rumors are on pages.
 - After building, review `git diff docs/` before committing: it is exactly what will be published.
 
 ## Hard rules
@@ -44,6 +48,7 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
 
    Write `data/<slug>.md` in the same format as `data/finnian-goodbarrel.md`.
 4. Choose modules and tiers with `mapping.md`. Write `characters/<slug>.json` from `characters/_template.json`. Every section needs a `because`. Put character-specific angles in `lead` and `extra`, not in shared lore.
-5. Secret knowledge: apply `mapping.md` → "Secret knowledge" (the bar is **proficiency**). If the character qualifies, add `secrets` and a `secretPage` of `<first-name>-<16 random hex>`. The build suggests one if it's missing.
-6. If the character needs lore that doesn't exist yet (e.g. a new ancestry or faction), add a tiered module to `lore/`.
-7. Run the build, review `git diff docs/`, and update `roster.md` (status, plus the hidden page path for the DM to send privately).
+5. Set `"investigation"` (none, proficient or expert) and leave out `"rumors"`. The build will print a random draw to paste in.
+6. Secret knowledge: apply `mapping.md` → "Secret knowledge" (the bar is **proficiency**). If the character qualifies, add `secrets` and a `secretPage` of `<first-name>-<16 random hex>`. The build suggests one if it's missing.
+7. If the character needs lore that doesn't exist yet (e.g. a new ancestry or faction), add a tiered module to `lore/`.
+8. Run the build, review `git diff docs/`, and update `roster.md` (status, plus the hidden page path for the DM to send privately).

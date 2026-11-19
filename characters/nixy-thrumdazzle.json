@@ -4,6 +4,8 @@
   "player": "",
   "ddbId": 173081217,
   "order": 12,
+  "investigation": "proficient",
+  "rumors": [ "temple-draught", "neverember-close" ],
   "tagline": "Gnome bard and scholar",
   "intro": "You've read the histories, studied the arts arcane, and played the taverns. Waterdeep is a city of stories, and you know more of them than most.",
   "sections": [
@@ -40,11 +42,6 @@
         "Noble winter balls hire musicians. That's good money, and a good place to overhear things.",
         "Every performer in the city has heard a ghost story about the empty tavern in Trollskull Alley."
       ]
-    },
-    {
-      "heading": "What people are saying",
-      "because": "Investigation proficiency",
-      "lore": [ { "module": "rumors", "tier": "proficient" } ]
     },
     {
       "heading": "You know your own people",

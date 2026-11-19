@@ -4,6 +4,8 @@
   "player": "",
   "ddbId": 173081138,
   "order": 10,
+  "investigation": "proficient",
+  "rumors": [ "xanathar-daylight", "temple-draught" ],
   "tagline": "Halfling rogue, with a criminal past",
   "intro": "You've lived on the wrong side of Waterdeep's law, and it shows in how you see the city: who's watching, what's worth taking, and which doors stay unlocked.",
   "sections": [
@@ -48,11 +50,6 @@
         "Dock Ward and Trades Ward rooftops are close enough to cross on foot if you're nimble.",
         "Many cellars connect to the sewers, and some connect to each other in ways no plan shows."
       ]
-    },
-    {
-      "heading": "What people are saying",
-      "because": "Investigation proficiency",
-      "lore": [ { "module": "rumors", "tier": "proficient" } ]
     }
   ],
   "lists": [
