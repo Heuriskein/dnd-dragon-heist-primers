@@ -11,7 +11,7 @@
 
 - **Trollskull Alley**, in the North Ward, is a quiet lane of small shops and houses. An old tavern there has stood empty for years, and locals say it's haunted.
 - **The Dock Ward** has many dockside taverns where you can hear news from every port in the world, and some where you can buy a stranger's silence.
-- **The Market** opens at dawn, and its best stalls are gone by noon. Pickpockets favor the crush at midday.
+- **The Market** opens at dawn, and its best stalls are sold out by noon. The crush peaks in mid-morning, when buyers race for what's left, and that's when pickpockets work it.
 - **The Southern Ward** caravan yards are full of outlanders, and rooms there are cheap.
 - **Gambling** is legal and everywhere: dice in Dock Ward taverns, wagers on the games at the Field of Triumph, and private card salons in the Sea Ward where the stakes are high and the guests are noble. Cheating is not legal, and the people you cheat rarely bother with magistrates.
 - **Performers** make a living in the taverns and festhalls. The best stages pay in coin. The rest pay in meals and tips, and sometimes in the notice of a noble patron.

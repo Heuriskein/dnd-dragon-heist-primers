@@ -23,8 +23,10 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 
 - Etiquette: address a noble as "Lord" or "Lady" plus the house name until invited otherwise. Don't touch them uninvited. Never call a debt in public.
 - Most houses have private guards and a steward who handles "small matters." Approach the steward first if you want something.
+- **House Neverember** has never accepted Dagult's removal. Among themselves, and sometimes not only among themselves, the family talks about seeing him restored as Open Lord.
 
 ## Expert
 - Noble feuds tend to run through proxies: hired adventurers, guild disputes and gossip spread by servants.
 - Servants know everything. A footman's goodwill is often worth more than a lord's.
 - New money and old money don't mix well. Recently ennobled families overspend to prove themselves, and old families sneer.
+- The Neverembers are doing more than talking. They're quietly courting other houses and guildmasters, hosting the right dinners, and reminding anyone who'll listen how much got built and paid for under Dagult. With the Open Lord seldom seen these past couple of months, they find more willing listeners than they used to.
