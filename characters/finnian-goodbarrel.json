@@ -48,6 +48,11 @@
         "Dock Ward and Trades Ward rooftops are close enough to cross on foot if you're nimble.",
         "Many cellars connect to the sewers, and some connect to each other in ways no plan shows."
       ]
+    },
+    {
+      "heading": "What people are saying",
+      "because": "Investigation proficiency",
+      "lore": [ { "module": "rumors", "tier": "proficient" } ]
     }
   ],
   "lists": [

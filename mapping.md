@@ -19,11 +19,11 @@ How a character's sheet decides which lore tiers they get. A primer section must
 | Arcana | arcana, death-curse |
 | History | history, nobility |
 | Religion | religion, death-curse |
-| Nature | winter-season, peoples-* (rural folk), winter-season |
-| Investigation | places, underworld |
+| Nature | winter-season (proficient), peoples-* (rural folk) |
+| Investigation | rumors (proficient; expert with expertise), places, underworld |
 | Insight | underworld, factions, nobility (reading people) |
 | Perception | places |
-| Survival | winter-season, places (Southern Ward caravans) |
+| Survival | winter-season (proficient), places (Southern Ward caravans) |
 | Medicine | religion (temple healing), death-curse |
 | Performance | places (taverns), nobility (patrons) |
 | Persuasion / Deception | nobility, guilds-trade |
@@ -39,11 +39,11 @@ How a character's sheet decides which lore tiers they get. A primer section must
 | Charlatan | underworld (proficient), nobility (proficient) |
 | Criminal | underworld (expert) |
 | Entertainer | places (expert), nobility (proficient) |
-| Folk Hero | winter-season, peoples-* (their own) |
+| Folk Hero | winter-season (proficient), peoples-* (their own) |
 | Guild Artisan / Guild Merchant | guilds-trade (expert) |
 | Hermit | religion or arcana (proficient) |
 | Noble / Waterdhavian Noble | nobility (expert), history (proficient) |
-| Outlander | winter-season, places (Southern Ward) |
+| Outlander | winter-season (proficient), places (Southern Ward) |
 | Sage | arcana or history (expert) |
 | Sailor | places (Dock Ward, expert), underworld (smuggling, proficient) |
 | Soldier | city-basics (Guard/Watch, expert) |

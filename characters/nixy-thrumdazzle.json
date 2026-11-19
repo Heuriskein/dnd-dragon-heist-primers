@@ -42,6 +42,11 @@
       ]
     },
     {
+      "heading": "What people are saying",
+      "because": "Investigation proficiency",
+      "lore": [ { "module": "rumors", "tier": "proficient" } ]
+    },
+    {
       "heading": "You know your own people",
       "because": "Gnome ancestry",
       "lore": [ { "module": "peoples-gnomes", "tier": "expert" } ],
