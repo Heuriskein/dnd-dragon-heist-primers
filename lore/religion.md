@@ -23,7 +23,7 @@ Major temples, mostly in the Sea Ward and Castle Ward (⚠ verify locations):
 | Temple of Beauty | Sune | Art, love and lavish ceremony |
 
 - Since the [Death Curse](death-curse.html), no temple can raise the dead, and every temple is besieged by the frightened and the wasting. Tempers among the clergy are short.
-- Healing is for sale at most temples. The price drops sharply for the faithful, and for those who do the temple a favor.
+- Healing is for sale at most temples. The price drops sharply for the faithful, and for those who do the temple a favor. With so few adventurers left in the city, temples are more willing than usual to help those who remain. A capable sword arm is worth a discount when the clergy need something done.
 - Chapels and shrines to small gods are scattered through the Dock Ward: sea gods like Umberlee get offerings from nervous sailors.
 
 ## Expert
