@@ -160,8 +160,8 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 ## Rumors you've heard
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
-- The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
-- The Open Lord didn't step back from public life; she was taken. After a shouting match in council, one of the Masked Lords lured her into an **anti-magic field**, and she's been held ever since somewhere beneath Castle Waterdeep while the Lords argue over what to do with her.
+- Someone is supposedly close to finding Neverember's hidden fortune.
+- The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
 
 ## Tools and languages
 - **Calligrapher's Supplies:** the scribes and copyists of the city's temples, wizards and guilds always need a fine hand.

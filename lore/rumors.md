@@ -16,10 +16,6 @@ DM: approved. ALLOW-LAERAL-CURSE: the DM chose to let this rumor tie her absence
 The Open Lord didn't step back from public life; she was taken. After a shouting match in council, one of the Masked Lords lured her into an **anti-magic field**, and she's been held ever since somewhere beneath Castle Waterdeep while the Lords argue over what to do with her.
 DM: approved. One of three competing Laeral rumors.
 
-## frozen-ship
-The *Saltwhistle*, a caravel out of Baldur's Gate, has been frozen in off the end of the Dock Ward piers since the first hard freeze. Her crew won't come ashore, and they've paid the harbor master twice the going rate to be left alone.
-DM: DRAFT, needs approval. Decide what she's carrying, and why nobody comes ashore.
-
 ## temple-draught
 The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
 DM: DRAFT, needs approval. Real, a scam, or a priest's private side business?

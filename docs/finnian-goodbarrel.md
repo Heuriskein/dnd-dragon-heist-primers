@@ -160,8 +160,8 @@ You also know the routes and shortcuts every working thief learns.
 ## Rumors you've heard
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
-- A lamplighter on the Castle Ward rounds swears he's seen the Open Lord's plain black carriage cross to **Blackstaff Tower** after midnight, three nights running, and come back before dawn.
-- The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
+- The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
+- A Watchful Order apprentice swears the Open Lord rode out the North Gate before dawn a couple of months back, cloaked and with only two companions, bound for **Silverymoon** to ask her sisters' help against the Death Curse. The Lords are keeping it quiet so the city doesn't panic.
 
 ## Languages
 - **Thieves' Cant:** you read the sigils and hidden phrases of the trade.
