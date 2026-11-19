@@ -161,7 +161,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
 - Someone is supposedly close to finding Neverember's hidden fortune.
-- The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
+- The Xanathar Guild is jumpy. Its thugs are out in daylight in the Dock and Trades Wards, stopping anyone in black or wearing a winged-snake badge, and there's coin for anyone who can tell them where the Zhentarim are moving.
 
 ## Tools and languages
 - **Calligrapher's Supplies:** the scribes and copyists of the city's temples, wizards and guilds always need a fine hand.

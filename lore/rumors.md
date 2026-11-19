@@ -26,8 +26,10 @@ DM: Best as a Chapter 2 thread. If the party runs Trollskull Manor, the priest m
 DM: Not used: the Open Lord's household buying vials (it would move the Laeral reveal earlier).
 
 ## xanathar-daylight
-The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
-DM: kept from the old list. Make it specific when you know what it's foreshadowing.
+The Xanathar Guild is jumpy. Its thugs are out in daylight in the Dock and Trades Wards, stopping anyone in black or wearing a winged-snake badge, and there's coin for anyone who can tell them where the Zhentarim are moving.
+DM: approved. Cause: the Doom Raider schism has stirred up Zhentarim activity, and the Xanathar Guild has noticed. Public text never mentions the schism.
+DM: Players can avoid the shakedowns, use a disguise (Finnian's kit) to draw thugs off, or sell information to one side or both.
+DM: Connects to temple-draught: the Zhent supply trade is part of what the Xanathar Guild is reacting to.
 
 ## neverember-close
 Someone is supposedly close to finding Neverember's hidden fortune.
