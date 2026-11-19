@@ -1,6 +1,8 @@
 ---
 title: "Finnian Goodbarrel"
-nav_order: 10
+nav_exclude: true
+search_exclude: true
+sitemap: false
 ---
 
 # Finnian Goodbarrel

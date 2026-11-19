@@ -6,7 +6,7 @@ Player-facing primers for a *Waterdeep: Dragon Heist* campaign (Winter: the Zhen
 - `lore/`: the source library. Each module is tiered Common / Proficient / Expert, except `lore/rumors.md`, a pool the build draws a random set from for each character (adding or removing a rumor redraws everyone). `lore/baseline.md` is what every resident knows, `lore/peoples-*.md` covers each ancestry, and `lore/secrets/` holds secret knowledge.
 - `characters/<slug>.json`: per character, which modules at which tier, with a "because" line for each section, plus character-specific bullets and secrets. `_template.json` is the starting point.
 - `tools/build.ps1`: generates `docs/` from the two folders above and refuses to publish anything that fails the spoiler checks.
-- `docs/`: **generated**, and the GitHub Pages root. It holds one page per character, the index, and hidden secret pages under `docs/s/`. Don't edit it by hand.
+- `docs/`: **generated**, and the GitHub Pages root. It holds one unlisted page per character and hidden secret pages under `docs/s/`. There's no index; each player gets their own link. Don't edit it by hand.
 - `data/`: raw D&D Beyond JSON and summaries. Committed, never published.
 - `mapping.md`: which skills and backgrounds unlock which tiers, and the secret-knowledge bar.
 - `roster.md`: players, characters, status and hidden page links.

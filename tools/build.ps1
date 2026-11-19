@@ -170,7 +170,8 @@ foreach ($f in $charFiles) {
     }
     $chars += $c
 
-    $fm = [ordered]@{ title = $c.name; nav_order = [int]$c.order }
+    # Unlisted: no index page, no sidebar entry, no search, so players don't wander into each other's pages.
+    $fm = [ordered]@{ title = $c.name; nav_exclude = $true; search_exclude = $true; sitemap = $false }
     $out = @(
         (Format-FrontMatter $fm), '',
         "# $($c.name)", '{: .no_toc }', "*$($c.tagline)*", '',
@@ -254,19 +255,7 @@ foreach ($f in $charFiles) {
     }
 }
 
-# Home page
-$chars = @($chars | Sort-Object { [int]$_.order })
-$rows = @($chars | ForEach-Object { "| [$($_.name)]($($_.slug).html) | $($_.tagline) |" })
-$indexLines = @(
-    (Format-FrontMatter ([ordered]@{ title = 'Home'; nav_order = 1 })), '',
-    '# Waterdeep: What You Know', '',
-    'Welcome to Waterdeep, the City of Splendors. Each character has one page holding what they know about the city when the campaign begins: what every resident knows, plus what their skills, background and ancestry have taught them.', '',
-    'Everything here is what people *believe*. Rumors can be wrong, and the city has secrets.', '',
-    '## Characters', '',
-    '| Character | Who they are |',
-    '|---|---|'
-) + $rows + @('', '*More characters are on their way.*', '')
-$pages['index.md'] = ($indexLines -join $nl)
+# No home page: each player gets their own link (see roster.md).
 
 # --- checks (nothing is written if any fail) -----------------------------
 $errors = @()

@@ -1,6 +1,8 @@
 ---
 title: "Hadrian Liadon"
-nav_order: 11
+nav_exclude: true
+search_exclude: true
+sitemap: false
 ---
 
 # Hadrian Liadon

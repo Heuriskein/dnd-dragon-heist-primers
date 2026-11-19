@@ -1,6 +1,8 @@
 ---
 title: "Nixy Thrumdazzle"
-nav_order: 12
+nav_exclude: true
+search_exclude: true
+sitemap: false
 ---
 
 # Nixy Thrumdazzle

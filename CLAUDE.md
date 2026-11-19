@@ -23,7 +23,7 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
     - **The vault:** the DM wants no hints beyond "there is a vault". Don't tease Aurinax. The joke, sighting and pearl-buyer ideas were all rejected.
     - **Renaer Neverember** was deliberately removed from the lore. He appears only in the `neverember-renaer` rumor, and his identity comes only through the link-boy.
   - `characters/<slug>.json`: one per character. See `characters/_template.json`; files starting with `_` are skipped.
-- The output is `docs/<slug>.md` per character, plus `docs/index.md` and `docs/s/<secretPage>.md` hidden pages.
+- The output is `docs/<slug>.md` per character and `docs/s/<secretPage>.md` hidden pages. **There is no index page, on purpose** (DM's call: players shouldn't wander into each other's pages). Every page is unlisted (`nav_exclude`, `search_exclude`, `sitemap: false`) and search is off in `docs/_config.yml`. Each player gets only their own link from `roster.md`. Don't add an index, nav or cross-links.
 - **Tiers stack:** a module at `expert` includes its Common and Proficient text too. Links inside lore are reduced to plain text, because the lore library isn't published.
 - The build refuses to write anything if:
   - a banned spoiler appears anywhere;
