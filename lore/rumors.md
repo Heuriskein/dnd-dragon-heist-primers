@@ -6,15 +6,15 @@ Lines starting with `DM:` are notes for the DM. The build strips them, so they n
 
 ## laeral-carriage
 A lamplighter on the Castle Ward rounds swears he's seen the Open Lord's plain black carriage cross to **Blackstaff Tower** after midnight, three nights running, and come back before dawn.
-DM: DRAFT, needs approval. Decide whether it's true, and what she'd be doing there.
+DM: approved. Decide whether it's true, and what she'd be doing there. One of three competing Laeral rumors.
 
 ## laeral-errand
-Laeral Silverhand has left the city on some secret errand.
-DM: restored from the original list. One of three competing Laeral rumors (with laeral-carriage and laeral-quarrel).
+A Watchful Order apprentice swears the Open Lord rode out the North Gate before dawn a couple of months back, cloaked and with only two companions, bound for **Silverymoon** to ask her sisters' help against the Death Curse. The Lords are keeping it quiet so the city doesn't panic.
+DM: DRAFT. ALLOW-LAERAL-CURSE: the DM chose to let this rumor tie her absence to the curse. It's a red herring (she's fighting it, not suffering it). Points north-east on purpose, away from Chult.
 
 ## laeral-quarrel
-Laeral Silverhand is quarrelling with the Masked Lords.
-DM: restored from the original list. One of three competing Laeral rumors (with laeral-carriage and laeral-errand).
+The Open Lord didn't step back from public life; she was taken. After a shouting match in council, one of the Masked Lords lured her into an **anti-magic field**, and she's been held ever since somewhere beneath Castle Waterdeep while the Lords argue over what to do with her.
+DM: DRAFT. One of three competing Laeral rumors.
 
 ## frozen-ship
 The *Saltwhistle*, a caravel out of Baldur's Gate, has been frozen in off the end of the Dock Ward piers since the first hard freeze. Her crew won't come ashore, and they've paid the harbor master twice the going rate to be left alone.

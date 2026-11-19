@@ -82,6 +82,7 @@ function Get-Secret([string]$id) {
 function Get-RumorPool {
     $pool = [ordered]@{}
     $script:rumorDrafts = @()
+    $script:rumorAllowLaeralCurse = @()
     $current = $null
     $buf = New-Object System.Collections.Generic.List[string]
     foreach ($line in (Read-Utf8 (Join-Path $root 'lore\rumors.md')) -split $nl) {
@@ -92,9 +93,11 @@ function Get-RumorPool {
             $buf.Clear()
         } elseif ($line -match '^## ') {
             throw "lore\rumors.md: rumor ids must be lowercase-with-dashes: '$line'"
-        } elseif ($current -and $line -match '^DM:.*\bDRAFT\b') {
-            $script:rumorDrafts += $current
-        } elseif ($current -and $line.Trim() -and $line -notmatch '^DM:') {
+        } elseif ($current -and $line -match '^DM:') {
+            if ($line -match '\bDRAFT\b') { $script:rumorDrafts += $current }
+            # DM-approved exception: this rumor may tie Laeral to the curse.
+            if ($line -match '\bALLOW-LAERAL-CURSE\b') { $script:rumorAllowLaeralCurse += $current }
+        } elseif ($current -and $line.Trim()) {
             $buf.Add($line.Trim())
         }
     }
@@ -270,7 +273,10 @@ foreach ($p in $pages.Keys) {
     foreach ($m in [regex]::Matches($text, $banned, 'IgnoreCase')) { $errors += "${p}: banned spoiler '$($m.Value)'" }
     if (-not $isSecret) {
         foreach ($m in [regex]::Matches($text, $secret, 'IgnoreCase')) { $errors += "${p}: secret-tier text '$($m.Value)' on a public page" }
-        foreach ($m in [regex]::Matches($text, $laeralCurse, 'IgnoreCase')) { $errors += "${p}: ties Laeral to the curse: '$($m.Value)'" }
+        # Rumors the DM marked ALLOW-LAERAL-CURSE are exempt from this one check.
+        $laeralText = $text
+        foreach ($id in $script:rumorAllowLaeralCurse) { $laeralText = $laeralText.Replace($rumorPool[$id], '') }
+        foreach ($m in [regex]::Matches($laeralText, $laeralCurse, 'IgnoreCase')) { $errors += "${p}: ties Laeral to the curse: '$($m.Value)'" }
         if ($text -match '\]\((\.\./)?s/') { $errors += "${p}: links to a hidden page" }
         $warnFlags += ([regex]::Matches($text, [string][char]0x26A0)).Count
     }

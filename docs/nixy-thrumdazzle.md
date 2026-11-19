@@ -161,7 +161,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
 - The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
-- Laeral Silverhand is quarrelling with the Masked Lords.
+- The Open Lord didn't step back from public life; she was taken. After a shouting match in council, one of the Masked Lords lured her into an **anti-magic field**, and she's been held ever since somewhere beneath Castle Waterdeep while the Lords argue over what to do with her.
 
 ## Tools and languages
 - **Calligrapher's Supplies:** the scribes and copyists of the city's temples, wizards and guilds always need a fine hand.
