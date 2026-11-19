@@ -16,6 +16,7 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
     - The draw is seeded from the character's slug and the pool's ids. Rebuilds are stable, but adding or removing a rumor id redraws everyone. Rewording a rumor doesn't.
     - The DM's plan: grow the pool until it's good, then publish, and leave rumors alone after that. If rumors ever need changing after publishing, adding an id will reshuffle what players have already read, so ask first.
     - A good rumor names someone or somewhere, can be checked, and might be wrong. It must not be contradicted by any Common or Proficient lore, or the baseline. Higher tiers may contradict it; that's the point of expertise.
+    - **Everything written is signal.** Players read every line of a handout as a deliberate clue, because the DM chose to write it. In-text framing like "they say it as a joke", "probably nonsense" or "nobody believes it" does *not* make players dismiss something; it draws attention. Judge each rumor by how strong a clue it is when read at face value, and choose a weaker rumor rather than a disclaimer.
   - `characters/<slug>.json`: one per character. See `characters/_template.json`; files starting with `_` are skipped.
 - The output is `docs/<slug>.md` per character, plus `docs/index.md` and `docs/s/<secretPage>.md` hidden pages.
 - **Tiers stack:** a module at `expert` includes its Common and Proficient text too. Links inside lore are reduced to plain text, because the lore library isn't published.
