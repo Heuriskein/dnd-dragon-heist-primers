@@ -14,7 +14,7 @@ Status: `pending` → `pulled` → `primer drafted` → `published`
 - **Hadrian:** the silver starburst token from the vanished dice player is a hook, and it's left out of his public primer. So are his cheating and his forged writ: other players will learn about those in play. His parents in Evereska may come looking.
 - **Finnian, Nixy:** no backstory yet; their primers are built from mechanics only.
 
-Site: https://heuriskein.github.io/dnd-dragon-heist-primers/ (no index page; the root 404s on purpose)
+Site: https://heuriskein.github.io/dnd-dragon-heist-primers/ (home page is a welcome only, with no character list)
 
 ## Character pages
 Send each player only their own link. Nothing on the site lists or links them.
