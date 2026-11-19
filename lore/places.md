@@ -1,7 +1,7 @@
 # Places
 
 ## Common
-- **The Yawning Portal** in the Castle Ward is a famous tavern built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the [Death Curse](death-curse.html), it's noticeably quieter: fewer adventurers, and more toasts to empty chairs.
+- **The Yawning Portal** in the Castle Ward is a famous tavern built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the [Death Curse](death-curse.html), it's noticeably quieter: fewer adventurers, more empty chairs and quieter toasts.
 - **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and seat of government.
 - **The Field of Triumph** in the Sea Ward hosts games, contests, executions and festivals.
 - **The City of the Dead** is a walled cemetery. It's lovely by day, and nobody sane goes in after the gates close at sunset.
