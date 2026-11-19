@@ -22,14 +22,15 @@ Nobody has said it out loud, and you can't prove it. But you've been turning the
 Then again:
 
 - The histories use the word "returned" several times, but whether that implies death is a leap.
-- A month is a long gap. Plenty of things could take the Open Lord out of public view, and the city is full of other explanations. You've heard the rumors too.
+- A month is a long gap. Most people start wasting within days, and Laeral was active far beyond that.
+- Plenty of things could take the Open Lord out of public view, and the city is full of other explanations. You've heard the rumors too.
 
 Your best guess is that **Laeral is wasting**. It would explain the silence, and the fortune the city has spent hunting a cure. But it's a guess built on old stories and timing, not on anything you've seen.
 
 If you're right, saying so publicly could shake the city, and whoever is keeping her condition quiet won't thank you. If you're wrong, you've slandered the Open Lord.
 
 ## Where the curse comes from
-*Because: Investigation proficiency. You're one of the people who know things.*
+*Because: Investigation proficiency. You know things.*
 
 The temples and wizards are still arguing about causes. Follow the money and the expeditions, though, and the trail leads one way: **Chult**, the jungle peninsula far to the south, beyond Amn and Calimshan.
 
