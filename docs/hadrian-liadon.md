@@ -193,7 +193,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 ## Rumors you've heard
 *Because: everyone hears something in a city this size*
 
-- The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
+- The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
 
 ## Languages
 - **Elvish:** opens doors among Waterdeep's elves, and lets you talk freely in front of most humans.

@@ -160,8 +160,8 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 ## Rumors you've heard
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
-- The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
-- The *Saltwhistle*, a caravel out of Baldur's Gate, has been frozen in off the end of the Dock Ward piers since the first hard freeze. Her crew won't come ashore, and they've paid the harbor master twice the going rate to be left alone.
+- The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
+- Laeral Silverhand is quarrelling with the Masked Lords.
 
 ## Tools and languages
 - **Calligrapher's Supplies:** the scribes and copyists of the city's temples, wizards and guilds always need a fine hand.

@@ -8,6 +8,14 @@ Lines starting with `DM:` are notes for the DM. The build strips them, so they n
 A lamplighter on the Castle Ward rounds swears he's seen the Open Lord's plain black carriage cross to **Blackstaff Tower** after midnight, three nights running, and come back before dawn.
 DM: DRAFT, needs approval. Decide whether it's true, and what she'd be doing there.
 
+## laeral-errand
+Laeral Silverhand has left the city on some secret errand.
+DM: restored from the original list. One of three competing Laeral rumors (with laeral-carriage and laeral-quarrel).
+
+## laeral-quarrel
+Laeral Silverhand is quarrelling with the Masked Lords.
+DM: restored from the original list. One of three competing Laeral rumors (with laeral-carriage and laeral-errand).
+
 ## frozen-ship
 The *Saltwhistle*, a caravel out of Baldur's Gate, has been frozen in off the end of the Dock Ward piers since the first hard freeze. Her crew won't come ashore, and they've paid the harbor master twice the going rate to be left alone.
 DM: DRAFT, needs approval. Decide what she's carrying, and why nobody comes ashore.

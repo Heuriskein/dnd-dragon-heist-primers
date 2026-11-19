@@ -160,7 +160,7 @@ You also know the routes and shortcuts every working thief learns.
 ## Rumors you've heard
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
-- The *Saltwhistle*, a caravel out of Baldur's Gate, has been frozen in off the end of the Dock Ward piers since the first hard freeze. Her crew won't come ashore, and they've paid the harbor master twice the going rate to be left alone.
+- A lamplighter on the Castle Ward rounds swears he's seen the Open Lord's plain black carriage cross to **Blackstaff Tower** after midnight, three nights running, and come back before dawn.
 - The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
 
 ## Languages
