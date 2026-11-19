@@ -35,6 +35,7 @@ You've lived on the wrong side of Waterdeep's law, and it shows in how you see t
 - Nearly every trade has a guild. Guilds matter.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
 - **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr.
+- Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
 - The **Xanathar Guild** is a criminal gang. People say its boss is a beholder.
@@ -57,13 +58,14 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 Freelancers like you get by on knowing whose turf you're standing on. Working Xanathar turf without permission is a quick way to get hurt.
 
 - Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
-- The **Xanathar Guild** is the best-known criminal organization. Its boss, "the Xanathar," is said to be a **beholder** living somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward.
-- The **Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders with a bad reputation. In Waterdeep they currently pose as respectable sellers of protection and guard work.
-- The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
+- The **Xanathar Guild** is the best-known criminal gang. People say its boss is a beholder.
+- The **Zhentarim** are mercenaries with a bad history, currently trying to look respectable.
+- The Dock Ward after dark is dangerous.
 
+- **The Xanathar Guild's** boss, "the Xanathar," is said to live somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward. They're everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
+- **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
+- The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
-- **The Xanathar Guild** is everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
-- **The Zhentarim** are trying to look legitimate, and the Xanathar Guild sees them as a threat. Street talk says the two sides have been bloodying each other quietly.
 - The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing. ⚠ verify whether you want them in your city.
 - **Kenku** run messages and small jobs for whoever pays. They mimic voices, which makes them excellent spies and terrible witnesses.
 - The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
@@ -127,6 +129,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 
 - Etiquette: address a noble as "Lord" or "Lady" plus the house name until invited otherwise. Don't touch them uninvited. Never call a debt in public.
 - Most houses have private guards and a steward who handles "small matters." Approach the steward first if you want something.
+- **House Neverember** has never accepted Dagult's removal. Among themselves, and sometimes not only among themselves, the family talks about seeing him restored as Open Lord.
 
 - With the treasury strained by the curse, **Neverember's stolen gold** isn't just a tavern story anymore. People with real power would very much like to find it.
 - The city's old **thieves' guild** was destroyed by the Lords long ago. That's why the underworld is a free-for-all today.
@@ -145,7 +148,7 @@ You also know the routes and shortcuts every working thief learns.
 
 - **Trollskull Alley**, in the North Ward, is a quiet lane of small shops and houses. An old tavern there has stood empty for years, and locals say it's haunted.
 - **The Dock Ward** has many dockside taverns where you can hear news from every port in the world, and some where you can buy a stranger's silence.
-- **The Market** opens at dawn, and its best stalls are gone by noon. Pickpockets favor the crush at midday.
+- **The Market** opens at dawn, and its best stalls are sold out by noon. The crush peaks in mid-morning, when buyers race for what's left, and that's when pickpockets work it.
 - **The Southern Ward** caravan yards are full of outlanders, and rooms there are cheap.
 - **Gambling** is legal and everywhere: dice in Dock Ward taverns, wagers on the games at the Field of Triumph, and private card salons in the Sea Ward where the stakes are high and the guests are noble. Cheating is not legal, and the people you cheat rarely bother with magistrates.
 - **Performers** make a living in the taverns and festhalls. The best stages pay in coin. The rest pay in meals and tips, and sometimes in the notice of a noble patron.

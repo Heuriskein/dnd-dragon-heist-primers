@@ -35,6 +35,7 @@ You've read the histories, studied the arts arcane, and played the taverns. Wate
 - Nearly every trade has a guild. Guilds matter.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
 - **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr.
+- Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
 - The **Xanathar Guild** is a criminal gang. People say its boss is a beholder.
@@ -122,6 +123,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 
 - Etiquette: address a noble as "Lord" or "Lady" plus the house name until invited otherwise. Don't touch them uninvited. Never call a debt in public.
 - Most houses have private guards and a steward who handles "small matters." Approach the steward first if you want something.
+- **House Neverember** has never accepted Dagult's removal. Among themselves, and sometimes not only among themselves, the family talks about seeing him restored as Open Lord.
 
 ## You know the stages and the audiences
 *Because: Performance · Investigation*
@@ -134,7 +136,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 
 - **Trollskull Alley**, in the North Ward, is a quiet lane of small shops and houses. An old tavern there has stood empty for years, and locals say it's haunted.
 - **The Dock Ward** has many dockside taverns where you can hear news from every port in the world, and some where you can buy a stranger's silence.
-- **The Market** opens at dawn, and its best stalls are gone by noon. Pickpockets favor the crush at midday.
+- **The Market** opens at dawn, and its best stalls are sold out by noon. The crush peaks in mid-morning, when buyers race for what's left, and that's when pickpockets work it.
 - **The Southern Ward** caravan yards are full of outlanders, and rooms there are cheap.
 - **Gambling** is legal and everywhere: dice in Dock Ward taverns, wagers on the games at the Field of Triumph, and private card salons in the Sea Ward where the stakes are high and the guests are noble. Cheating is not legal, and the people you cheat rarely bother with magistrates.
 - **Performers** make a living in the taverns and festhalls. The best stages pay in coin. The rest pay in meals and tips, and sometimes in the notice of a noble patron.

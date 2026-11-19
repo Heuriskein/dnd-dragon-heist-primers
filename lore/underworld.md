@@ -2,15 +2,16 @@
 
 ## Common
 - Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
-- The **Xanathar Guild** is the best-known criminal organization. Its boss, "the Xanathar," is said to be a **beholder** living somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward.
-- The **Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders with a bad reputation. In Waterdeep they currently pose as respectable sellers of protection and guard work.
-- The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
+- The **Xanathar Guild** is the best-known criminal gang. People say its boss is a beholder.
+- The **Zhentarim** are mercenaries with a bad history, currently trying to look respectable.
+- The Dock Ward after dark is dangerous.
 
 ## Proficient
 
+- **The Xanathar Guild's** boss, "the Xanathar," is said to live somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward. They're everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
+- **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
+- The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
-- **The Xanathar Guild** is everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
-- **The Zhentarim** are trying to look legitimate, and the Xanathar Guild sees them as a threat. Street talk says the two sides have been bloodying each other quietly.
 - The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing. ⚠ verify whether you want them in your city.
 - **Kenku** run messages and small jobs for whoever pays. They mimic voices, which makes them excellent spies and terrible witnesses.
 - The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
