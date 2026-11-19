@@ -18,7 +18,7 @@ Primers hold public knowledge and rumor only. No villain secrets or plot reveals
 1. The player sets the D&D Beyond character to **Public**.
 2. Pull and summarize it into `data/` (see `CLAUDE.md`).
 3. Write `characters/<slug>.json` using `mapping.md`.
-4. Run `powershell -ExecutionPolicy Bypass -File toolsuild.ps1`, then review `git diff docs/`.
+4. Run `powershell -ExecutionPolicy Bypass -File tools\build.ps1`, then review `git diff docs/`. Don't edit `docs/` by hand: the build refuses to overwrite hand edits until they're moved into the source files (then rerun with `-Force`).
 5. Update `roster.md`.
 
 ## Publishing
