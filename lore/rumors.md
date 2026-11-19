@@ -18,7 +18,12 @@ DM: approved. One of three competing Laeral rumors.
 
 ## temple-draught
 The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
-DM: DRAFT, needs approval. Real, a scam, or a priest's private side business?
+DM: approved. A priest's private side business, and largely a red herring. One priest of Sune sells it under the temple's name without the temple's blessing.
+DM: The draught is a strong restorative with a mild euphoric. The wasting *feels* slower for a few days but isn't. Buyers swear by it because the first doses help.
+DM: Tie-in 1, supply: the rare key ingredient is smuggled in by the Zhentarim, selling to desperate nobles under their respectable face. Shows how Manshoon's people make money and friends. Gives xanathar-daylight a landing: the Xanathar Guild has noticed the Zhents moving into a lucrative trade.
+DM: Tie-in 2, client ledger: the priest keeps a ledger of buyers. House Gralhund is on it (a once-raised servant or relative who is wasting). Investigating gives the party a legitimate reason to visit Gralhund Villa well before Chapters 3-4, so they know the household and layout when it matters.
+DM: Best as a Chapter 2 thread. If the party runs Trollskull Manor, the priest may offer to sell through their tavern, or a buyer's servant talks over drinks.
+DM: Not used: the Open Lord's household buying vials (it would move the Laeral reveal earlier).
 
 ## xanathar-daylight
 The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
