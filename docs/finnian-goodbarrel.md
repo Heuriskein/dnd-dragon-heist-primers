@@ -160,8 +160,8 @@ You also know the routes and shortcuts every working thief learns.
 ## Rumors you've heard
 *Because: everyone hears something in a city this size · Investigation proficiency*
 
+- The *Saltwhistle*, a caravel out of Baldur's Gate, has been frozen in off the end of the Dock Ward piers since the first hard freeze. Her crew won't come ashore, and they've paid the harbor master twice the going rate to be left alone.
 - The Xanathar Guild is jumpier than usual. Its thugs have been seen in daylight in places they don't normally go.
-- The **Temple of Beauty** is said to have a draught that slows the wasting. A vial costs a harbor moon, and the priests of Sune only sell it to families with a name.
 
 ## Languages
 - **Thieves' Cant:** you read the sigils and hidden phrases of the trade.

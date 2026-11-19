@@ -1,6 +1,6 @@
 # Rumors
 
-The rumor pool. This module is not tiered. Each rumor is a `## <id>` section. Each character hears a fixed random set, recorded as `"rumors"` in their JSON. They hear 1, plus 1 with Investigation proficiency, plus 1 more with expertise.
+The rumor pool. This module is not tiered. Each rumor is a `## <id>` section. The build draws a random set for each character. They hear 1, plus 1 with Investigation proficiency, plus 1 more with expertise. Adding or removing a rumor redraws everyone.
 
 Lines starting with `DM:` are notes for the DM. The build strips them, so they never reach a page.
 

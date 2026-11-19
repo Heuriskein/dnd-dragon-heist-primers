@@ -114,6 +114,25 @@ function Get-RumorCount([string]$investigation) {
     }
 }
 
+# Deterministic draw: same pool ids + same character = same rumors, so unrelated
+# rebuilds don't reshuffle. Adding or removing a rumor id redraws everyone.
+# Rewording a rumor does not.
+function Get-RumorDraw([string]$slug, [int]$count) {
+    $ids = @($rumorPool.Keys | Sort-Object)
+    if ($ids.Count -lt $count) { throw "$slug should hear $count rumor(s) but the pool only has $($ids.Count). Add rumors to lore\rumors.md." }
+    $key = $slug + '|' + ($ids -join ',')
+    $md5 = [Security.Cryptography.MD5]::Create()
+    $seed = [BitConverter]::ToInt32($md5.ComputeHash([Text.Encoding]::UTF8.GetBytes($key)), 0)
+    $rng = New-Object System.Random $seed
+    $list = New-Object System.Collections.Generic.List[string]
+    foreach ($id in $ids) { $list.Add($id) }
+    for ($i = $list.Count - 1; $i -gt 0; $i--) {
+        $j = $rng.Next($i + 1)
+        $t = $list[$i]; $list[$i] = $list[$j]; $list[$j] = $t
+    }
+    @($list.GetRange(0, $count))
+}
+
 function Format-Bullets($items) {
     (@($items) | ForEach-Object { "- $_" }) -join $nl
 }
@@ -166,24 +185,12 @@ foreach ($f in $charFiles) {
         if ($s.extra) { $out += (Format-Bullets $s.extra); $out += '' }
     }
 
-    # Rumors: a fixed random draw recorded in the character file.
+    # Rumors: drawn by the build, seeded from the slug and the pool's ids.
+    if ($c.PSObject.Properties.Name -contains 'rumors') {
+        throw "$($f.Name): remove 'rumors'. Rumors are drawn by the build from lore\rumors.md."
+    }
     $want = Get-RumorCount $c.investigation
-    $have = @($c.rumors | Where-Object { $_ })
-    foreach ($id in $have) {
-        if (-not $rumorPool.Contains($id)) { throw "$($f.Name): unknown rumor '$id' (not in lore\rumors.md)" }
-    }
-    if (@($have | Select-Object -Unique).Count -ne $have.Count) { throw "$($f.Name): duplicate rumor ids in 'rumors'" }
-    if ($have.Count -ne $want) {
-        if ($have.Count -gt $want) {
-            throw "$($f.Name): lists $($have.Count) rumors but should hear $want (investigation: '$($c.investigation)'). Remove some."
-        }
-        $unheard = @($rumorPool.Keys | Where-Object { $have -notcontains $_ })
-        $need = $want - $have.Count
-        if ($unheard.Count -lt $need) { throw "$($f.Name): needs $need more rumor(s) but the pool only has $($unheard.Count) unheard. Add rumors to lore\rumors.md." }
-        $draw = @($have) + @($unheard | Get-Random -Count $need)
-        $json = '"rumors": [ ' + ((@($draw) | ForEach-Object { '"' + $_ + '"' }) -join ', ') + ' ]'
-        throw "$($f.Name): should hear $want rumor(s) but lists $($have.Count). Random draw to paste in: $json"
-    }
+    $have = Get-RumorDraw $c.slug $want
     $because = 'everyone hears something in a city this size'
     if ($want -ge 2) { $because += " $([char]0x00B7) Investigation " + $(if ($want -ge 3) { 'expertise' } else { 'proficiency' }) }
     $out += "## Rumors you've heard"

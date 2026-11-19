@@ -12,8 +12,9 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
   - `lore/peoples-*.md`: one module per ancestry.
   - `lore/secrets/<id>.md`: secret-tier text (`# Title` + body). An optional `<!-- extras -->` line marks where a character's extra bullets go.
   - `lore/rumors.md`: **not tiered.** It's a pool of rumors, each a `## <id>` section (lowercase-with-dashes). Lines starting `DM:` are notes and are stripped from pages. A `DM:` line containing `DRAFT` marks a rumor the DM hasn't approved yet.
-    - Each character hears a fixed random set, listed as `"rumors": [...]` in their JSON. The count is set by `"investigation"`: `none` hears 1, `proficient` 2, `expert` 3.
-    - If the list is short, the build stops and prints a random draw of unheard rumors to paste in. Never reshuffle a published list; only add to it.
+    - The build draws each character's rumors. Nothing is stored in the character JSON, and a `"rumors"` field there fails the build. The count is set by `"investigation"`: `none` hears 1, `proficient` 2, `expert` 3.
+    - The draw is seeded from the character's slug and the pool's ids. Rebuilds are stable, but adding or removing a rumor id redraws everyone. Rewording a rumor doesn't.
+    - The DM's plan: grow the pool until it's good, then publish, and leave rumors alone after that. If rumors ever need changing after publishing, adding an id will reshuffle what players have already read, so ask first.
     - A good rumor names someone or somewhere, can be checked, and might be wrong. It must not be contradicted by any Common or Proficient lore, or the baseline. Higher tiers may contradict it; that's the point of expertise.
   - `characters/<slug>.json`: one per character. See `characters/_template.json`; files starting with `_` are skipped.
 - The output is `docs/<slug>.md` per character, plus `docs/index.md` and `docs/s/<secretPage>.md` hidden pages.
@@ -48,7 +49,7 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
 
    Write `data/<slug>.md` in the same format as `data/finnian-goodbarrel.md`.
 4. Choose modules and tiers with `mapping.md`. Write `characters/<slug>.json` from `characters/_template.json`. Every section needs a `because`. Put character-specific angles in `lead` and `extra`, not in shared lore.
-5. Set `"investigation"` (none, proficient or expert) and leave out `"rumors"`. The build will print a random draw to paste in.
+5. Set `"investigation"` (none, proficient or expert). The build draws the rumors.
 6. Secret knowledge: apply `mapping.md` → "Secret knowledge" (the bar is **proficiency**). If the character qualifies, add `secrets` and a `secretPage` of `<first-name>-<16 random hex>`. The build suggests one if it's missing.
 7. If the character needs lore that doesn't exist yet (e.g. a new ancestry or faction), add a tiered module to `lore/`.
 8. Run the build, review `git diff docs/`, and update `roster.md` (status, plus the hidden page path for the DM to send privately).
