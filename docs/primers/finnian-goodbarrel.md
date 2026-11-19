@@ -43,15 +43,15 @@ From [Peoples of Waterdeep](../lore/races-cultures.html):
 You know the [History](../lore/history.html) and [Nobility](../lore/nobility.html) pages at **Proficient** depth:
 
 - The **Lords** have stayed secret since the wizard **Ahghairon** set up the system, so nobody can bribe or threaten them. The Open Lord is the exception.
-- **Dagult Neverember** was removed because the other Lords got tired of him spending the treasury and living in Neverwinter. **Laeral Silverhand** is one of the legendary Seven Sisters, centuries old, and has ruled here before. Since the Death Curse she has all but vanished from public life, and the city is feeling her absence.
+- **Dagult Neverember** was removed because the other Lords got tired of him spending the treasury and living in Neverwinter. **Laeral Silverhand** is one of the legendary Seven Sisters, centuries old, and has ruled here before. For the past couple of months she has all but vanished from public life, and the city is feeling her absence.
 - With the treasury strained by the curse, **Neverember's stolen gold** isn't just a tavern story anymore. People with real power would very much like to find it.
 - The city's old **thieves' guild** was destroyed by the Lords long ago. That's why the underworld is a free-for-all today.
 - Noble houses are rich, proud, and well guarded, and their **servants know everything**. You know the major houses by name and reputation. Useful when choosing whose purse not to lift.
 
 ## You notice things
-*Because: Investigation and Perception proficiency · Alert*
+*Because: Investigation and Perception proficiency · Alert · a thief's habits (Criminal background)*
 
-You know the [Places](../lore/places.html) page at **Expert** depth, from years of watching streets:
+You know the [Places](../lore/places.html) page at **Proficient** depth, plus the routes and shortcuts every working thief learns:
 
 - Watch patrols are thinnest where wards meet, and their timing is predictable within a ward.
 - Dock Ward and Trades Ward rooftops are close enough to cross on foot if you're nimble.

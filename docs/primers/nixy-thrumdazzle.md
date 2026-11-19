@@ -38,26 +38,24 @@ You know the [Death Curse](../lore/death-curse.html) page at **Proficient** dept
 ## You know the city's history
 *Because: Sage background · History proficiency*
 
-You know the [History](../lore/history.html) page at **Expert** depth and the [Nobility](../lore/nobility.html) page at **Proficient** depth:
+You know the [History](../lore/history.html) and [Nobility](../lore/nobility.html) pages at **Proficient** depth:
 
 - **Ahghairon** founded the system of secret Lords, so nobody could bribe or threaten them. The Open Lord is the one public exception.
-- **Laeral Silverhand** is one of the Seven Sisters, chosen of Mystra and centuries old. She once ruled here alongside **Khelben "Blackstaff" Arunsun**. Since the Death Curse she has withdrawn from public life.
-- **Dagult Neverember** was removed for spending the treasury and living in Neverwinter. His son **Renaer** lives in Waterdeep and has broken with him publicly.
-- The old **thieves' guild** was destroyed by the Lords generations ago. Today's underworld is a scramble.
+- **Laeral Silverhand** is one of the Seven Sisters, chosen of Mystra and centuries old. She once ruled here alongside **Khelben "Blackstaff" Arunsun**. For the past couple of months she has withdrawn from public life.
+- **Dagult Neverember** was removed for spending the treasury and living in Neverwinter.
 - **Halaster** built Undermountain long before the city grew over it.
 - Noble houses are trading families with long memories. Notable ones: **Cassalanter** (banking, famously pious), **Wands** (wizards), **Amcathra** (horses), **Thann** (vineyards), **Rosznar** (wine, rebuilding a ruined name).
 
 ## You know the stages and the audiences
 *Because: Performance · Investigation*
 
-You know the [Places](../lore/places.html) page at **Expert** depth:
+You know the [Places](../lore/places.html) page at **Proficient** depth:
 
 - The **Yawning Portal** draws adventurers and their stories. It's quieter since the Death Curse, and the songs there have turned sadder.
 - Performers make a living in the taverns and festhalls. The best stages pay coin; the rest pay in meals, tips and the occasional noble patron.
 - Sea Ward **card salons** and noble winter balls hire musicians. That's good money, and a good place to overhear things.
 - The **Market** is busiest at midday, which is good for busking and bad for your purse.
 - **Trollskull Alley** in the North Ward has an old empty tavern locals say is haunted. Every performer in the city has heard a ghost story about it.
-- Many cellars connect to the sewers, and some connect to each other in ways no plan shows.
 
 ## You know your own people
 *Because: Gnome ancestry*

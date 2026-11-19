@@ -15,7 +15,6 @@ About three months ago, something went wrong with death itself.
 - **The wasting.** Anyone who was ever brought back from the dead is now slowly wasting away. Day by day they grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
 - **Nobody knows why.** Every temple, wizard and street-corner prophet has a theory. None of them has a cure.
 - **The city has paid dearly.** Waterdeep has spent huge sums hunting for answers: hiring priests and sages, buying rare magic, funding expeditions. Many of the city's adventurers took that coin and left, or died trying. Many of the rest left on their own.
-- **The Open Lord is rarely seen.** Laeral Silverhand used to be very public. These past months she has seldom appeared, and nobody official will say why. The city feels the absence.
 
 ## Proficient
 *Religion, Medicine, or Arcana proficiency, or a divine or arcane class.*
@@ -28,7 +27,7 @@ About three months ago, something went wrong with death itself.
 ## Expert
 *Expertise, or close ties to a temple, the Watchful Order, or the government.*
 
-- With the Open Lord withdrawn, the Masked Lords are said to be quarrelling over money and priorities, and decisions are slow. Guilds and noble houses have noticed and are pushing their own interests.
+- As the money drains away, the Masked Lords are said to be quarrelling over priorities, and decisions are slow. Guilds and noble houses have noticed and are pushing their own interests.
 - The city treasury, already short after Neverember's thefts, is stretched thinner. That makes the story of **Neverember's hidden gold** more than a tavern tale to a lot of people.
 
 ## What it means on the street

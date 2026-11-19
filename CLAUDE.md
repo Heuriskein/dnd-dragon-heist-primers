@@ -2,11 +2,11 @@
 
 The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim** as the villain. This repo holds spoiler-free player primers, published via GitHub Pages from `docs/`.
 
-**Campaign twist:** the Death Curse from *Tomb of Annihilation* is active. It began about three months before the campaign. Besides the book effects (no resurrection; the once-raised waste away), it has drained the city treasury and much of its adventurer population. Laeral Silverhand is personally afflicted and has withdrawn from public life, which strains the city. Public-facing coverage is in `docs/lore/death-curse.md`.
+**Campaign twist:** the Death Curse from *Tomb of Annihilation* is active. It began about three months before the campaign. Besides the book effects (no resurrection; the once-raised waste away), it has drained the city treasury and much of its adventurer population. Laeral Silverhand is personally afflicted. Because of her strength, the wasting only became severe about a month after the curse began, so she withdrew from public life about two months before the campaign. That gap is why the public does not connect her absence to the curse. Her absence strains the city. Public-facing coverage is in `docs/lore/death-curse.md`.
 
 ## Hard rules
 - **No spoilers in `docs/`.** Never include: Manshoon or his clone, Kolat Towers, the Gralhunds' Zhentarim ties, the Stone of Golorr, the vault's location/keys/guardians, the Cassalanters' devil pact, Jarlaxle as Zardoz Zord, or chapter plot beats (e.g. the Trollskull Alley fireball).
-  - **Laeral's affliction and the curse's Chult origin are secret knowledge.** They never go in `docs/lore/` or the baseline primer. Only characters who qualify under `mapping.md` → "Secret knowledge" learn them. Laeral's absence is public; nobody says why.
+  - **Laeral's affliction and the curse's Chult origin are secret knowledge.** They never go in `docs/lore/` or the baseline primer. Only characters who qualify under `mapping.md` → "Secret knowledge" learn them. Laeral's absence is public, but public pages must not link it to the Death Curse: no "since the curse" wording, and don't put her absence on the Death Curse page. Date it "the past couple of months".
   - From Tomb of Annihilation, also never include: the Soulmonger, Acererak, Omu, Ras Nsi, the Nine Trickster Gods, the trapped-souls mechanism, or anything else about the curse's true cause. Rumors listed in `docs/lore/winter-season.md` are the approved level.
 - **`data/` is committed but outside `docs/`**, so it is never on the site (it is visible to anyone browsing the repo; the DM is fine with that). Never copy backstory details into `docs/` that the player hasn't agreed to make public.
 - Write original prose; don't copy text from the book.

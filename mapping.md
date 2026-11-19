@@ -5,7 +5,13 @@ How a character's sheet decides which lore tiers they get. A primer section must
 ## Tier rules
 - **Common:** everyone. Covered by `docs/primers/00-every-resident.md`. Includes the Death Curse common tier.
 - **Proficient:** one matching skill, background or faction.
-- **Expert:** expertise in a matching skill, OR two or more matching sources (e.g. Investigation + Perception), OR a strong backstory tie.
+- **Expert:** any ONE of:
+  - **expertise** in a mapped skill;
+  - a **background whose mapping says "expert"** for that module. Where it says "X or Y (expert)", pick one; the other is Proficient;
+  - **proficiency plus a backstory tie** to the topic.
+- **No stacking:** plain proficiencies don't add up to Expert, however many map to the same module.
+- **No double-counting:** a skill granted by a background counts once, together with that background.
+- **This is a guideline, not a formula** (DM, 2026-11-19: "comfortable with being a little goosey"). A few expert-tier details can go into a Proficient section when the character's concept clearly earns them, such as a thief knowing rooftop routes. Say why in the section's "Because:" line.
 
 ## Skills
 | Skill | Lore modules |
@@ -59,7 +65,7 @@ These are DM-gated. Only characters who meet the bar learn them, and they never 
 
 | Secret | Who can know it | What they know |
 |---|---|---|
-| **Laeral is afflicted** | High History **and** high Arcana or Religion | The Death Curse wastes the once-raised. Laeral is centuries old and, by the old histories, has died and returned before. She has vanished from public life since the curse began. Put together, she is almost certainly wasting. A deduction, not proof. |
+| **Laeral is afflicted** | High History **and** high Arcana or Religion | The Death Curse wastes the once-raised. Laeral is centuries old and, by the old histories, has died and returned before. She began vanishing from public life about a month after the curse struck, which is about how long the wasting would take to show in someone that strong. Put together, she is almost certainly wasting. A deduction, not proof. |
 | **The curse comes from Chult** | High Investigation ("people who know things") | Expeditions, sages and certain buyers are all looking toward Chult, far to the south. The curse's source is there. Nothing more specific: no Soulmonger, no Omu, no Acererak. |
 
 ### How the bar was set (decided 2026-11-19, apply to new characters)

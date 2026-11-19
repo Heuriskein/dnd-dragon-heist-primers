@@ -25,7 +25,7 @@ All empty on the sheet.
 
 ## Primer implications
 - Sage + Arcana + Magic Initiate (Wizard) → **arcana** (expert), **death-curse** (proficient).
-- Sage + History → **history** (expert), **nobility** (proficient).
-- Performance + Investigation → **places** (expert: taverns, stages, patrons).
+- History → **history** and **nobility** (proficient). Sage gives Expert to arcana, not both.
+- Performance + Investigation → **places** (proficient; no stacking).
 - Gnome → **races-cultures** (gnomes).
 - Calligraphy and sage work → **guilds-trade** (scribes, libraries), proficient.

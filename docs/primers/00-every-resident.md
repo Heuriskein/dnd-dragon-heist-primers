@@ -19,7 +19,7 @@ Every character starts with this knowledge, whatever their skills.
   - **Field Ward:** poor and crowded.
 
   The **City of the Dead** is the walled cemetery. It's locked at night.
-- The city is run by the secret **Masked Lords**. The one public lord is the **Open Lord, Laeral Silverhand**, who replaced **Dagult Neverember** a few years ago.
+- The city is run by the secret **Masked Lords**. The one public lord is the **Open Lord, Laeral Silverhand**, who replaced **Dagult Neverember** a few years ago. For the past couple of months she has rarely been seen in public, and nobody will say why.
 - Everyone's heard that Neverember **stole from the treasury** before he left. Nobody agrees on how much.
 - The **City Watch** (green and gold) keeps the peace. The **City Guard** is the army. Both are mostly honest.
 
@@ -40,7 +40,6 @@ About three months ago, **the dead stopped coming back.** Resurrection magic fai
 
 - The city has poured money into finding a cure, so the treasury is strained.
 - Many of Waterdeep's adventurers have left, or died chasing answers. The ones who remain are fewer and more careful.
-- **Laeral Silverhand** has rarely been seen in public since, and nobody will say why. The city feels unsteady without her.
 
 See [The Death Curse](../lore/death-curse.html).
 

@@ -23,7 +23,7 @@ nav_order: 10
 ## Rumors this winter
 *Any character might pick these up in a tavern. Not all are true.*
 
-- Laeral Silverhand has left the city on some secret errand. (Or: she's quarrelling with the Masked Lords. Or: she's shut away in Blackstaff Tower working on a cure.)
+- Laeral Silverhand has left the city on some secret errand. (Or: she's quarrelling with the Masked Lords. Or: she's shut away in Blackstaff Tower on some great working of magic.)
 - A temple in the Sea Ward has a cure, but it only sells to nobles.
 - The city's coffers are nearly empty, and the Lords will raise taxes after Midwinter.
 - The Zhentarim have been buying friends: dinners with guildmasters, donations to temples, offers of cheap guard work.

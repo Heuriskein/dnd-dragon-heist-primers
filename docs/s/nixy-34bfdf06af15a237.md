@@ -17,7 +17,7 @@ Nobody has said it out loud, but the pieces fit:
 
 - The Death Curse wastes away **anyone who has ever been raised from the dead**, and nobody else.
 - **Laeral Silverhand** is centuries old. The old histories of Mystra's Chosen hint that she has died and come back at least once.
-- Since the curse began, the Open Lord, who used to be everywhere, has **all but vanished** from public life, and nobody official will say why.
+- The Open Lord, who used to be everywhere, began to **vanish from public life about a month after the curse struck**. Most people never connected the two. But the wasting is slow, and slowest in the strong. For someone of her power, a month is about how long it would take to start showing.
 
 You're as sure as you can be without seeing her: **Laeral is wasting.** That would explain the silence, the Lords' quarrelling, and the fortune the city has spent on a cure.
 
