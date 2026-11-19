@@ -26,6 +26,6 @@ The great organizations of the Sword Coast all keep a presence in Waterdeep. Thi
 ## Expert
 *Members, or those who've worked with them.*
 
-- The factions don't trust each other. A Harper and a Zhentarim can work together for a common goal and still be watching each other's hands.
+- The factions don't trust each other, and some are outright enemies. The Harpers and the Zhentarim have fought each other for generations, and few Harpers believe the Black Network's new respectable face. Individual members sometimes cooperate when their interests line up, but nobody forgets which side the other is on.
 - Each faction pays in different coin: information, favors, rank, a place to sleep. They all expect results.
 - Faction-specific details will come from your faction contact in play. Ask your DM.
