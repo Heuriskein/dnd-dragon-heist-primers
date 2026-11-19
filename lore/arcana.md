@@ -13,6 +13,6 @@
 - Old wizards' towers are scattered across the city. Most are sealed or warded. Breaking in is foolish, and the wards are usually the least dangerous thing inside.
 
 ## Expert
-- Ahghairon's Tower has stood sealed since his death. Its wards are said to let birds fly through but stop anything else.
+- Ahghairon's Tower has stood sealed since his death. Its wards are said to let birds fly through but stop anything else. ⚠ verify: whether the wards let birds through, or stop them too (dead birds at its foot).
 - The **walking statues** of Waterdeep are huge stone guardians that defended the city in past crises. Some still stand around the city, and their sleeping enchantments are a matter of scholarly debate.
 - Magic items surface in the city's markets regularly, often from Undermountain. Selling dangerous ones openly attracts the Watchful Order's attention.
