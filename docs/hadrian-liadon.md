@@ -137,7 +137,7 @@ Notable houses and what they're known for:
 - A writ from a known guard company gets you hired. In Waterdeep, nobody checks too carefully whose name is on it.
 - Unlike Cormyr, Waterdeep doesn't require adventurers to carry a **charter**. Your Cormyrean guild papers impress a few people and mean nothing legally.
 - **The Zhentarim** undercut honest guard companies on caravan work. You've seen their "good manners" up close, and you've seen what's underneath them.
-- **The Harpers** know you've done right by them. You're not one of them, but a Harper in Waterdeep might treat you as a friend.
+- **The Harpers:** you're not one of them, but you're on good terms with them. You also know something few people do: **Mirt**, the old moneylender and retired adventurer, is a Harper. Dropping his name in the right place could open doors. Dropping it in the wrong place could be very dangerous, for both of you.
 
 ## You had an education whether you wanted one or not
 *Because: Arcana proficiency · a scholarly Evereskan upbringing*
