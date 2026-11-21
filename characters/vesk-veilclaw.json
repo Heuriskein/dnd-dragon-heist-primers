@@ -1,0 +1,51 @@
+{
+  "name": "Vesk Veilclaw",
+  "slug": "vesk-veilclaw",
+  "player": "",
+  "ddbId": 173831502,
+  "order": 14,
+  "investigation": "none",
+  "tagline": "Dragonborn monk, wayfarer and asker of questions",
+  "intro": "You've come off the road into the biggest puzzle on the Sword Coast. A city this size is all locked doors and sealed letters, and nobody here has decided what you are yet.",
+  "sections": [
+    {
+      "heading": "You know your own people",
+      "because": "Dragonborn ancestry",
+      "lore": [ { "module": "peoples-dragonborn", "tier": "expert" } ],
+      "extra": [
+        "In the marshes, your black scales told people everything about you. Here, most people couldn't tell you what scale color is supposed to mean, which makes a refreshing change."
+      ]
+    },
+    {
+      "heading": "You know the city's shadows",
+      "because": "Wayfarer background · Insight proficiency · Thieves' Tools",
+      "lead": "A wayfarer learns fast who to trust, and you read people well enough to spot the ones who are working an angle.",
+      "lore": [ { "module": "underworld", "tier": "proficient" } ]
+    },
+    {
+      "heading": "You know where travelers end up",
+      "because": "Wayfarer background · Athletics and Acrobatics",
+      "lore": [ { "module": "places", "tier": "proficient" } ],
+      "extra": [
+        "Monastery training on slick stones has left you comfortable where most people aren't: Dock Ward rooftops are close enough to cross for someone nimble."
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "heading": "Tools and languages",
+      "items": [
+        "**Thieves' Tools:** locks are puzzles. In Waterdeep, opening one that isn't yours is a crime, and the Watch won't care that you were curious.",
+        "**Flute:** enough to earn a meal in a tavern that's short of musicians.",
+        "**Draconic:** see above. Wizards and old books use its script.",
+        "**Elvish:** you learned it copying old texts, and you can read what most city folk can't. Waterdeep's elves are few, but its libraries hold plenty of elven writing.",
+        "**Common.**"
+      ]
+    }
+  ],
+  "story": [
+    "You grew up in Clan Veilclaw, in fog-choked marshes among drowned ruins, hearing that your scales told the world everything about you. You never believed it.",
+    "You trained at the House of the Drowned Lantern, a half-sunken monastery whose Abbess taught that shadow is where you stand to protect the light. You were never a silent monk. The Abbess sent you off to be a useful one.",
+    "You carry a notebook of unanswered questions. Waterdeep should add a few pages."
+  ]
+}
