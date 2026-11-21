@@ -5,14 +5,14 @@
 | ? | Finnian Goodbarrel | 173081138 | primer drafted |
 | ? | Hadrian Liadon | 170601884 | primer drafted |
 | ? | Nixy Thrumdazzle | 173081217 | primer drafted |
-| ? | (pending) | | pending |
+| ? | Nina Wildbranch | 173827085 | primer drafted |
 | ? | (pending) | | pending |
 
 Status: `pending` → `pulled` → `primer drafted` → `published`
 
 ## DM notes
 - **Hadrian:** the silver starburst token from the vanished dice player is a hook, and it's left out of his public primer. So are his cheating and his forged writ: other players will learn about those in play. His parents in Evereska may come looking.
-- **Finnian, Nixy:** no backstory yet; their primers are built from mechanics only.
+- **Finnian, Nixy, Nina:** no backstory yet; their primers are built from mechanics only.
 
 Site: https://heuriskein.github.io/dnd-dragon-heist-primers/ (home page is a welcome only, with no character list)
 
@@ -24,6 +24,7 @@ Send each player only their own link. Nothing on the site lists or links them.
 | Finnian Goodbarrel | https://heuriskein.github.io/dnd-dragon-heist-primers/finnian-goodbarrel.html |
 | Hadrian Liadon | https://heuriskein.github.io/dnd-dragon-heist-primers/hadrian-liadon.html |
 | Nixy Thrumdazzle | https://heuriskein.github.io/dnd-dragon-heist-primers/nixy-thrumdazzle.html |
+| Nina Wildbranch | https://heuriskein.github.io/dnd-dragon-heist-primers/nina-wildbranch.html |
 
 ## Hidden secret pages (sent privately)
 
@@ -34,12 +35,13 @@ Send these links privately. They're not linked anywhere on the site, and search 
 | Nixy Thrumdazzle | https://heuriskein.github.io/dnd-dragon-heist-primers/s/nixy-34bfdf06af15a237.html | Laeral is afflicted; the curse comes from Chult |
 | Finnian Goodbarrel | https://heuriskein.github.io/dnd-dragon-heist-primers/s/finnian-a732cf2f808b2cde.html | The curse comes from Chult |
 | Hadrian Liadon | (none) | Doesn't qualify |
+| Nina Wildbranch | (none) | Doesn't qualify (no History, no Investigation) |
 
 ## Open items (as of 2026-11-19)
-- **Two players still to come.** Player names and handles aren't known yet. Follow "Adding a character" in `CLAUDE.md`.
-- **15 `⚠ verify` flags** on public pages (Ahghairon's Tower birds, coin values, temple locations, noble house list, Shard Shunners, guild dues, zulkoon, and others). The build counts them. Resolve them before sharing links.
+- **One player still to come.** Player names and handles aren't known yet. Follow "Adding a character" in `CLAUDE.md`.
+- **18 `⚠ verify` flags** on public pages (Ahghairon's Tower birds, coin values, temple locations, noble house list, Shard Shunners, guild dues, zulkoon, and others). The build counts them. Resolve them before sharing links.
 - **Published 2026-11-19** (repo Heuriskein/dnd-dragon-heist-primers, Pages from `main` /docs). Pushing to `main` republishes. Links not shared with players yet.
 - **Rumor pool:** all six rumors are approved. The DM may add a few more before publishing, then rumors are frozen. Adding or removing an id redraws everyone.
 - **Offered, not decided:** a "guaranteed rumors" option, so a rumor like `neverember-renaer` (which sets up Chapter 1) reaches at least one character.
 - **Unresolved tier question:** Nixy's Arcana is Expert (Sage + Arcana + Magic Initiate), which doesn't quite fit the DM-adjusted rule in `mapping.md`. It was left as is. The DM may lower it.
-- **Winter module** (`lore/winter-season.md`): no current character qualifies (it needs Nature, Survival, Folk Hero or Outlander). Its tavern wording was reconciled with the Yawning Portal being emptier.
+- **Winter module** (`lore/winter-season.md`): Nina is the first character to use it (Nature). Its tavern wording was reconciled with the Yawning Portal being emptier.

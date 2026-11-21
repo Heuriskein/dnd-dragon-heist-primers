@@ -1,0 +1,61 @@
+{
+  "name": "Nina Wildbranch",
+  "slug": "nina-wildbranch",
+  "player": "",
+  "ddbId": 173827085,
+  "order": 13,
+  "investigation": "none",
+  "tagline": "Halfling druid, newly down from the wilds",
+  "intro": "You've spent years far from any town, with the forest for company. Waterdeep is loud, crowded and paved over, but people still get sick, the seasons still turn, and the gods still listen.",
+  "sections": [
+    {
+      "heading": "You know the gods and their houses",
+      "because": "Religion proficiency · Hermit background · a follower of Chauntea",
+      "lore": [ { "module": "religion", "tier": "proficient" } ],
+      "extra": [
+        "Chauntea, the Great Mother of growing things, is a farmer's goddess, and Waterdeep is a city of stone. Her faithful here are mostly gardeners, market farmers and the folk who bring food in through the gates.",
+        "A druid's devotion looks odd to city priests: no temple, no tithe, no vestments. Some will treat you as a curiosity, and some as a rival."
+      ]
+    },
+    {
+      "heading": "You know the Death Curse as a healer",
+      "because": "Medicine and Religion proficiency · Healer",
+      "lore": [ { "module": "death-curse", "tier": "proficient" } ],
+      "extra": [
+        "Families of the wasting are trying everything, and herbalists are asked for remedies daily. You know enough to see that nothing in your kit stops it.",
+        "With the temples overwhelmed, a healer who doesn't charge temple prices will never be short of patients."
+      ]
+    },
+    {
+      "heading": "You know the season",
+      "because": "Nature proficiency · druid",
+      "lore": [ { "module": "winter-season", "tier": "proficient" } ],
+      "extra": [
+        "You can read the weather off the sea and the sky better than most city folk, and you know which storms will close the harbor."
+      ]
+    },
+    {
+      "heading": "You know your own people",
+      "because": "Halfling ancestry",
+      "lore": [ { "module": "peoples-halflings", "tier": "expert" } ],
+      "extra": [
+        "Halfling innkeepers and cooks hear everything said across their tables, and they're more likely to repeat it to another halfling."
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "heading": "Tools and languages",
+      "items": [
+        "**Herbalism Kit:** apothecaries and temple infirmaries are desperate for herbs this winter, and pay well for them.",
+        "**Carpenter's Tools:** you built your own shelter once. In the city, carpentry is guild work, so you'd need the guild's leave to sell it.",
+        "**Animal Handling:** stablehands, carters and caravan masters always need someone animals trust.",
+        "**Druidic:** the secret tongue of druids. Few in the city could even recognise it.",
+        "**Elvish, Halfling, Common.**"
+      ]
+    }
+  ],
+  "story": [
+    "*Not written yet. Talk to your DM about where Nina lived, what drew Nina out of solitude, and what brought Nina to Waterdeep. This section will grow with your backstory.*"
+  ]
+}
