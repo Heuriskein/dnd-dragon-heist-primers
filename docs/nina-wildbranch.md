@@ -133,7 +133,7 @@ Major temples, mostly in the Sea Ward and Castle Ward:
 - A link-boy who lights a young noble home most nights says the man is **Renaer Neverember**, son of the ousted Open Lord. According to the boy, Renaer stayed behind when his father left for Neverwinter and swears he's done with him. But he has a whole new crowd of friends buying his drinks, not all of them nobles, and the talk is always about his father's gold. The boy is certain Renaer knows where it's hidden. Why else would he have stayed?
 
 ## Tools and languages
-- **Herbalism Kit:** apothecaries and temple infirmaries are desperate for herbs this winter, and pay well for them.
+- **Herbalism Kit:** you can brew remedies and healing potions. Now that death is final, people value anyone who can keep them alive.
 - **Carpenter's Tools:** you built your own shelter once. In the city, carpentry is guild work, so you'd need the guild's leave to sell it.
 - **Animal Handling:** stablehands, carters and caravan masters always need someone animals trust.
 - **Druidic:** the secret tongue of druids. Few in the city could even recognize it.
