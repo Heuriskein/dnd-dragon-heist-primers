@@ -142,5 +142,5 @@ Major temples, mostly in the Sea Ward and Castle Ward (⚠ verify locations):
 - **Elvish, Halfling, Common.**
 
 ## Your story
-- *Not written yet. Talk to your DM about where Nina lived, what drew Nina out of solitude, and what brought Nina to Waterdeep. This section will grow with your backstory.*
+- *Not written yet. Talk to your DM about where Nina lived, what drew her out of solitude, and why she came to Waterdeep. This section will grow with your backstory.*
 

@@ -1,10 +1,10 @@
 # Nina Wildbranch — normalized sheet summary
 
-- **D&D Beyond ID:** 173827085 (pulled 2026-11-20)
+- **D&D Beyond ID:** 173827085 (pulled 2026-11-20, re-pulled for gender)
 - **Race:** Halfling (no subrace on sheet; 2024 rules)
 - **Class:** Druid 1, Primal Order: Magician (adds Wisdom modifier to Arcana and Nature checks; not a proficiency)
 - **Background:** Hermit (2024, customized: Animal Handling, Religion, Carpenter's Tools). Feat: Healer
-- **Alignment:** Neutral Good (alignmentId 2) · **Gender:** not listed · **Faith:** Chauntea
+- **Alignment:** Neutral Good (alignmentId 2) · **Gender:** Female (added 2026-11-20) · **Faith:** Chauntea
 
 ## Skills
 | Skill | Level | Source |

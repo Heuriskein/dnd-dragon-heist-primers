@@ -37,7 +37,7 @@
                                  },
                  "name":  "Nina Wildbranch",
                  "socialName":  null,
-                 "gender":  null,
+                 "gender":  "Female",
                  "faith":  "Chauntea",
                  "age":  null,
                  "hair":  null,
@@ -11125,8 +11125,8 @@
                  "optionalClassFeatures":  [
 
                                            ],
-                 "dateModified":  "2026-11-21T02:22:27.471Z",
-                 "providedFrom":  "storage",
+                 "dateModified":  "2026-11-21T02:26:09.631142Z",
+                 "providedFrom":  "database",
                  "canEdit":  false,
                  "status":  0,
                  "statusSlug":  null,
