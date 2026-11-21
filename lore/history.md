@@ -3,7 +3,7 @@
 ## Common
 - Waterdeep began as a trading post where northern tribes and southern ships met at the best harbor on the coast. It grew into a walled city ruled by warlords, and then by the secret Lords.
 - **Ahghairon**, a legendary wizard, is credited with founding the Lords' system. His tower still stands in the Castle Ward, and nobody can open it.
-- **Lord Dagult Neverember** was Open Lord for years and also ruled Neverwinter as its Lord Protector. He was removed a few years ago, and **Laeral Silverhand** took his place. He's still alive and still in Neverwinter.
+- **Lord Dagult Neverember** was Open Lord for years and also ruled Neverwinter as its Lord Protector. He was removed a few years ago, and **Laeral Silverhand** took his place. He's still alive in Neverwinter.
 
 
 ## Proficient
@@ -12,7 +12,7 @@
 - **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see.
 - **Neverember's ouster.** He wasn't overthrown by the mob. The other Lords lost patience with an Open Lord who spent half his time in another city and spent the treasury freely. Laeral was chosen as a respected, steady replacement.
 - **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She lived in Waterdeep long ago as the partner of the famous archmage Khelben "Blackstaff" Arunsun.
-- **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**.
+- **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**. Past generations had aspirations of rooting him out, but those never came to anything. Now the well in the **Yawning Portal** is tolerated as an attraction as long as **Durnan** can manage it.
 
 ## Expert
 

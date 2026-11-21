@@ -66,16 +66,17 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 - The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
 - The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing.
-- **Kenku** run messages and small jobs for whoever pays. They mimic voices, which makes them excellent spies and terrible witnesses.
-- The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
+- **Kenku** run messages and small jobs for whoever pays. They speak only by mimicking voices, which makes them excellent spies and terrible witnesses, both of which ne'er-do-wells appreciate.
+- The City Watch tolerates a certain amount of vice in the Dock Ward, largely for practical reasons. Violence and anything that touches nobles brings them down hard. They also employ wizards to deal with magical crimes, and the **Watchful Order of Magists and Protectors** is always on retainer should the need arise.
 
 - **Thieves' cant in Waterdeep:** chalk sigils on doorframes and gutters mark safe houses, Watch-heavy streets, generous marks and doors with dogs. A small circle with a line through it means "Xanathar territory, keep out."
-- **Skullport**, the "Port of Shadow," is a lawless town deep beneath the city, reached through the sewers and tunnels. It's said to trade in anything, including people. Getting there is easy; getting back with your money is not.
-- Underworld rumor talks constantly about **Neverember's missing gold**: a fortune the old Open Lord supposedly hid somewhere in the city. Every crook in Waterdeep claims to know someone who knows where it is. None of them do.
-- The Death Curse has been **good for crime**. The Watch is stretched, the Lords are distracted, and there are fewer adventurers to hire against gangs. Fake "cures" and stolen temple relics are selling briskly.
+- **Skullport**, the "Port of Shadow," is a lawless town deep beneath the city in Undermountain. It's said to trade in anything, including people. The way there is a closely guarded secret.
+- Underworld rumor talks constantly about **Neverember's missing gold**: a fortune the old Open Lord supposedly hid somewhere in the city. Every crook in Waterdeep claims to know someone who knows where it is.
 - Smugglers move goods through the harbor at night in small boats, using sea caves and old cellars. The Watch doesn't patrol the water much.
+- The Death Curse has been **good for crime**. The Watch is stretched, the Lords are distracted, and there are fewer adventurers to hire against gangs. Fake "cures" and stolen temple relics are selling briskly.
+- A secret society known as "the Grey Force" has been rumored to get involved with the most impactful and heinous crimes against the city.
 
-## You know the halfling side of the city
+## You know the city's halflings and gnomes
 *Because: Halfling ancestry · speaks Gnomish*
 
 - Halflings live all over the city. Many have been here for generations. They run inns, bakeries, and shops, and keep many of the city's kitchens and cellars working.
@@ -98,13 +99,13 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 
 - Waterdeep began as a trading post where northern tribes and southern ships met at the best harbor on the coast. It grew into a walled city ruled by warlords, and then by the secret Lords.
 - **Ahghairon**, a legendary wizard, is credited with founding the Lords' system. His tower still stands in the Castle Ward, and nobody can open it.
-- **Lord Dagult Neverember** was Open Lord for years and also ruled Neverwinter as its Lord Protector. He was removed a few years ago, and **Laeral Silverhand** took his place. He's still alive and still in Neverwinter.
+- **Lord Dagult Neverember** was Open Lord for years and also ruled Neverwinter as its Lord Protector. He was removed a few years ago, and **Laeral Silverhand** took his place. He's still alive in Neverwinter.
 
 - **The Lords.** The Lords have been secret since Ahghairon's time, so that no one could bribe or threaten them. The Open Lord is the exception, the public face that negotiates with foreign powers.
 - **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see.
 - **Neverember's ouster.** He wasn't overthrown by the mob. The other Lords lost patience with an Open Lord who spent half his time in another city and spent the treasury freely. Laeral was chosen as a respected, steady replacement.
 - **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She lived in Waterdeep long ago as the partner of the famous archmage Khelben "Blackstaff" Arunsun.
-- **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**.
+- **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**. Past generations had aspirations of rooting him out, but those never came to anything. Now the well in the **Yawning Portal** is tolerated as an attraction as long as **Durnan** can manage it.
 
 - Waterdeep has around seventy-five noble families. Most made their fortunes in trade and keep villas in the Sea Ward and North Ward.
 - Nobles hold no formal power over commoners. Their power is money, land, connections and the expectation that they'll get what they want.

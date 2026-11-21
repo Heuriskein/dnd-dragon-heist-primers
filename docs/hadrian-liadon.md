@@ -104,8 +104,8 @@ Notable houses and what they're known for:
 - The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
 - The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing.
-- **Kenku** run messages and small jobs for whoever pays. They mimic voices, which makes them excellent spies and terrible witnesses.
-- The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
+- **Kenku** run messages and small jobs for whoever pays. They speak only by mimicking voices, which makes them excellent spies and terrible witnesses, both of which ne'er-do-wells appreciate.
+- The City Watch tolerates a certain amount of vice in the Dock Ward, largely for practical reasons. Violence and anything that touches nobles brings them down hard. They also employ wizards to deal with magical crimes, and the **Watchful Order of Magists and Protectors** is always on retainer should the need arise.
 
 - The people you cheat go to people like the **Xanathar Guild**, whose thugs run protection and debt collection across the Dock Ward.
 - The crowd left at the Yawning Portal is more careful than it used to be, and more willing to bet on long odds.

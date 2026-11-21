@@ -15,7 +15,7 @@
       "lore": [ { "module": "underworld", "tier": "expert" } ]
     },
     {
-      "heading": "You know the halfling side of the city",
+      "heading": "You know the city's halflings and gnomes",
       "because": "Halfling ancestry · speaks Gnomish",
       "lore": [
         { "module": "peoples-halflings", "tier": "expert" },
