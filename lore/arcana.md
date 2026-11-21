@@ -8,7 +8,7 @@
 
 - **The Watchful Order** licenses, polices and supports spellcasters. It also staffs the city's magical defenses and answers fire and magical emergencies. Members get access to shared libraries and spell supplies.
 - **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf.
-- **Halaster Blackcloak**, the Mad Mage, still haunts Undermountain, by most accounts. The dungeon reshapes itself, and its magical gates lead strange places.
+- **Halaster Blackcloak**, the Mad Mage, still haunts Undermountain, by most accounts. The dungeon reshapes itself, and its magical gates lead to strange places.
 - Old wizards' towers are scattered across the city. Most are sealed or warded. Breaking in is foolish, and the wards are usually the least dangerous thing inside.
 
 ## Expert

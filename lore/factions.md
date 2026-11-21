@@ -12,7 +12,7 @@ The great organizations of the Sword Coast all keep a presence in Waterdeep. Thi
 ## Proficient
 
 - Faction membership is mostly informal: favors, contacts and shared goals. Members are expected to help each other.
-- Harpers communicate through coded messages, and pass recognition through a small silver harp pin, which is rarely worn openly.
+- Harpers communicate through coded messages and recognize each other by a small silver harp pin, which is rarely worn openly.
 - The Lords' Alliance keeps an embassy and agents in Waterdeep. Waterdeep is its most powerful member, and the others resent that.
 - The Zhentarim in Waterdeep offer guard work and caravan protection at reasonable prices. Their critics say it's a protection racket with good manners.
 

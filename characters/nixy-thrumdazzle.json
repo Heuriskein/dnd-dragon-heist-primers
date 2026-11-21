@@ -38,7 +38,7 @@
       "lore": [ { "module": "places", "tier": "proficient" } ],
       "extra": [
         "The songs at the Yawning Portal have turned sadder since the Death Curse.",
-        "Noble winter balls hire musicians. That's good money, and a good place to overhear things.",
+        "Noble winter balls hire musicians, which means good money and a good place to overhear things.",
         "Every performer in the city has heard a ghost story about the empty tavern in Trollskull Alley."
       ]
     },
@@ -71,7 +71,7 @@
     },
     {
       "id": "chult",
-      "because": "Investigation proficiency. You know things."
+      "because": "Investigation proficiency · a sage's contacts"
     }
   ]
 }

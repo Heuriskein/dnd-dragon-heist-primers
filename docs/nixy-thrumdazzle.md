@@ -29,19 +29,19 @@ You've read the histories, studied the arts arcane, and played the taverns. Wate
   The **City of the Dead** is the walled cemetery. It's locked at night.
 - The city is run by the secret **Masked Lords**. The one public lord is the **Open Lord, Laeral Silverhand**, who replaced **Dagult Neverember** a few years ago. For the past couple of months she has rarely been seen in public, and nobody will say why.
 - Everyone's heard that Neverember **stole from the treasury** before he left. Nobody agrees on how much.
-- The **City Watch** (green and gold) keeps the peace. The **City Guard** is the army. Both are mostly honest.
+- The **City Watch**, in green and gold, keeps the peace on the streets, while the **City Guard** serves as the army and mans the walls. Both are mostly honest.
 
 ### Living here
 - Coins: **nibs** (copper), **shards** (silver), **dragons** (gold), **harbor moons** (worth 50 dragons).
-- Carrying a weapon is legal. Using one, or hurting people with spells, is not. Fines are the usual punishment.
+- Carrying a weapon is legal, but using one, or hurting people with spells, is not. Most offenses end in a fine.
 - Beyond the Lords' few duties (the Code Legal, the City Watch and Guard, the walls, and the taxes that pay for them), the guilds run the city. Nearly every trade has one, and they wield real power.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
-- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, who is also the youngest Blackstaff in the city's history.
+- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, the youngest Blackstaff in the city's history.
 - Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
-- The **Xanathar Guild** is a criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history. They're currently trying to look respectable.
+- The **Xanathar Guild** is the city's best-known criminal gang, and people say its boss is a beholder.
+- The **Zhentarim** are mercenaries with a bad history who are currently working hard to look respectable.
 - The **Dock Ward** after dark is dangerous. The **City of the Dead** after dark is worse.
 
 ### The Death Curse
@@ -62,7 +62,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 
 - **The Watchful Order** licenses, polices and supports spellcasters. It also staffs the city's magical defenses and answers fire and magical emergencies. Members get access to shared libraries and spell supplies.
 - **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf.
-- **Halaster Blackcloak**, the Mad Mage, still haunts Undermountain, by most accounts. The dungeon reshapes itself, and its magical gates lead strange places.
+- **Halaster Blackcloak**, the Mad Mage, still haunts Undermountain, by most accounts. The dungeon reshapes itself, and its magical gates lead to strange places.
 - Old wizards' towers are scattered across the city. Most are sealed or warded. Breaking in is foolish, and the wards are usually the least dangerous thing inside.
 
 - Ahghairon's Tower has stood sealed since his death. Its wards are said to let birds fly through but stop anything else.
@@ -84,7 +84,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - The curse touches only those who were **brought back from death**. Ordinary healing and ordinary death work as they always did. The difference is that death is now final.
 - The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed.
 - Temples are overwhelmed: the faithful demanding answers, families of the wasting begging for help, and donations drying up as the city's money goes elsewhere.
-- Adventurers used to treat death as a setback. Now they don't, and fewer of them are willing to go into Undermountain or take dangerous jobs.
+- Adventurers used to treat death as a setback. Now that it's final, fewer of them are willing to go into Undermountain or take dangerous jobs.
 
 - Every scholar in the city has a theory, and you've heard most of them. None has been proven.
 
@@ -119,7 +119,7 @@ Notable houses and what they're known for:
 | Thann | Vineyards and land outside the walls |
 | Wands | A family of wizards; respected and a little feared |
 
-- Etiquette: address a noble as "Lord" or "Lady" plus the house name until invited otherwise. Don't touch them uninvited. Never call a debt in public.
+- Etiquette: address a noble as "Lord" or "Lady" plus the house name until invited otherwise. Don't touch them uninvited, and never call in a debt in public.
 - Most houses have private guards and a steward who handles "small matters." Approach the steward first if you want something.
 - **House Neverember** has never accepted Dagult's removal. Among themselves, and sometimes not only among themselves, the family talks about seeing him restored as Open Lord.
 
@@ -134,13 +134,13 @@ Notable houses and what they're known for:
 
 - **Trollskull Alley**, in the North Ward, is a quiet lane of small shops and houses. An old tavern there has stood empty for years, and locals say it's haunted.
 - **The Dock Ward** has many dockside taverns where you can hear news from every port in the world, and some where you can buy a stranger's silence.
-- **The Market** opens at dawn, and its best stalls are sold out by noon. The crush peaks in mid-morning, when buyers race for what's left, and that's when pickpockets work it.
+- **The Market** opens at dawn, and the best stalls sell out by noon. The crush peaks in mid-morning, which is when the pickpockets go to work.
 - **The Southern Ward** caravan yards are full of outlanders, and rooms there are cheap.
 - **Gambling** is legal and everywhere: dice in Dock Ward taverns, wagers on the games at the Field of Triumph, and private card salons in the Sea Ward where the stakes are high and the guests are noble. Cheating is not legal, and the people you cheat rarely bother with magistrates.
 - **Performers** make a living in the taverns and festhalls. The best stages pay in coin. The rest pay in meals and tips, and sometimes in the notice of a noble patron.
 
 - The songs at the Yawning Portal have turned sadder since the Death Curse.
-- Noble winter balls hire musicians. That's good money, and a good place to overhear things.
+- Noble winter balls hire musicians, which means good money and a good place to overhear things.
 - Every performer in the city has heard a ghost story about the empty tavern in Trollskull Alley.
 
 ## You know your own people
@@ -175,7 +175,7 @@ Your best guess is that **Laeral is wasting**. It would explain the silence, and
 If you're right, saying so publicly could shake the city, and whoever is keeping her condition quiet won't thank you. If you're wrong, you've slandered the Open Lord.
 
 ## Where the curse comes from
-*Because: Investigation proficiency. You know things.*
+*Because: Investigation proficiency · a sage's contacts*
 
 The temples and wizards are still arguing about causes. Follow the money and the expeditions, though, and the trail leads one way: **Chult**, the jungle peninsula far to the south, beyond Amn and Calimshan.
 

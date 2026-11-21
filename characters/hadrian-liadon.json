@@ -22,8 +22,8 @@
         { "module": "underworld", "tier": "proficient" }
       ],
       "extra": [
-        "The people you cheat go to people like the **Xanathar Guild**, whose thugs run protection and debt collection across the Dock Ward.",
-        "The crowd left at the Yawning Portal is more careful than it used to be, and more willing to bet on long odds.",
+        "The people you cheat sometimes hire the **Xanathar Guild**, whose thugs run protection and debt collection across the Dock Ward.",
+        "The crowd left at the Yawning Portal is smaller and grimmer than it used to be, and some of them gamble like they have nothing left to lose.",
         "Fences are useful when you've won something you'd rather turn into coin."
       ]
     },
@@ -50,7 +50,7 @@
       ],
       "extra": [
         "Charming someone with magic inside the city walls is a crime, which is one more reason you rely on the ordinary kind of charm.",
-        "With death permanent, adventurers have become cautious. That means fewer rivals for good jobs."
+        "With death now permanent, adventurers have become cautious, which means fewer rivals for good jobs."
       ]
     },
     {
@@ -61,7 +61,7 @@
         { "module": "religion", "tier": "common" }
       ],
       "extra": [
-        "Waterdeep tolerates almost any faith that obeys the law. Nobody here will mind your god, though a few may watch their purses."
+        "Nobody here will mind your god, though anyone who knows Erevan's reputation may keep a closer eye on their purse."
       ]
     }
   ],

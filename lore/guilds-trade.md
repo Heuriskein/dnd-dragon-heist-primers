@@ -7,7 +7,7 @@
 
 ## Proficient
 
-- Guilds are political. Guildmasters sit at feasts with nobles, and some are probably Masked Lords.
+- Guilds are as political as they are commercial. Guildmasters sit at feasts with nobles, and some are probably Masked Lords.
 - The **Fellowship of Innkeepers** licenses taverns and inns. Open a tavern without their seal and you'll find the brewers won't sell to you.
 - The **Cellarers' and Plumbers' Guild** maintains the sewers. Their members know the tunnels better than anyone above ground.
 - Most guild dues run several dragons a year, plus a fee of a couple hundred dragons to register.

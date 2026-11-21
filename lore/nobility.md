@@ -21,7 +21,7 @@ Notable houses and what they're known for:
 | Thann | Vineyards and land outside the walls |
 | Wands | A family of wizards; respected and a little feared |
 
-- Etiquette: address a noble as "Lord" or "Lady" plus the house name until invited otherwise. Don't touch them uninvited. Never call a debt in public.
+- Etiquette: address a noble as "Lord" or "Lady" plus the house name until invited otherwise. Don't touch them uninvited, and never call in a debt in public.
 - Most houses have private guards and a steward who handles "small matters." Approach the steward first if you want something.
 - **House Neverember** has never accepted Dagult's removal. Among themselves, and sometimes not only among themselves, the family talks about seeing him restored as Open Lord.
 

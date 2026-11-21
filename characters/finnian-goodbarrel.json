@@ -23,7 +23,7 @@
       ],
       "extra": [
         "You know of the Shard Shunners, and they may well know of you.",
-        "Gnomish is useful when you need a lock understood, or a trinket appraised quietly."
+        "Gnomish comes in handy when you want a gnome tinker to look over a lock, or to appraise a trinket quietly."
       ]
     },
     {
@@ -36,13 +36,13 @@
       "extra": [
         "With the treasury strained by the curse, **Neverember's stolen gold** isn't just a tavern story anymore. People with real power would very much like to find it.",
         "The city's old **thieves' guild** was destroyed by the Lords long ago. That's why the underworld is a free-for-all today.",
-        "You know the major houses by name and reputation. Useful when choosing whose purse not to lift."
+        "You know the major houses by name and reputation, which is useful when choosing whose purse not to lift."
       ]
     },
     {
-      "heading": "You notice things",
+      "heading": "You know the streets and the shortcuts",
       "because": "Investigation and Perception proficiency · Alert · a thief's habits (Criminal background)",
-      "lead": "You know the routes and shortcuts every working thief learns.",
+      "lead": "Every working thief learns which routes are quiet and which are watched, and you learned them well.",
       "lore": [ { "module": "places", "tier": "proficient" } ],
       "extra": [
         "Watch patrols are thinnest where wards meet, and their timing is predictable within a ward.",
@@ -67,7 +67,7 @@
   "secrets": [
     {
       "id": "chult",
-      "because": "Investigation proficiency. You know people who know things.",
+      "because": "Investigation proficiency · a criminal's contacts",
       "extra": [
         "The ships were quietly chartered with city coin. Some of the crews haven't come back.",
         "Smugglers and fences have noticed buyers paying silly money for anything out of Chult: charms, idols, maps, \"cures.\"",

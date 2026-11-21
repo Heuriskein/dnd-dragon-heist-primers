@@ -14,19 +14,19 @@
   The **City of the Dead** is the walled cemetery. It's locked at night.
 - The city is run by the secret **Masked Lords**. The one public lord is the **Open Lord, Laeral Silverhand**, who replaced **Dagult Neverember** a few years ago. For the past couple of months she has rarely been seen in public, and nobody will say why.
 - Everyone's heard that Neverember **stole from the treasury** before he left. Nobody agrees on how much.
-- The **City Watch** (green and gold) keeps the peace. The **City Guard** is the army. Both are mostly honest.
+- The **City Watch**, in green and gold, keeps the peace on the streets, while the **City Guard** serves as the army and mans the walls. Both are mostly honest.
 
 ### Living here
 - Coins: **nibs** (copper), **shards** (silver), **dragons** (gold), **harbor moons** (worth 50 dragons).
-- Carrying a weapon is legal. Using one, or hurting people with spells, is not. Fines are the usual punishment.
+- Carrying a weapon is legal, but using one, or hurting people with spells, is not. Most offenses end in a fine.
 - Beyond the Lords' few duties (the Code Legal, the City Watch and Guard, the walls, and the taxes that pay for them), the guilds run the city. Nearly every trade has one, and they wield real power.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
-- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, who is also the youngest Blackstaff in the city's history.
+- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, the youngest Blackstaff in the city's history.
 - Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
-- The **Xanathar Guild** is a criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history. They're currently trying to look respectable.
+- The **Xanathar Guild** is the city's best-known criminal gang, and people say its boss is a beholder.
+- The **Zhentarim** are mercenaries with a bad history who are currently working hard to look respectable.
 - The **Dock Ward** after dark is dangerous. The **City of the Dead** after dark is worse.
 
 ### The Death Curse

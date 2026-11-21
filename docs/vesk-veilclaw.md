@@ -29,19 +29,19 @@ You've come off the road into the biggest puzzle on the Sword Coast. A city this
   The **City of the Dead** is the walled cemetery. It's locked at night.
 - The city is run by the secret **Masked Lords**. The one public lord is the **Open Lord, Laeral Silverhand**, who replaced **Dagult Neverember** a few years ago. For the past couple of months she has rarely been seen in public, and nobody will say why.
 - Everyone's heard that Neverember **stole from the treasury** before he left. Nobody agrees on how much.
-- The **City Watch** (green and gold) keeps the peace. The **City Guard** is the army. Both are mostly honest.
+- The **City Watch**, in green and gold, keeps the peace on the streets, while the **City Guard** serves as the army and mans the walls. Both are mostly honest.
 
 ### Living here
 - Coins: **nibs** (copper), **shards** (silver), **dragons** (gold), **harbor moons** (worth 50 dragons).
-- Carrying a weapon is legal. Using one, or hurting people with spells, is not. Fines are the usual punishment.
+- Carrying a weapon is legal, but using one, or hurting people with spells, is not. Most offenses end in a fine.
 - Beyond the Lords' few duties (the Code Legal, the City Watch and Guard, the walls, and the taxes that pay for them), the guilds run the city. Nearly every trade has one, and they wield real power.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
-- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, who is also the youngest Blackstaff in the city's history.
+- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, the youngest Blackstaff in the city's history.
 - Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
-- The **Xanathar Guild** is a criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history. They're currently trying to look respectable.
+- The **Xanathar Guild** is the city's best-known criminal gang, and people say its boss is a beholder.
+- The **Zhentarim** are mercenaries with a bad history who are currently working hard to look respectable.
 - The **Dock Ward** after dark is dangerous. The **City of the Dead** after dark is worse.
 
 ### The Death Curse
@@ -61,7 +61,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - City law protects them like anyone else, and in a city this mixed, most people don't look twice.
 
 - There's no dragonborn quarter. The few dragonborn families are scattered across the wards, and a newcomer won't find a clan hall waiting to take them in.
-- Scale color matters far more to dragonborn than to Waterdhavians. To most townsfolk, black scales and green ones are just colors. To other dragonborn, they say which kind of dragon your line comes from, and some still care a great deal.
+- Scale color matters far more to dragonborn than other Waterdhavians. To most townsfolk, black scales and green ones are just colors. To other dragonborn, they say which kind of dragon your line comes from, and some still care a great deal.
 - Caravan masters and guard captains hire dragonborn eagerly, for their size and their breath. The Zhentarim, who sell guard work and caravan protection, are always looking for muscle.
 
 - Draconic is older than any human tongue, and plenty of old magical writing uses its script. A dragonborn who reads it will find wizards and booksellers suddenly friendly.
@@ -74,15 +74,15 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 
 A wayfarer learns fast who to trust, and you read people well enough to spot the ones who are working an angle.
 
-- Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
+- Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations that don't trust each other.
 
-- **The Xanathar Guild's** boss, "the Xanathar," is said to live somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward. They're everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
+- **The Xanathar Guild's** boss, "the Xanathar," is said to live somewhere beneath the city. Its members wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward. They're everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
 - **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
 - The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
 - The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing.
 - **Kenku** run messages and small jobs for whoever pays. They speak only by mimicking voices, which makes them excellent spies and terrible witnesses, both of which ne'er-do-wells appreciate.
-- The City Watch tolerates a certain amount of vice in the Dock Ward, largely for practical reasons. Violence and anything that touches nobles brings them down hard. They also employ wizards to deal with magical crimes, and the **Watchful Order of Magists and Protectors** is always on retainer should the need arise.
+- The City Watch tolerates a certain amount of vice in the Dock Ward, largely for practical reasons. Violence, or anything that touches nobles, brings them down hard. They also employ wizards to deal with magical crimes, and the **Watchful Order of Magists and Protectors** is always on retainer should the need arise.
 
 ## You know where travelers end up
 *Because: Wayfarer background · Athletics and Acrobatics*
@@ -95,7 +95,7 @@ A wayfarer learns fast who to trust, and you read people well enough to spot the
 
 - **Trollskull Alley**, in the North Ward, is a quiet lane of small shops and houses. An old tavern there has stood empty for years, and locals say it's haunted.
 - **The Dock Ward** has many dockside taverns where you can hear news from every port in the world, and some where you can buy a stranger's silence.
-- **The Market** opens at dawn, and its best stalls are sold out by noon. The crush peaks in mid-morning, when buyers race for what's left, and that's when pickpockets work it.
+- **The Market** opens at dawn, and the best stalls sell out by noon. The crush peaks in mid-morning, which is when the pickpockets go to work.
 - **The Southern Ward** caravan yards are full of outlanders, and rooms there are cheap.
 - **Gambling** is legal and everywhere: dice in Dock Ward taverns, wagers on the games at the Field of Triumph, and private card salons in the Sea Ward where the stakes are high and the guests are noble. Cheating is not legal, and the people you cheat rarely bother with magistrates.
 - **Performers** make a living in the taverns and festhalls. The best stages pay in coin. The rest pay in meals and tips, and sometimes in the notice of a noble patron.

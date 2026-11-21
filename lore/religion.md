@@ -1,7 +1,7 @@
 # Religion
 
 ## Common
-- Waterdeep is tolerant. Almost any god may be worshipped, as long as its followers obey the law. Temples to evil gods are not welcome to operate openly.
+- Waterdeep is tolerant. Almost any god may be worshipped, as long as its followers obey the law, but temples to evil gods aren't allowed to operate openly.
 - **The Plinth** is a simple open shrine to all gods, where anyone may pray.
 - Two gods everyone in the city calls on:
   - **Tymora**, Lady Luck, for gamblers and adventurers.

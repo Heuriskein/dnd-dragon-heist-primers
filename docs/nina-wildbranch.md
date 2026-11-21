@@ -29,19 +29,19 @@ You've spent most of a long life deep in the forest, far from any town. Now you'
   The **City of the Dead** is the walled cemetery. It's locked at night.
 - The city is run by the secret **Masked Lords**. The one public lord is the **Open Lord, Laeral Silverhand**, who replaced **Dagult Neverember** a few years ago. For the past couple of months she has rarely been seen in public, and nobody will say why.
 - Everyone's heard that Neverember **stole from the treasury** before he left. Nobody agrees on how much.
-- The **City Watch** (green and gold) keeps the peace. The **City Guard** is the army. Both are mostly honest.
+- The **City Watch**, in green and gold, keeps the peace on the streets, while the **City Guard** serves as the army and mans the walls. Both are mostly honest.
 
 ### Living here
 - Coins: **nibs** (copper), **shards** (silver), **dragons** (gold), **harbor moons** (worth 50 dragons).
-- Carrying a weapon is legal. Using one, or hurting people with spells, is not. Fines are the usual punishment.
+- Carrying a weapon is legal, but using one, or hurting people with spells, is not. Most offenses end in a fine.
 - Beyond the Lords' few duties (the Code Legal, the City Watch and Guard, the walls, and the taxes that pay for them), the guilds run the city. Nearly every trade has one, and they wield real power.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
-- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, who is also the youngest Blackstaff in the city's history.
+- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, the youngest Blackstaff in the city's history.
 - Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
-- The **Xanathar Guild** is a criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history. They're currently trying to look respectable.
+- The **Xanathar Guild** is the city's best-known criminal gang, and people say its boss is a beholder.
+- The **Zhentarim** are mercenaries with a bad history who are currently working hard to look respectable.
 - The **Dock Ward** after dark is dangerous. The **City of the Dead** after dark is worse.
 
 ### The Death Curse
@@ -57,7 +57,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 ## You know the gods and their houses
 *Because: Religion proficiency · Hermit background · a follower of Chauntea*
 
-- Waterdeep is tolerant. Almost any god may be worshipped, as long as its followers obey the law. Temples to evil gods are not welcome to operate openly.
+- Waterdeep is tolerant. Almost any god may be worshipped, as long as its followers obey the law, but temples to evil gods aren't allowed to operate openly.
 - **The Plinth** is a simple open shrine to all gods, where anyone may pray.
 - Two gods everyone in the city calls on:
   - **Tymora**, Lady Luck, for gamblers and adventurers.
@@ -96,7 +96,7 @@ Major temples, mostly in the Sea Ward and Castle Ward:
 - The curse touches only those who were **brought back from death**. Ordinary healing and ordinary death work as they always did. The difference is that death is now final.
 - The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed.
 - Temples are overwhelmed: the faithful demanding answers, families of the wasting begging for help, and donations drying up as the city's money goes elsewhere.
-- Adventurers used to treat death as a setback. Now they don't, and fewer of them are willing to go into Undermountain or take dangerous jobs.
+- Adventurers used to treat death as a setback. Now that it's final, fewer of them are willing to go into Undermountain or take dangerous jobs.
 
 - Families of the wasting are trying everything, and herbalists are asked for remedies daily. You know enough to see that nothing in your kit stops it.
 - With the temples overwhelmed, a healer who doesn't charge temple prices will never be short of patients.
@@ -132,7 +132,7 @@ Major temples, mostly in the Sea Ward and Castle Ward:
 
 - A link-boy who lights a young noble home most nights says the man is **Renaer Neverember**, son of the ousted Open Lord. According to the boy, Renaer stayed behind when his father left for Neverwinter and swears he's done with him. But he has a whole new crowd of friends buying his drinks, not all of them nobles, and the talk is always about his father's gold. The boy is certain Renaer knows where it's hidden. Why else would he have stayed?
 
-## Tools and languages
+## Tools, skills and languages
 - **Herbalism Kit:** you can brew remedies and healing potions. Now that death is final, people value anyone who can keep them alive.
 - **Carpenter's Tools:** in the city, carpentry is guild work, so you'd need the guild's leave to sell it.
 - **Animal Handling:** stablehands, carters and caravan masters always need someone animals trust.
