@@ -64,7 +64,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
   - **Waukeen**, goddess of trade, for merchants.
 - With so few adventurers left in the city, temples are more willing than usual to help those who remain. A capable sword arm is worth a discount on healing when the clergy need something done.
 
-Major temples, mostly in the Sea Ward and Castle Ward (⚠ verify locations):
+Major temples, mostly in the Sea Ward and Castle Ward:
 
 | Temple | God | Notes |
 |---|---|---|
@@ -96,7 +96,7 @@ Major temples, mostly in the Sea Ward and Castle Ward (⚠ verify locations):
 - **Fear makes people pious, reckless, or cruel.** Cults, charlatans selling "cures" and doom preachers are everywhere.
 
 - The curse touches only those who were **brought back from death**. Ordinary healing and ordinary death work as they always did. The difference is that death is now final.
-- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed. ⚠ verify against your rulings.
+- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed.
 - Temples are overwhelmed: the faithful demanding answers, families of the wasting begging for help, and donations drying up as the city's money goes elsewhere.
 - Adventurers used to treat death as a setback. Now they don't, and fewer of them are willing to go into Undermountain or take dangerous jobs.
 
@@ -125,7 +125,7 @@ Major temples, mostly in the Sea Ward and Castle Ward (⚠ verify locations):
 
 - Halflings rarely cluster in a separate quarter, but they look after each other. A halfling can usually find a meal and a warm floor at another halfling's home, if they're polite and don't steal from their host.
 
-- Halflings are underestimated, and some of them use that. The **Shard Shunners**, a gang of halfling thieves, work the sewers and cellars of the Dock Ward. ⚠ verify.
+- Halflings are underestimated, and some of them use that. The **Shard Shunners**, a gang of halfling thieves, work the sewers and cellars of the Dock Ward.
 
 - Halfling innkeepers and cooks hear everything said across their tables, and they're more likely to repeat it to another halfling.
 

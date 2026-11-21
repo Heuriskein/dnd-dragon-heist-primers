@@ -12,7 +12,7 @@
 - **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
 - The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
-- The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing. ⚠ verify whether you want them in your city.
+- The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing.
 - **Kenku** run messages and small jobs for whoever pays. They mimic voices, which makes them excellent spies and terrible witnesses.
 - The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
 

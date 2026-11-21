@@ -39,7 +39,7 @@ Send these links privately. They're not linked anywhere on the site, and search 
 
 ## Open items (as of 2026-11-19)
 - **One player still to come.** Player names and handles aren't known yet. Follow "Adding a character" in `CLAUDE.md`.
-- **18 `⚠ verify` flags** on public pages (Ahghairon's Tower birds, coin values, temple locations, noble house list, Shard Shunners, guild dues, zulkoon, and others). The build counts them. Resolve them before sharing links.
+- **Verify flags:** all resolved by the DM on 2026-11-20. The build prints a count if any new `⚠ verify` flags appear on public pages.
 - **Published 2026-11-19** (repo Heuriskein/dnd-dragon-heist-primers, Pages from `main` /docs). Pushing to `main` republishes. Links not shared with players yet.
 - **Rumor pool:** all six rumors are approved. The DM may add a few more before publishing, then rumors are frozen. Adding or removing an id redraws everyone.
 - **Offered, not decided:** a "guaranteed rumors" option, so a rumor like `neverember-renaer` (which sets up Chapter 1) reaches at least one character.

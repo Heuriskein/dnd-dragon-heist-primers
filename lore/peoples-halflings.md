@@ -8,4 +8,4 @@
 - Halflings rarely cluster in a separate quarter, but they look after each other. A halfling can usually find a meal and a warm floor at another halfling's home, if they're polite and don't steal from their host.
 
 ## Expert
-- Halflings are underestimated, and some of them use that. The **Shard Shunners**, a gang of halfling thieves, work the sewers and cellars of the Dock Ward. ⚠ verify.
+- Halflings are underestimated, and some of them use that. The **Shard Shunners**, a gang of halfling thieves, work the sewers and cellars of the Dock Ward.

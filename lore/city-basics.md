@@ -27,9 +27,8 @@ Waterdeep, the City of Splendors: the largest and richest city on the Sword Coas
   | Dragon | gold | 1 gp |
   | Harbor moon | platinum crescent with electrum inlay | 50 gp |
   | Taol | brass trade-bar with a hole | 2 gp (only good in Waterdeep) |
-
-  ⚠ verify: the taol and harbor-moon values against the Dragon Heist book.
-- **Calendar.** The year runs by the Calendar of Harptos: twelve months of thirty days, with festival days between them. Midwinter is the great feast at the turn of the year. ⚠ verify the current year (DR) for your table.
+  
+- **Calendar.** The year runs by the Calendar of Harptos: twelve months of thirty days, with festival days between them. Midwinter is the great feast at the turn of the year. It is currently 1492 DR.
 
 ## Proficient
 

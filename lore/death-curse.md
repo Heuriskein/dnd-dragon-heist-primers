@@ -15,7 +15,7 @@ About three months ago, something went wrong with death itself.
 ## Proficient
 
 - The curse touches only those who were **brought back from death**. Ordinary healing and ordinary death work as they always did. The difference is that death is now final.
-- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed. ⚠ verify against your rulings.
+- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed.
 - Temples are overwhelmed: the faithful demanding answers, families of the wasting begging for help, and donations drying up as the city's money goes elsewhere.
 - Adventurers used to treat death as a setback. Now they don't, and fewer of them are willing to go into Undermountain or take dangerous jobs.
 

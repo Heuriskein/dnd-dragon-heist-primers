@@ -10,7 +10,7 @@
 
 ## Proficient
 
-Major temples, mostly in the Sea Ward and Castle Ward (⚠ verify locations):
+Major temples, mostly in the Sea Ward and Castle Ward:
 
 | Temple | God | Notes |
 |---|---|---|

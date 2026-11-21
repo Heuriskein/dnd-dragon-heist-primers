@@ -62,11 +62,11 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - Anyone who wants to practise magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
 
 - **The Watchful Order** licenses, polices and supports spellcasters. It also staffs the city's magical defenses and answers fire and magical emergencies. Members get access to shared libraries and spell supplies.
-- **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf. ⚠ verify: Force Grey's public profile in your game.
+- **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf.
 - **Halaster Blackcloak**, the Mad Mage, still haunts Undermountain, by most accounts. The dungeon reshapes itself, and its magical gates lead strange places.
 - Old wizards' towers are scattered across the city. Most are sealed or warded. Breaking in is foolish, and the wards are usually the least dangerous thing inside.
 
-- Ahghairon's Tower has stood sealed since his death. Its wards are said to let birds fly through but stop anything else. ⚠ verify: whether the wards let birds through, or stop them too (dead birds at its foot).
+- Ahghairon's Tower has stood sealed since his death. Its wards are said to let birds fly through but stop anything else.
 - The **walking statues** of Waterdeep are huge stone guardians that defended the city in past crises. Some still stand around the city, and their sleeping enchantments are a matter of scholarly debate.
 - Magic items surface in the city's markets regularly, often from Undermountain. Selling dangerous ones openly attracts the Watchful Order's attention.
 
@@ -84,7 +84,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - **Fear makes people pious, reckless, or cruel.** Cults, charlatans selling "cures" and doom preachers are everywhere.
 
 - The curse touches only those who were **brought back from death**. Ordinary healing and ordinary death work as they always did. The difference is that death is now final.
-- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed. ⚠ verify against your rulings.
+- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed.
 - Temples are overwhelmed: the faithful demanding answers, families of the wasting begging for help, and donations drying up as the city's money goes elsewhere.
 - Adventurers used to treat death as a setback. Now they don't, and fewer of them are willing to go into Undermountain or take dangerous jobs.
 
@@ -100,7 +100,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - Everybody has heard that Neverember **helped himself to the city treasury** before he was ousted. How much he took and where it went are the stuff of tavern arguments.
 
 - **The Lords.** The Lords have been secret since Ahghairon's time, so that no one could bribe or threaten them. The Open Lord is the exception, the public face that negotiates with foreign powers.
-- **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see. ⚠ verify how much of this your table uses.
+- **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see.
 - **Neverember's ouster.** He wasn't overthrown by the mob. The other Lords lost patience with an Open Lord who spent half his time in another city and spent the treasury freely. Laeral was chosen as a respected, steady replacement.
 - **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She once ruled Waterdeep in an earlier age, as the wife of the famous Lord Khelben "Blackstaff" Arunsun.
 - **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**.
@@ -109,7 +109,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - Nobles hold no formal power over commoners. Their power is money, land, connections and the expectation that they'll get what they want.
 - Noble youths ("the young bloods") are famous for parties, duels, and getting the Watch to look the other way.
 
-Notable houses and what they're known for (⚠ verify the list against the book before play):
+Notable houses and what they're known for:
 
 | House | Known for |
 |---|---|
@@ -167,7 +167,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 
 ## Tools and languages
 - **Calligrapher's Supplies:** the scribes and copyists of the city's temples, wizards and guilds always need a fine hand.
-- **Shawm, bagpipes and zulkoon:** loud, unusual and memorable. A zulkoon in particular is a rare sight on the Sword Coast. ⚠ verify the zulkoon's origin if it matters.
+- **Shawm, bagpipes and zulkoon:** loud, unusual and memorable. A zulkoon, a pump organ from distant Thay, is a rare sight on the Sword Coast.
 - **Gnomish, Common Sign Language, Common.**
 
 ## Your story

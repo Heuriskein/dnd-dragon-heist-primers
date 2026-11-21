@@ -7,7 +7,7 @@
 
 ## Proficient
 
-Notable houses and what they're known for (⚠ verify the list against the book before play):
+Notable houses and what they're known for:
 
 | House | Known for |
 |---|---|

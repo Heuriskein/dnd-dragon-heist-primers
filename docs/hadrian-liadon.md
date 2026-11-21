@@ -63,7 +63,7 @@ Flattery opens more doors than threats. New money and old money alike are easy m
 - Nobles hold no formal power over commoners. Their power is money, land, connections and the expectation that they'll get what they want.
 - Noble youths ("the young bloods") are famous for parties, duels, and getting the Watch to look the other way.
 
-Notable houses and what they're known for (⚠ verify the list against the book before play):
+Notable houses and what they're known for:
 
 | House | Known for |
 |---|---|
@@ -106,7 +106,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 - **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
 - The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
-- The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing. ⚠ verify whether you want them in your city.
+- The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing.
 - **Kenku** run messages and small jobs for whoever pays. They mimic voices, which makes them excellent spies and terrible witnesses.
 - The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
 
@@ -124,7 +124,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 - Guilds are political. Guildmasters sit at feasts with nobles, and some are probably Masked Lords.
 - The **Fellowship of Innkeepers** licenses taverns and inns. Open a tavern without their seal and you'll find the brewers won't sell to you.
 - The **Cellarers' and Plumbers' Guild** maintains the sewers. Their members know the tunnels better than anyone above ground.
-- Most guild dues run several dragons a year, plus a fee to register your shop. ⚠ verify exact dues if it matters for business plans.
+- Most guild dues run several dragons a year, plus a fee of a couple hundred dragons to register.
 - Caravans gather in the Southern Ward before heading inland. Caravan masters hire guards each season.
 
 - **The Harpers** are a secretive network who oppose tyranny and protect the weak. They're more legend than fact to most folk, and they like it that way.
@@ -151,7 +151,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 - Anyone who wants to practise magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
 
 - **The Watchful Order** licenses, polices and supports spellcasters. It also staffs the city's magical defenses and answers fire and magical emergencies. Members get access to shared libraries and spell supplies.
-- **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf. ⚠ verify: Force Grey's public profile in your game.
+- **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf.
 - **Halaster Blackcloak**, the Mad Mage, still haunts Undermountain, by most accounts. The dungeon reshapes itself, and its magical gates lead strange places.
 - Old wizards' towers are scattered across the city. Most are sealed or warded. Breaking in is foolish, and the wards are usually the least dangerous thing inside.
 
@@ -164,7 +164,7 @@ Notable houses and what they're known for (⚠ verify the list against the book 
 - **Fear makes people pious, reckless, or cruel.** Cults, charlatans selling "cures" and doom preachers are everywhere.
 
 - The curse touches only those who were **brought back from death**. Ordinary healing and ordinary death work as they always did. The difference is that death is now final.
-- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed. ⚠ verify against your rulings.
+- The **wasting** works like a slow countdown. The stronger the victim, the longer it takes, but no one recovers. Greater restoration, remove curse and wish have all reportedly failed.
 - Temples are overwhelmed: the faithful demanding answers, families of the wasting begging for help, and donations drying up as the city's money goes elsewhere.
 - Adventurers used to treat death as a setback. Now they don't, and fewer of them are willing to go into Undermountain or take dangerous jobs.
 

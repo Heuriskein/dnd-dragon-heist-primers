@@ -68,7 +68,7 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 - **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
 - The Dock Ward after dark is where you go to buy what you shouldn't, and where you lose your purse if you're careless.
 - **Fences** are the backbone of the trade. Most run a legitimate pawnshop or secondhand stall as a front and pay about a third of an item's value. They pay less for anything recognizable.
-- The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing. ⚠ verify whether you want them in your city.
+- The **Shard Shunners** are a gang of halfling thieves who work the sewers and cellars of the Dock Ward. They're small, organized, and good at disappearing.
 - **Kenku** run messages and small jobs for whoever pays. They mimic voices, which makes them excellent spies and terrible witnesses.
 - The City Watch tolerates a certain amount of vice in the Dock Ward. Violence and anything that touches nobles brings them down hard.
 
@@ -86,7 +86,7 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 
 - Halflings rarely cluster in a separate quarter, but they look after each other. A halfling can usually find a meal and a warm floor at another halfling's home, if they're polite and don't steal from their host.
 
-- Halflings are underestimated, and some of them use that. The **Shard Shunners**, a gang of halfling thieves, work the sewers and cellars of the Dock Ward. ⚠ verify.
+- Halflings are underestimated, and some of them use that. The **Shard Shunners**, a gang of halfling thieves, work the sewers and cellars of the Dock Ward.
 
 - Gnomes are drawn to the city's workshops, alchemists and wizards. Many work in the **Trades Ward** as tinkers, jewelers and lens-makers.
 
@@ -106,7 +106,7 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 - Everybody has heard that Neverember **helped himself to the city treasury** before he was ousted. How much he took and where it went are the stuff of tavern arguments.
 
 - **The Lords.** The Lords have been secret since Ahghairon's time, so that no one could bribe or threaten them. The Open Lord is the exception, the public face that negotiates with foreign powers.
-- **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see. ⚠ verify how much of this your table uses.
+- **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see.
 - **Neverember's ouster.** He wasn't overthrown by the mob. The other Lords lost patience with an Open Lord who spent half his time in another city and spent the treasury freely. Laeral was chosen as a respected, steady replacement.
 - **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She once ruled Waterdeep in an earlier age, as the wife of the famous Lord Khelben "Blackstaff" Arunsun.
 - **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**.
@@ -115,7 +115,7 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 - Nobles hold no formal power over commoners. Their power is money, land, connections and the expectation that they'll get what they want.
 - Noble youths ("the young bloods") are famous for parties, duels, and getting the Watch to look the other way.
 
-Notable houses and what they're known for (⚠ verify the list against the book before play):
+Notable houses and what they're known for:
 
 | House | Known for |
 |---|---|
