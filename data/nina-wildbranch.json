@@ -39,11 +39,11 @@
                  "socialName":  null,
                  "gender":  "Female",
                  "faith":  "Chauntea",
-                 "age":  null,
-                 "hair":  null,
+                 "age":  67,
+                 "hair":  "",
                  "eyes":  null,
-                 "skin":  "",
-                 "height":  null,
+                 "skin":  "Tanned",
+                 "height":  "",
                  "weight":  null,
                  "inspiration":  false,
                  "baseHitPoints":  8,
@@ -764,14 +764,14 @@
                                "otherHoldings":  null,
                                "organizations":  null,
                                "enemies":  null,
-                               "backstory":  null,
+                               "backstory":  "Older halfling druid from the middle of nowhere (forest) on a grand adventure into the city",
                                "otherNotes":  null
                            },
                  "traits":  {
-                                "personalityTraits":  null,
-                                "ideals":  null,
+                                "personalityTraits":  "“I am relentlessly optimistic, even in circumstances that absolutely do not warrant optimism.”\n\n“I treat every living thing with tenderness, but become genuinely terrifying when someone threatens those under my protection.”",
+                                "ideals":  "“Everything deserves a little kindness. Yes, even the thing currently trying to eat us.”",
                                 "bonds":  null,
-                                "flaws":  null,
+                                "flaws":  "Has the tendency to burst into song",
                                 "appearance":  null
                             },
                  "preferences":  {
@@ -819,7 +819,7 @@
                                                           "weightMultiplier":  1,
                                                           "capacity":  null,
                                                           "capacityWeight":  0,
-                                                          "type":  "Shield",
+                                                          "type":  "",
                                                           "description":  "\u003cp\u003eShields require the Utilize action to Don or Doff. You gain the Armor Class benefit of a Shield only if you have training with it.\u003c/p\u003e",
                                                           "canAttune":  false,
                                                           "attunementDescription":  null,
@@ -1441,7 +1441,7 @@
                                                           "grantedModifiers":  [
 
                                                                                ],
-                                                          "subType":  null,
+                                                          "subType":  "Tool",
                                                           "isConsumable":  false,
                                                           "weaponBehaviors":  [
 
@@ -11110,6 +11110,17 @@
                                                          "characterName":  "Nina Wildbranch",
                                                          "characterUrl":  "/profile/Anyheart/characters/173827085",
                                                          "avatarUrl":  "https://www.dndbeyond.com/avatars/60096/211/1581111423-173827085.jpeg?width=150\u0026height=150\u0026fit=crop\u0026quality=95\u0026auto=webp",
+                                                         "privacyType":  3,
+                                                         "campaignId":  null,
+                                                         "isAssigned":  true
+                                                     },
+                                                     {
+                                                         "userId":  116702353,
+                                                         "username":  "MikeJ08377",
+                                                         "characterId":  173831502,
+                                                         "characterName":  "MikeJ08377\u0027s Character",
+                                                         "characterUrl":  "/profile/MikeJ08377/characters/173831502",
+                                                         "avatarUrl":  null,
                                                          "privacyType":  2,
                                                          "campaignId":  null,
                                                          "isAssigned":  true
@@ -11125,7 +11136,7 @@
                  "optionalClassFeatures":  [
 
                                            ],
-                 "dateModified":  "2026-11-21T02:26:09.631142Z",
+                 "dateModified":  "2026-11-21T02:44:50.616963Z",
                  "providedFrom":  "database",
                  "canEdit":  false,
                  "status":  0,

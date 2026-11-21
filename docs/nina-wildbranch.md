@@ -9,7 +9,7 @@ sitemap: false
 {: .no_toc }
 *Halfling druid, newly down from the wilds*
 
-You've spent years far from any town, with the forest for company. Waterdeep is loud, crowded and paved over, but people still get sick, the seasons still turn, and the gods still listen.
+You've spent most of a long life deep in the forest, far from any town. Now you've come to Waterdeep for an adventure. It's loud, crowded and paved over, but people still get sick, the seasons still turn, and the gods still listen.
 
 - TOC
 {:toc}
@@ -142,5 +142,6 @@ Major temples, mostly in the Sea Ward and Castle Ward:
 - **Elvish, Halfling, Common.**
 
 ## Your story
-- *Not written yet. Talk to your DM about where Nina lived, what drew her out of solitude, and why she came to Waterdeep. This section will grow with your backstory.*
+- You're older than most people who set out on a grand adventure, and you've come a long way: from a forest in the middle of nowhere to the greatest city on the Sword Coast.
+- *The rest is yours to fill in. Talk to your DM about what finally drew you out of the forest, and who or what you left behind.*
 
