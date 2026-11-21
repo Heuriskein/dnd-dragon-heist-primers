@@ -18,9 +18,10 @@ $utf8   = New-Object System.Text.UTF8Encoding $false
 $nl     = "`n"
 
 # --- spoiler rules (see CLAUDE.md) ---------------------------------------
-# Banned on every generated page, hidden pages included.
+# Banned on every generated page, secret sections included.
 $banned = 'manshoon|golorr|kolat|zord|vault|devil|asmodeus|fireball|soulmonger|acererak|\bomu\b|ras nsi|trickster gods'
-# Allowed only on hidden secret pages (docs/s/).
+# Secret-tier text: allowed only inside the secret sections of characters who
+# qualify (see mapping.md). Everything else on every page is checked for it.
 $secret = 'chult|nyanzaru|laeral[^.\n]*\b(wasting|afflicted|cursed|dying|ill)\b'
 # Public pages must not tie Laeral's absence to the curse (same line).
 $laeralCurse = '(laeral|open lord)[^\n]*(curse|wasting)|(curse|wasting)[^\n]*(laeral|open lord)'
@@ -159,6 +160,7 @@ function Format-FrontMatter([System.Collections.IDictionary]$fm) {
 # --- build pages in memory -----------------------------------------------
 $pages = [ordered]@{}   # relative path -> content
 $chars = @()
+$pageSecrets = [ordered]@{}   # page path -> rendered secret sections (exempt from secret checks)
 $rumorPool = Get-RumorPool
 $draftUse = @()
 
@@ -193,6 +195,33 @@ foreach ($f in $charFiles) {
         if ($s.extra) { $out += (Format-Bullets $s.extra); $out += '' }
     }
 
+    # Secret knowledge: woven in as ordinary sections, styled like every other
+    # section, so nothing marks it as special. Only qualifying characters list
+    # secrets (mapping.md -> "Secret knowledge").
+    if ($c.PSObject.Properties.Name -contains 'secretPage') {
+        throw "$($f.Name): remove 'secretPage'. Secrets are now sections on the character page."
+    }
+    $secretBlocks = @()
+    foreach ($sec in @($c.secrets | Where-Object { $_ })) {
+        if (-not $sec.because) { throw "$($f.Name): secret '$($sec.id)' needs 'because'" }
+        $s = Get-Secret $sec.id
+        $heading = if ($sec.heading) { $sec.heading } else { $s.Title }
+        # Character extras go at the module's <!-- extras --> marker, or at the end.
+        $extra = ''
+        if ($sec.extra) { $extra = Format-Bullets $sec.extra }
+        if ($s.Body -match '<!-- extras -->') {
+            $body = (($s.Body -replace '<!-- extras -->', $extra) -replace '\n{3,}', ($nl + $nl)).Trim()
+        } else {
+            $body = $s.Body
+            if ($extra) { $body += $nl + $nl + $extra }
+        }
+        $block = (@("## $heading", "*Because: $($sec.because)*", '', $body) -join $nl)
+        $secretBlocks += $block
+        $out += $block
+        $out += ''
+    }
+    $pageSecrets["$($c.slug).md"] = $secretBlocks
+
     # Rumors: drawn by the build, seeded from the slug and the pool's ids.
     if ($c.PSObject.Properties.Name -contains 'rumors') {
         throw "$($f.Name): remove 'rumors'. Rumors are drawn by the build from lore\rumors.md."
@@ -219,40 +248,6 @@ foreach ($f in $charFiles) {
         $out += ''
     }
     $pages["$($c.slug).md"] = ($out -join $nl)
-
-    # Hidden secret page
-    $secrets = @($c.secrets | Where-Object { $_ })
-    if ($secrets.Count -gt 0) {
-        if (-not $c.secretPage) {
-            $suggest = ($c.slug -split '-')[0] + '-' + [guid]::NewGuid().ToString('N').Substring(0, 16)
-            throw "$($f.Name): has secrets but no 'secretPage'. Add e.g. ""secretPage"": ""$suggest"""
-        }
-        $first = ($c.name -split ' ')[0]
-        $fm = [ordered]@{ title = "For $first Only"; nav_exclude = $true; search_exclude = $true; sitemap = $false }
-        $out = @(
-            (Format-FrontMatter $fm), '',
-            "# For $first only", '{: .no_toc }', '',
-            "*This page is just for you. It isn't linked from anywhere on the site. Share what's here with the party in play if you choose, not by passing on the link.*", ''
-        )
-        foreach ($sec in $secrets) {
-            $s = Get-Secret $sec.id
-            $out += "## $($s.Title)"
-            if ($sec.because) { $out += "*Because: $($sec.because)*" }
-            $out += ''
-            # Character extras go at the module's <!-- extras --> marker, or at the end.
-            $extra = ''
-            if ($sec.extra) { $extra = Format-Bullets $sec.extra }
-            if ($s.Body -match '<!-- extras -->') {
-                $body = $s.Body -replace '<!-- extras -->', $extra
-                $out += (($body -replace '\n{3,}', ($nl + $nl)).Trim())
-            } else {
-                $out += $s.Body
-                if ($extra) { $out += ''; $out += $extra }
-            }
-            $out += ''
-        }
-        $pages["s/$($c.secretPage).md"] = ($out -join $nl)
-    }
 }
 
 # Home page: a welcome only. It must never list or link character pages;
@@ -269,17 +264,16 @@ $errors = @()
 $warnFlags = 0
 foreach ($p in $pages.Keys) {
     $text = $pages[$p]
-    $isSecret = $p.StartsWith('s/')
     foreach ($m in [regex]::Matches($text, $banned, 'IgnoreCase')) { $errors += "${p}: banned spoiler '$($m.Value)'" }
-    if (-not $isSecret) {
-        foreach ($m in [regex]::Matches($text, $secret, 'IgnoreCase')) { $errors += "${p}: secret-tier text '$($m.Value)' on a public page" }
-        # Rumors the DM marked ALLOW-LAERAL-CURSE are exempt from this one check.
-        $laeralText = $text
-        foreach ($id in $script:rumorAllowLaeralCurse) { $laeralText = $laeralText.Replace($rumorPool[$id], '') }
-        foreach ($m in [regex]::Matches($laeralText, $laeralCurse, 'IgnoreCase')) { $errors += "${p}: ties Laeral to the curse: '$($m.Value)'" }
-        if ($text -match '\]\((\.\./)?s/') { $errors += "${p}: links to a hidden page" }
-        $warnFlags += ([regex]::Matches($text, [string][char]0x26A0)).Count
-    }
+    # The character's own secret sections are exempt from the secret checks;
+    # everything else on the page must be clean.
+    $rest = $text
+    if ($pageSecrets.Contains($p)) { foreach ($b in $pageSecrets[$p]) { $rest = $rest.Replace($b, '') } }
+    foreach ($m in [regex]::Matches($rest, $secret, 'IgnoreCase')) { $errors += "${p}: secret-tier text '$($m.Value)' outside a secret section" }
+    # Rumors the DM marked ALLOW-LAERAL-CURSE are exempt from this one check.
+    foreach ($id in $script:rumorAllowLaeralCurse) { $rest = $rest.Replace($rumorPool[$id], '') }
+    foreach ($m in [regex]::Matches($rest, $laeralCurse, 'IgnoreCase')) { $errors += "${p}: ties Laeral to the curse: '$($m.Value)'" }
+    $warnFlags += ([regex]::Matches($text, [string][char]0x26A0)).Count
 }
 if ($errors.Count -gt 0) {
     $errors | ForEach-Object { Write-Host "FAIL $_" -ForegroundColor Red }
@@ -333,7 +327,7 @@ foreach ($p in $pages.Keys) {
     Write-Host "wrote docs/$p"
 }
 [IO.File]::WriteAllText($manifestPath, ($newManifest | ConvertTo-Json) + $nl, $utf8)
-Write-Host "OK: $($chars.Count) character page(s), $(@($pages.Keys | Where-Object { $_.StartsWith('s/') }).Count) hidden page(s)."
+Write-Host "OK: $($chars.Count) character page(s), $(@($pageSecrets.Values | ForEach-Object { $_ } | Where-Object { $_ }).Count) secret section(s)."
 if ($warnFlags -gt 0) { Write-Host "Note: $warnFlags verify flag(s) still on public pages. Resolve before sharing links." -ForegroundColor Yellow }
 if ($draftUse.Count -gt 0) {
     Write-Host "Note: $($draftUse.Count) DRAFT rumor(s) on pages. Approve them (remove DRAFT from the DM: line) before sharing links:" -ForegroundColor Yellow

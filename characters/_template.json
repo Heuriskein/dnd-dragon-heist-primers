@@ -18,6 +18,5 @@
   ],
   "lists": [ { "heading": "Languages", "items": [ "**Language:** what it gets them in Waterdeep." ] } ],
   "story": [ "Bullets from backstory the player is happy to make public." ],
-  "secretPage": "first-0123456789abcdef",
   "secrets": [ { "id": "chult", "because": "Investigation proficiency.", "extra": [ "Optional." ] } ]
 }

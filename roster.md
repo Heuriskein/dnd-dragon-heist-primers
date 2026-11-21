@@ -26,16 +26,15 @@ Send each player only their own link. Nothing on the site lists or links them.
 | Nixy Thrumdazzle | https://heuriskein.github.io/dnd-dragon-heist-primers/nixy-thrumdazzle.html |
 | Nina Wildbranch | https://heuriskein.github.io/dnd-dragon-heist-primers/nina-wildbranch.html |
 
-## Hidden secret pages (sent privately)
+## Secret knowledge
+Woven into each qualifying character's own page as ordinary sections (since 2026-11-20). There are no separate secret pages; the old `s/` links no longer exist.
 
-Send these links privately. They're not linked anywhere on the site, and search leaves them out.
-
-| Character | Page | Secrets |
-|---|---|---|
-| Nixy Thrumdazzle | https://heuriskein.github.io/dnd-dragon-heist-primers/s/nixy-34bfdf06af15a237.html | Laeral is afflicted; the curse comes from Chult |
-| Finnian Goodbarrel | https://heuriskein.github.io/dnd-dragon-heist-primers/s/finnian-a732cf2f808b2cde.html | The curse comes from Chult |
-| Hadrian Liadon | (none) | Doesn't qualify |
-| Nina Wildbranch | (none) | Doesn't qualify (no History, no Investigation) |
+| Character | Secrets |
+|---|---|
+| Nixy Thrumdazzle | Laeral is afflicted; the curse comes from Chult |
+| Finnian Goodbarrel | The curse comes from Chult |
+| Hadrian Liadon | Doesn't qualify |
+| Nina Wildbranch | Doesn't qualify (no History, no Investigation) |
 
 ## Open items (as of 2026-11-19)
 - **One player still to come.** Player names and handles aren't known yet. Follow "Adding a character" in `CLAUDE.md`.

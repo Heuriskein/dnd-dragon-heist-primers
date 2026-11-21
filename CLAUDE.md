@@ -23,13 +23,12 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
     - **The vault:** the DM wants no hints beyond "there is a vault". Don't tease Aurinax. The joke, sighting and pearl-buyer ideas were all rejected.
     - **Renaer Neverember** was deliberately removed from the lore. He appears only in the `neverember-renaer` rumor, and his identity comes only through the link-boy.
   - `characters/<slug>.json`: one per character. See `characters/_template.json`; files starting with `_` are skipped.
-- The output is `docs/<slug>.md` per character and `docs/s/<secretPage>.md` hidden pages. `docs/index.md` is a welcome page only (the theme's site title links to it). **It must never list or link character pages** (DM's call: players shouldn't wander into each other's pages). Every page is unlisted (`nav_exclude`, `search_exclude`, `sitemap: false`) and search is off in `docs/_config.yml`. Each player gets only their own link from `roster.md`. Don't add a character list, nav entries or cross-links.
+- The output is `docs/<slug>.md` per character. **Secret knowledge is woven into the qualifying character's own page** as ordinary sections, with the same heading and *Because:* format as everything else, placed before the rumors. There are no separate secret pages (DM, 2026-11-20: a separate page 'privileges the data in it'; nothing should mark secrets as special). Optional `heading` on a secret entry overrides the secret's title. `docs/index.md` is a welcome page only (the theme's site title links to it). **It must never list or link character pages** (DM's call: players shouldn't wander into each other's pages). Every page is unlisted (`nav_exclude`, `search_exclude`, `sitemap: false`) and search is off in `docs/_config.yml`. Each player gets only their own link from `roster.md`. Don't add a character list, nav entries or cross-links.
 - **Tiers stack:** a module at `expert` includes its Common and Proficient text too. Links inside lore are reduced to plain text, because the lore library isn't published.
 - The build refuses to write anything if:
   - a banned spoiler appears anywhere;
-  - secret-tier text (Chult, Nyanzaru, Laeral as wasting/afflicted) appears on a public page;
-  - a public line ties Laeral or the Open Lord to the curse;
-  - a page links to `s/`.
+  - secret-tier text (Chult, Nyanzaru, Laeral as wasting/afflicted) appears anywhere except a qualifying character's own secret sections;
+  - a line outside a secret section ties Laeral or the Open Lord to the curse.
 
   It also reports how many `⚠` flags are left on public pages, and which DRAFT rumors are on pages.
 - After building, review `git diff docs/` before committing: it is exactly what will be published.
@@ -68,6 +67,6 @@ The DM is running Waterdeep: Dragon Heist with **Winter / Manshoon & Zhentarim**
    Write `data/<slug>.md` in the same format as `data/finnian-goodbarrel.md`.
 4. Choose modules and tiers with `mapping.md`. Write `characters/<slug>.json` from `characters/_template.json`. Every section needs a `because`. Put character-specific angles in `lead` and `extra`, not in shared lore.
 5. Set `"investigation"` (none, proficient or expert). The build draws the rumors.
-6. Secret knowledge: apply `mapping.md` → "Secret knowledge" (the bar is **proficiency**). If the character qualifies, add `secrets` and a `secretPage` of `<first-name>-<16 random hex>`. The build suggests one if it's missing.
+6. Secret knowledge: apply `mapping.md` → "Secret knowledge" (the bar is **proficiency**). If the character qualifies, add `secrets` (each needs a `because`). They appear as sections on the character's page.
 7. If the character needs lore that doesn't exist yet (e.g. a new ancestry or faction), add a tiered module to `lore/`.
-8. Run the build, review `git diff docs/`, and update `roster.md` (status, plus the hidden page path for the DM to send privately).
+8. Run the build, review `git diff docs/`, and update `roster.md` (status and page link).

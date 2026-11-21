@@ -61,7 +61,7 @@ How a character's sheet decides which lore tiers they get. A primer section must
 - **Languages:** Thieves' Cant → underworld cant sigils. Racial languages → that community.
 
 ## Secret knowledge (never on public pages)
-These are DM-gated. Only characters who meet the bar learn them, and their text lives only in `lore/secrets/` and is published only on hidden pages.
+These are DM-gated. Only characters who meet the bar learn them, and their text lives only in `lore/secrets/` and is published only on the qualifying character's own page.
 
 | Secret | Who can know it | What they know |
 |---|---|---|
@@ -73,7 +73,7 @@ These are DM-gated. Only characters who meet the bar learn them, and their text 
 - **Why proficiency:** at level 1, nobody has expertise in these skills, and a modifier bar would hinge on ability scores rather than training. Proficiency reflects what the character has actually studied or done.
 - **How to apply it:** check the character's proficiency and expertise list (`modifiers` of type `proficiency`/`expertise`) for the exact skills. Proficiency from any source counts: class, background, race or feat. Ability scores and modifiers don't matter. Laeral needs **History AND (Arcana OR Religion)**. Chult needs **Investigation**.
 - **Results so far:** Nixy gets both (History, Arcana, Investigation). Finnian gets Chult (Investigation; History alone isn't enough for Laeral). Hadrian gets neither (Arcana without History, and no Investigation).
-- **Delivery:** a hidden page per qualifying character at `docs/s/<first-name>-<16 random hex>.md`. It isn't linked from the site and is excluded from nav, search and sitemap. The DM sends the link privately. Anyone browsing the repo could still find it, and the DM accepted that. See step 6 in `CLAUDE.md`.
+- **Delivery:** woven into the character's own page as ordinary sections (changed 2026-11-20; hidden pages were dropped because a separate page highlights its contents). The build allows secret text only inside that character's secret sections. See step 6 in `CLAUDE.md`.
 - If a character gains a qualifying proficiency later (e.g. through a feat at a level-up), they qualify then. Re-check on level-ups if the DM asks.
 
 ## Tier choices so far (DM-adjusted, 2026-11-19)
