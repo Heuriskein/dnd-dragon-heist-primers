@@ -4,7 +4,6 @@ The temples and wizards are still arguing about causes. Follow the money and the
 
 - The city's quiet expeditions have sailed for **Port Nyanzaru**, Chult's great harbor.
 - Sages who've studied the curse keep circling back to that region.
-- Few people know this, and fewer talk about it.
 <!-- extras -->
 
 You don't know *what* in Chult is causing it. Only that the answer lies there.

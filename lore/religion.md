@@ -6,7 +6,7 @@
 - Two gods everyone in the city calls on:
   - **Tymora**, Lady Luck, for gamblers and adventurers.
   - **Waukeen**, goddess of trade, for merchants.
-- With so few adventurers left in the city, temples are more willing than usual to help those who remain. A capable sword arm is worth a discount on healing when the clergy need something done.
+
 
 ## Proficient
 

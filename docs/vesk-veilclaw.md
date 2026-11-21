@@ -75,9 +75,6 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 A wayfarer learns fast who to trust, and you read people well enough to spot the ones who are working an angle.
 
 - Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
-- The **Xanathar Guild** is the best-known criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history, currently trying to look respectable.
-- The Dock Ward after dark is dangerous.
 
 - **The Xanathar Guild's** boss, "the Xanathar," is said to live somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward. They're everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
 - **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
@@ -90,8 +87,8 @@ A wayfarer learns fast who to trust, and you read people well enough to spot the
 ## You know where travelers end up
 *Because: Wayfarer background · Athletics and Acrobatics*
 
-- **The Yawning Portal** in the Castle Ward is a famous tavern built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
-- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and seat of government.
+- **The Yawning Portal** stands in the Castle Ward, built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
+- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and the heart of the city's defenses. The Lords meet at the nearby **Palace of Waterdeep**.
 - **The Field of Triumph** in the Sea Ward hosts games, contests, executions and festivals.
 - **The City of the Dead** is a walled cemetery. It's lovely by day, and nobody sane goes in after the gates close at sunset.
 - **Mount Waterdeep** rises above the city, with the Castle and the harbor's watchtowers on its face.
@@ -113,7 +110,7 @@ A wayfarer learns fast who to trust, and you read people well enough to spot the
 ## Tools and languages
 - **Thieves' Tools:** locks are puzzles. In Waterdeep, opening one that isn't yours is a crime, and the Watch won't care that you were curious.
 - **Flute:** enough to earn a meal in a tavern that's short of musicians.
-- **Draconic:** see above. Wizards and old books use its script.
+- **Draconic:** see above.
 - **Elvish:** you learned it copying old texts, and you can read what most city folk can't. Waterdeep's elves are few, but its libraries hold plenty of elven writing.
 - **Common.**
 

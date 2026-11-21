@@ -42,7 +42,7 @@
     {
       "heading": "You notice things",
       "because": "Investigation and Perception proficiency · Alert · a thief's habits (Criminal background)",
-      "lead": "You also know the routes and shortcuts every working thief learns.",
+      "lead": "You know the routes and shortcuts every working thief learns.",
       "lore": [ { "module": "places", "tier": "proficient" } ],
       "extra": [
         "Watch patrols are thinnest where wards meet, and their timing is predictable within a ward.",

@@ -1,9 +1,8 @@
 # Arcana
 
 ## Common
-- **Blackstaff Tower** in the Castle Ward is home of the **Blackstaff**, the city's archmage and protector. The current Blackstaff is **Vajra Safahr**, a young woman who took the title a few years ago.
-- **Undermountain** is the vast dungeon beneath Mount Waterdeep, reached most famously through the well in the **Yawning Portal** tavern. Adventurers go down. Some come back.
-- Anyone who wants to practise magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
+- **Blackstaff Tower** in the Castle Ward is home of the **Blackstaff**, the city's archmage and protector. The current Blackstaff is **Vajra Safahr**, a young woman who has held the title for over a decade.
+- Anyone who wants to practice magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
 
 ## Proficient
 

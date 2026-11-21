@@ -8,4 +8,4 @@
 - **The House of Inspired Hands**, Gond's temple, is popular with gnomish inventors.
 
 ## Expert
-- **Garl Glittergold** keeps a smaller shrine of his own, where pranks count as offerings.
+- **Garl Glittergold** has a smaller shrine of his own, where pranks count as offerings.

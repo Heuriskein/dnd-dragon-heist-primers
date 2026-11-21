@@ -4,8 +4,7 @@ About three months ago, something went wrong with death itself.
 
 ## Common
 
-- **The dead stay dead.** Spells that bring the dead back to life no longer work. Priests of every faith have tried. The magic simply fails.
-- **The wasting.** Anyone who was ever brought back from the dead is now slowly wasting away. Day by day they grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
+- **The wasting.** Day by day its victims grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
 - **Nobody knows why.** Every temple, wizard and street-corner prophet has a theory. None of them has a cure.
 - **The city has paid dearly.** Waterdeep has spent huge sums hunting for answers: hiring priests and sages, buying rare magic, funding expeditions. Many of the city's adventurers took that coin and left, or died trying. Many of the rest left on their own.
 - **Adventurers are scarce**, so jobs that used to go to famous names now go to anyone willing. That means opportunity for new faces.
@@ -21,5 +20,5 @@ About three months ago, something went wrong with death itself.
 
 ## Expert
 
-- As the money drains away, the Masked Lords are said to be quarrelling over priorities, and decisions are slow. Guilds and noble houses have noticed and are pushing their own interests.
+- As the money drains away, the Masked Lords are said to be quarreling over priorities, and decisions are slow. Guilds and noble houses have noticed and are pushing their own interests.
 - The city treasury, already short after Neverember's thefts, is stretched thinner. That makes the story of **Neverember's hidden gold** more than a tavern tale to a lot of people.

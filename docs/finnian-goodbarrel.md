@@ -60,9 +60,6 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 Freelancers like you get by on knowing whose turf you're standing on. Working Xanathar turf without permission is a quick way to get hurt.
 
 - Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
-- The **Xanathar Guild** is the best-known criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history, currently trying to look respectable.
-- The Dock Ward after dark is dangerous.
 
 - **The Xanathar Guild's** boss, "the Xanathar," is said to live somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward. They're everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
 - **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
@@ -102,13 +99,11 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 - Waterdeep began as a trading post where northern tribes and southern ships met at the best harbor on the coast. It grew into a walled city ruled by warlords, and then by the secret Lords.
 - **Ahghairon**, a legendary wizard, is credited with founding the Lords' system. His tower still stands in the Castle Ward, and nobody can open it.
 - **Lord Dagult Neverember** was Open Lord for years and also ruled Neverwinter as its Lord Protector. He was removed a few years ago, and **Laeral Silverhand** took his place. He's still alive and still in Neverwinter.
-- About three months ago the **Death Curse** struck. Since then the dead can't be raised, and the once-raised waste away. It's already the defining event of this year.
-- Everybody has heard that Neverember **helped himself to the city treasury** before he was ousted. How much he took and where it went are the stuff of tavern arguments.
 
 - **The Lords.** The Lords have been secret since Ahghairon's time, so that no one could bribe or threaten them. The Open Lord is the exception, the public face that negotiates with foreign powers.
 - **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see.
 - **Neverember's ouster.** He wasn't overthrown by the mob. The other Lords lost patience with an Open Lord who spent half his time in another city and spent the treasury freely. Laeral was chosen as a respected, steady replacement.
-- **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She once ruled Waterdeep in an earlier age, as the wife of the famous Lord Khelben "Blackstaff" Arunsun.
+- **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She lived in Waterdeep long ago as the partner of the famous archmage Khelben "Blackstaff" Arunsun.
 - **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**.
 
 - Waterdeep has around seventy-five noble families. Most made their fortunes in trade and keep villas in the Sea Ward and North Ward.
@@ -140,10 +135,10 @@ Notable houses and what they're known for:
 ## You notice things
 *Because: Investigation and Perception proficiency · Alert · a thief's habits (Criminal background)*
 
-You also know the routes and shortcuts every working thief learns.
+You know the routes and shortcuts every working thief learns.
 
-- **The Yawning Portal** in the Castle Ward is a famous tavern built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
-- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and seat of government.
+- **The Yawning Portal** stands in the Castle Ward, built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
+- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and the heart of the city's defenses. The Lords meet at the nearby **Palace of Waterdeep**.
 - **The Field of Triumph** in the Sea Ward hosts games, contests, executions and festivals.
 - **The City of the Dead** is a walled cemetery. It's lovely by day, and nobody sane goes in after the gates close at sunset.
 - **Mount Waterdeep** rises above the city, with the Castle and the harbor's watchtowers on its face.
@@ -166,7 +161,6 @@ The temples and wizards are still arguing about causes. Follow the money and the
 
 - The city's quiet expeditions have sailed for **Port Nyanzaru**, Chult's great harbor.
 - Sages who've studied the curse keep circling back to that region.
-- Few people know this, and fewer talk about it.
 - The ships were quietly chartered with city coin. Some of the crews haven't come back.
 - Smugglers and fences have noticed buyers paying silly money for anything out of Chult: charms, idols, maps, "cures."
 - The few people in the know keep their mouths shut, because a secret that size is worth something.

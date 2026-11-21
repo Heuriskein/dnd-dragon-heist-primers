@@ -7,7 +7,7 @@ The great organizations of the Sword Coast all keep a presence in Waterdeep. Thi
 - **The Lords' Alliance** is a coalition of Sword Coast cities, including Waterdeep, Neverwinter and Baldur's Gate, which work together for mutual defense and trade.
 - **The Order of the Gauntlet** is a holy order of knights and warriors who hunt evil. They're earnest, brave, and sometimes too eager.
 - **The Emerald Enclave** are druids, rangers and others who protect the natural world. They're rarely seen in the city.
-- **The Zhentarim** are mercenaries and traders with a dark history, now working hard to look respectable in Waterdeep.
+
 
 ## Proficient
 

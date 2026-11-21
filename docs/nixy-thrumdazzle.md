@@ -57,9 +57,8 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 ## You know magic and its institutions
 *Because: Sage background · Arcana proficiency · Magic Initiate (Wizard)*
 
-- **Blackstaff Tower** in the Castle Ward is home of the **Blackstaff**, the city's archmage and protector. The current Blackstaff is **Vajra Safahr**, a young woman who took the title a few years ago.
-- **Undermountain** is the vast dungeon beneath Mount Waterdeep, reached most famously through the well in the **Yawning Portal** tavern. Adventurers go down. Some come back.
-- Anyone who wants to practise magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
+- **Blackstaff Tower** in the Castle Ward is home of the **Blackstaff**, the city's archmage and protector. The current Blackstaff is **Vajra Safahr**, a young woman who has held the title for over a decade.
+- Anyone who wants to practice magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
 
 - **The Watchful Order** licenses, polices and supports spellcasters. It also staffs the city's magical defenses and answers fire and magical emergencies. Members get access to shared libraries and spell supplies.
 - **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf.
@@ -75,8 +74,7 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 ## You know the Death Curse as a scholar
 *Because: Arcana proficiency*
 
-- **The dead stay dead.** Spells that bring the dead back to life no longer work. Priests of every faith have tried. The magic simply fails.
-- **The wasting.** Anyone who was ever brought back from the dead is now slowly wasting away. Day by day they grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
+- **The wasting.** Day by day its victims grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
 - **Nobody knows why.** Every temple, wizard and street-corner prophet has a theory. None of them has a cure.
 - **The city has paid dearly.** Waterdeep has spent huge sums hunting for answers: hiring priests and sages, buying rare magic, funding expeditions. Many of the city's adventurers took that coin and left, or died trying. Many of the rest left on their own.
 - **Adventurers are scarce**, so jobs that used to go to famous names now go to anyone willing. That means opportunity for new faces.
@@ -96,13 +94,11 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - Waterdeep began as a trading post where northern tribes and southern ships met at the best harbor on the coast. It grew into a walled city ruled by warlords, and then by the secret Lords.
 - **Ahghairon**, a legendary wizard, is credited with founding the Lords' system. His tower still stands in the Castle Ward, and nobody can open it.
 - **Lord Dagult Neverember** was Open Lord for years and also ruled Neverwinter as its Lord Protector. He was removed a few years ago, and **Laeral Silverhand** took his place. He's still alive and still in Neverwinter.
-- About three months ago the **Death Curse** struck. Since then the dead can't be raised, and the once-raised waste away. It's already the defining event of this year.
-- Everybody has heard that Neverember **helped himself to the city treasury** before he was ousted. How much he took and where it went are the stuff of tavern arguments.
 
 - **The Lords.** The Lords have been secret since Ahghairon's time, so that no one could bribe or threaten them. The Open Lord is the exception, the public face that negotiates with foreign powers.
 - **The Spellplague and after.** About a century ago, magic itself went wrong across Faerûn. Waterdeep weathered it better than most. That period explains the odd ruins and abandoned towers you sometimes see.
 - **Neverember's ouster.** He wasn't overthrown by the mob. The other Lords lost patience with an Open Lord who spent half his time in another city and spent the treasury freely. Laeral was chosen as a respected, steady replacement.
-- **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She once ruled Waterdeep in an earlier age, as the wife of the famous Lord Khelben "Blackstaff" Arunsun.
+- **Laeral Silverhand** is one of the Seven Sisters, legendary chosen of the goddess Mystra, and is said to be centuries old. She lived in Waterdeep long ago as the partner of the famous archmage Khelben "Blackstaff" Arunsun.
 - **Halaster Blackcloak**, the "Mad Mage," built his lair beneath Mount Waterdeep long before the city grew. That is **Undermountain**.
 
 - Waterdeep has around seventy-five noble families. Most made their fortunes in trade and keep villas in the Sea Ward and North Ward.
@@ -130,8 +126,8 @@ Notable houses and what they're known for:
 ## You know the stages and the audiences
 *Because: Performance · Investigation*
 
-- **The Yawning Portal** in the Castle Ward is a famous tavern built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
-- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and seat of government.
+- **The Yawning Portal** stands in the Castle Ward, built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
+- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and the heart of the city's defenses. The Lords meet at the nearby **Palace of Waterdeep**.
 - **The Field of Triumph** in the Sea Ward hosts games, contests, executions and festivals.
 - **The City of the Dead** is a walled cemetery. It's lovely by day, and nobody sane goes in after the gates close at sunset.
 - **Mount Waterdeep** rises above the city, with the Castle and the harbor's watchtowers on its face.
@@ -155,7 +151,7 @@ Notable houses and what they're known for:
 - Gnomes value clever work and good jokes in about equal measure. A non-gnome who speaks Gnomish will find them surprisingly warm.
 - **The House of Inspired Hands**, Gond's temple, is popular with gnomish inventors.
 
-- **Garl Glittergold** keeps a smaller shrine of his own, where pranks count as offerings.
+- **Garl Glittergold** has a smaller shrine of his own, where pranks count as offerings.
 
 - A gnomish bard will rarely be short of an audience, or a bed.
 
@@ -185,7 +181,6 @@ The temples and wizards are still arguing about causes. Follow the money and the
 
 - The city's quiet expeditions have sailed for **Port Nyanzaru**, Chult's great harbor.
 - Sages who've studied the curse keep circling back to that region.
-- Few people know this, and fewer talk about it.
 
 You don't know *what* in Chult is causing it. Only that the answer lies there.
 

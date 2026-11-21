@@ -2,9 +2,7 @@
 
 ## Common
 - Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
-- The **Xanathar Guild** is the best-known criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history, currently trying to look respectable.
-- The Dock Ward after dark is dangerous.
+
 
 ## Proficient
 

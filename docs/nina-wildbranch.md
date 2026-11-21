@@ -62,7 +62,6 @@ It's cold, the harbor is half frozen, and work is scarce. **Midwinter** festivit
 - Two gods everyone in the city calls on:
   - **Tymora**, Lady Luck, for gamblers and adventurers.
   - **Waukeen**, goddess of trade, for merchants.
-- With so few adventurers left in the city, temples are more willing than usual to help those who remain. A capable sword arm is worth a discount on healing when the clergy need something done.
 
 Major temples, mostly in the Sea Ward and Castle Ward:
 
@@ -87,8 +86,7 @@ Major temples, mostly in the Sea Ward and Castle Ward:
 ## You know the Death Curse as a healer
 *Because: Medicine and Religion proficiency · Healer*
 
-- **The dead stay dead.** Spells that bring the dead back to life no longer work. Priests of every faith have tried. The magic simply fails.
-- **The wasting.** Anyone who was ever brought back from the dead is now slowly wasting away. Day by day they grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
+- **The wasting.** Day by day its victims grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
 - **Nobody knows why.** Every temple, wizard and street-corner prophet has a theory. None of them has a cure.
 - **The city has paid dearly.** Waterdeep has spent huge sums hunting for answers: hiring priests and sages, buying rare magic, funding expeditions. Many of the city's adventurers took that coin and left, or died trying. Many of the rest left on their own.
 - **Adventurers are scarce**, so jobs that used to go to famous names now go to anyone willing. That means opportunity for new faces.
@@ -108,7 +106,7 @@ Major temples, mostly in the Sea Ward and Castle Ward:
 
 - Winters are hard: snow, ice and freezing winds off the Sea of Swords. Shipping slows, and parts of the harbor freeze.
 - The city turns inward. Usually the taverns are packed all winter. This year the adventurers' haunts, like the Yawning Portal, have empty tables, with so many adventurers gone or dead. Nobles still hold their winter balls, and the poor of the Field Ward and Dock Ward struggle with cold and the price of firewood.
-- **Midwinter** is the great festival at the turn of the year: feasting, gift-giving and noble masquerades.
+- **Midwinter** is the great festival in the dead of winter, just after the first month of the year: feasting, gift-giving and noble masquerades.
 - This year the Death Curse hangs over everything. Midwinter will be quieter, and many families are mourning someone who wasted away.
 
 - Dock work dries up in winter. Idle sailors and laborers fill the dockside taverns, and petty crime rises.
@@ -138,7 +136,7 @@ Major temples, mostly in the Sea Ward and Castle Ward:
 - **Herbalism Kit:** apothecaries and temple infirmaries are desperate for herbs this winter, and pay well for them.
 - **Carpenter's Tools:** you built your own shelter once. In the city, carpentry is guild work, so you'd need the guild's leave to sell it.
 - **Animal Handling:** stablehands, carters and caravan masters always need someone animals trust.
-- **Druidic:** the secret tongue of druids. Few in the city could even recognise it.
+- **Druidic:** the secret tongue of druids. Few in the city could even recognize it.
 - **Elvish, Halfling, Common.**
 
 ## Your story

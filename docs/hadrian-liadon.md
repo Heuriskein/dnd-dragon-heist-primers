@@ -84,8 +84,8 @@ Notable houses and what they're known for:
 ## You know where the games are
 *Because: gambler by temperament · Sleight of Hand · Perception*
 
-- **The Yawning Portal** in the Castle Ward is a famous tavern built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
-- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and seat of government.
+- **The Yawning Portal** stands in the Castle Ward, built around a huge well that leads into Undermountain. It's run by **Durnan**, a retired adventurer who doesn't tolerate trouble. Adventurers drink there before going down and celebrate there if they come back. Since the Death Curse, it's noticeably quieter: fewer adventurers, and those that remain are more subdued.
+- **Castle Waterdeep** dominates the slope of Mount Waterdeep: home of the City Guard and the heart of the city's defenses. The Lords meet at the nearby **Palace of Waterdeep**.
 - **The Field of Triumph** in the Sea Ward hosts games, contests, executions and festivals.
 - **The City of the Dead** is a walled cemetery. It's lovely by day, and nobody sane goes in after the gates close at sunset.
 - **Mount Waterdeep** rises above the city, with the Castle and the harbor's watchtowers on its face.
@@ -98,9 +98,6 @@ Notable houses and what they're known for:
 - **Performers** make a living in the taverns and festhalls. The best stages pay in coin. The rest pay in meals and tips, and sometimes in the notice of a noble patron.
 
 - Waterdeep has no single thieves' guild. Crime is split among rival gangs and organizations who don't trust each other.
-- The **Xanathar Guild** is the best-known criminal gang. People say its boss is a beholder.
-- The **Zhentarim** are mercenaries with a bad history, currently trying to look respectable.
-- The Dock Ward after dark is dangerous.
 
 - **The Xanathar Guild's** boss, "the Xanathar," is said to live somewhere beneath the city. Its thugs wear an eye-shaped symbol and run smuggling, protection and slaving out of the sewers and the Dock Ward. They're everywhere at street level: thugs, informants, sewer runners. Members say the boss is unpredictable and paranoid, and that failure is punished in creative ways.
 - **The Zhentarim**, or Black Network, is an old organization of mercenaries, caravan guards and traders. In Waterdeep they pose as respectable sellers of protection and guard work. The Xanathar Guild sees them as a threat, and street talk says the two sides have been bloodying each other quietly.
@@ -131,7 +128,6 @@ Notable houses and what they're known for:
 - **The Lords' Alliance** is a coalition of Sword Coast cities, including Waterdeep, Neverwinter and Baldur's Gate, which work together for mutual defense and trade.
 - **The Order of the Gauntlet** is a holy order of knights and warriors who hunt evil. They're earnest, brave, and sometimes too eager.
 - **The Emerald Enclave** are druids, rangers and others who protect the natural world. They're rarely seen in the city.
-- **The Zhentarim** are mercenaries and traders with a dark history, now working hard to look respectable in Waterdeep.
 
 - Faction membership is mostly informal: favors, contacts and shared goals. Members are expected to help each other.
 - Harpers communicate through coded messages, and pass recognition through a small silver harp pin, which is rarely worn openly.
@@ -146,17 +142,15 @@ Notable houses and what they're known for:
 ## You had an education whether you wanted one or not
 *Because: Arcana proficiency · a scholarly Evereskan upbringing*
 
-- **Blackstaff Tower** in the Castle Ward is home of the **Blackstaff**, the city's archmage and protector. The current Blackstaff is **Vajra Safahr**, a young woman who took the title a few years ago.
-- **Undermountain** is the vast dungeon beneath Mount Waterdeep, reached most famously through the well in the **Yawning Portal** tavern. Adventurers go down. Some come back.
-- Anyone who wants to practise magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
+- **Blackstaff Tower** in the Castle Ward is home of the **Blackstaff**, the city's archmage and protector. The current Blackstaff is **Vajra Safahr**, a young woman who has held the title for over a decade.
+- Anyone who wants to practice magic professionally in the city is expected to deal with the **Watchful Order of Magists and Protectors**.
 
 - **The Watchful Order** licenses, polices and supports spellcasters. It also staffs the city's magical defenses and answers fire and magical emergencies. Members get access to shared libraries and spell supplies.
 - **The Blackstaff** has traditionally been the Lords' magical right hand. Rumor says the Blackstaff commands a small team of elite adventurers on the city's behalf.
 - **Halaster Blackcloak**, the Mad Mage, still haunts Undermountain, by most accounts. The dungeon reshapes itself, and its magical gates lead strange places.
 - Old wizards' towers are scattered across the city. Most are sealed or warded. Breaking in is foolish, and the wards are usually the least dangerous thing inside.
 
-- **The dead stay dead.** Spells that bring the dead back to life no longer work. Priests of every faith have tried. The magic simply fails.
-- **The wasting.** Anyone who was ever brought back from the dead is now slowly wasting away. Day by day they grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
+- **The wasting.** Day by day its victims grow thinner and weaker, and no healing stops it. Some have already died, and they have not come back.
 - **Nobody knows why.** Every temple, wizard and street-corner prophet has a theory. None of them has a cure.
 - **The city has paid dearly.** Waterdeep has spent huge sums hunting for answers: hiring priests and sages, buying rare magic, funding expeditions. Many of the city's adventurers took that coin and left, or died trying. Many of the rest left on their own.
 - **Adventurers are scarce**, so jobs that used to go to famous names now go to anyone willing. That means opportunity for new faces.
@@ -188,7 +182,6 @@ Notable houses and what they're known for:
 - Two gods everyone in the city calls on:
   - **Tymora**, Lady Luck, for gamblers and adventurers.
   - **Waukeen**, goddess of trade, for merchants.
-- With so few adventurers left in the city, temples are more willing than usual to help those who remain. A capable sword arm is worth a discount on healing when the clergy need something done.
 
 - Waterdeep tolerates almost any faith that obeys the law. Nobody here will mind your god, though a few may watch their purses.
 
