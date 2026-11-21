@@ -34,9 +34,9 @@ You've lived on the wrong side of Waterdeep's law, and it shows in how you see t
 ### Living here
 - Coins: **nibs** (copper), **shards** (silver), **dragons** (gold), **harbor moons** (worth 50 dragons).
 - Carrying a weapon is legal. Using one, or hurting people with spells, is not. Fines are the usual punishment.
-- Nearly every trade has a guild. Guilds matter.
+- Beyond the Lords' few duties (the Code Legal, the City Watch and Guard, the walls, and the taxes that pay for them), the guilds run the city. Nearly every trade has one, and they wield real power.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
-- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr.
+- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, who is also the youngest Blackstaff in the city's history.
 - Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
@@ -80,7 +80,7 @@ Freelancers like you get by on knowing whose turf you're standing on. Working Xa
 *Because: Halfling ancestry · speaks Gnomish*
 
 - Halflings live all over the city. Many have been here for generations. They run inns, bakeries, and shops, and keep many of the city's kitchens and cellars working.
-- A small shrine to **Yondalla** serves the faithful, but most halflings worship at home and through hospitality.
+- A small shrine to **Yondalla** in the Undercliff serves the faithful, but most halflings worship at home and through hospitality.
 
 - Halflings rarely cluster in a separate quarter, but they look after each other. A halfling can usually find a meal and a warm floor at another halfling's home, if they're polite and don't steal from their host.
 

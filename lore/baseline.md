@@ -19,9 +19,9 @@
 ### Living here
 - Coins: **nibs** (copper), **shards** (silver), **dragons** (gold), **harbor moons** (worth 50 dragons).
 - Carrying a weapon is legal. Using one, or hurting people with spells, is not. Fines are the usual punishment.
-- Nearly every trade has a guild. Guilds matter.
+- Beyond the Lords' few duties (the Code Legal, the City Watch and Guard, the walls, and the taxes that pay for them), the guilds run the city. Nearly every trade has one, and they wield real power.
 - **The Yawning Portal** is the famous adventurers' tavern with a well down into **Undermountain**, the Mad Mage's dungeon.
-- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr.
+- **Blackstaff Tower** is home to the city's archmage, **the Blackstaff**, currently Vajra Safahr, who is also the youngest Blackstaff in the city's history.
 - Temples sell healing. With adventurers so scarce, they're readier than usual to help those who remain, especially in exchange for a favor.
 
 ### Dangers
